@@ -9,11 +9,13 @@ import { HighlightJsModule, HighlightJsService } from 'angular2-highlight-js';
 //
 import { AppComponent } from './app.component';
 import { HomeComponent } from './home/home.component';
+import { SoapUIRunnerHomeComponent } from './projects/soapui-runner-home/soapui-runner-home.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     HomeComponent,
+    SoapUIRunnerHomeComponent,
   ],
   imports: [
     BrowserModule,
