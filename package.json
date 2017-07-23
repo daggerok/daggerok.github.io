@@ -7,7 +7,7 @@
     "start": "ng serve --port 3000 --open",
     "build": "ng build --aot --prod",
     "lint": "ng lint",
-    "serve": "serve -p 8080 dist",
+    "serve": "serve --open --single --port 8080 dist",
     "stop": "kill -9 $(lsof -i tcp:3000 | grep -v PID | awk '{print $2}') | true"
   },
   "private": true,
