@@ -1,6 +1,6 @@
 {
   "name": "daggerok.github.io",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "license": "MIT",
   "scripts": {
     "ng": "ng",
@@ -9,11 +9,7 @@
     "lint": "ng lint",
     "serve": "serve --open --single --port 8080 dist",
     "stop": "kill -9 $(lsof -i tcp:3000 | grep -v PID | awk '{print $2}') | true",
-    "deploy": "npm-run-all deploy:*",
-    "deploy:build": "yarn build",
-    "deploy:nojekyll": "touch ./dist/.nojekyll",
-    "deploy:404": "ncp ./dist/index.html ./dist/404.html",
-    "deploy:gh-pages.fish": "fish ./bin/gh-pages.fish"
+    "deploy": "fish ./bin/gh-pages.fish"
   },
   "private": true,
   "dependencies": {

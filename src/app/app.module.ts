@@ -8,13 +8,11 @@ import { HighlightJsModule, HighlightJsService } from 'angular2-highlight-js';
 //
 import { AppComponent } from './app.component';
 import { HomeComponent } from './home/home.component';
-import { DisqusComponent } from './disqus/disqus.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     HomeComponent,
-    DisqusComponent,
   ],
   imports: [
     BrowserModule,
