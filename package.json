@@ -1,7 +1,7 @@
 {
   "name": "daggerok.gihub.io",
   "description": "daggerok.github.io",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "private": true,
   "dependencies": {
     "materialize-css": "0.100.0",
