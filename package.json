@@ -1,11 +1,11 @@
 {
   "name": "daggerok.github.io",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "license": "MIT",
   "scripts": {
     "ng": "ng",
     "start": "ng serve --port 3000 --open",
-    "build": "ng build --aot --prod",
+    "build": "ng build -aot -prod",
     "lint": "ng lint",
     "serve": "serve --open --single --port 8080 dist",
     "stop": "kill -9 $(lsof -i tcp:3000 | grep -v PID | awk '{print $2}') | true",
