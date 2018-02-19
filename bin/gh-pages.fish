@@ -1,5 +1,9 @@
 #!/usr/bin/fish
+
+# make sure you have `/dist` in your .gitinore
+
 export SOURCES_BRANCH=react
+
 git add .
 git commit --amend --no-edit
 npm version patch
