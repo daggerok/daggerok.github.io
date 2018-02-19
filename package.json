@@ -8,7 +8,12 @@
     "build": "ng build --aot --prod",
     "lint": "ng lint",
     "serve": "serve --open --single --port 8080 dist",
-    "stop": "kill -9 $(lsof -i tcp:3000 | grep -v PID | awk '{print $2}') | true"
+    "stop": "kill -9 $(lsof -i tcp:3000 | grep -v PID | awk '{print $2}') | true",
+    "deploy": "npm-run-all deploy:*",
+    "deploy:build": "yarn build",
+    "deploy:nojekyll": "touch ./dist/.nojekyll",
+    "deploy:404": "ncp ./dist/index.html ./dist/404.html",
+    "deploy:gh-pages.fish": "fish ./bin/gh-pages.fish"
   },
   "private": true,
   "dependencies": {
@@ -21,7 +26,6 @@
     "@angular/platform-browser-dynamic": "4.0.0",
     "@angular/router": "4.0.0",
     "angular2-highlight-js": "5.0.2",
-    "angular2-materialize": "15.0.4",
     "core-js": "2.4.1",
     "hammerjs": "2.0.8",
     "jquery": "2.2.4",
@@ -36,6 +40,8 @@
     "@angular/compiler-cli": "4.0.0",
     "@types/node": "6.0.60",
     "codelyzer": "2.0.0",
+    "ncp": "2.0.0",
+    "npm-run-all": "4.1.2",
     "serve": "6.0.2",
     "ts-node": "2.0.0",
     "tslint": "4.5.0",
