@@ -1,4 +1,1 @@
-language: node_js
-node_js: 6
-script: npm i
-cache.directories: node_modules
+script: echo test
