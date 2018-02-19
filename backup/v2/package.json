@@ -1,0 +1,22 @@
+{
+  "name": "daggerok.github.io",
+  "version": "0.0.1",
+  "description": "daggerok.github.io",
+  "main": "index.js",
+  "scripts": {
+    "prestart": "npm i --no-optional",
+    "start": "opn index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://githuib.com/daggerok/daggerok.github.io"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Maksim Kostromin",
+  "license": "ISC",
+  "devDependencies": {
+    "opn-cli": "*"
+  }
+}
