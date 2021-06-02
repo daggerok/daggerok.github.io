@@ -1,4 +1,4 @@
-= my-blog.now.sh image:https://github.com/daggerok/my-blog.now.sh/actions/workflows/github-pages.yaml/badge.svg["Build Status", link="https://github.com/daggerok/my-blog.now.sh/actions/workflows/github-pages.yaml"]
+= my-blog.now.sh image:https://github.com/daggerok/daggerok.github.io/actions/workflows/github-pages.yaml/badge.svg["Build Status", link="https://github.com/daggerok/daggerok.github.io/actions/workflows/github-pages.yaml"]
 
 Checkout GitHub Pages: https://daggerok.github.io/
 
