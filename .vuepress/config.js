@@ -43,7 +43,7 @@ module.exports = {
       md.use(require('markdown-it-vuepress-code-snippet-enhanced'));
     },
   },
-  alias: { // import categories from '@/my-services/categories';
+  alias: { // import MyFooter from '@/components/MyFooter.vue'
     '@': require('path').resolve(process.cwd(), '.vuepress'),
   },
 };

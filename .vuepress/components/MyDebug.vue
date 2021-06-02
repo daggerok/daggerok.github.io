@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h2>дебаг компонента</h2>
+    <h2>дебаг</h2>
     <br/>
 
     <span v-if="!!show$site && !!$site">

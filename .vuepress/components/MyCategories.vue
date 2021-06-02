@@ -1,16 +1,17 @@
 <template>
   <div>
-    <h1>My categories</h1>
     <pre style="background-color: transparent">{{ categories }}</pre>
-    <p>
-      try these links: <br/>
-      http://localhost:8080/categories/?q=ololo <br/>
-      http://localhost:8080/categories/?q=ololo&q=trololo <br/>
-      <br/>and see results:
-    </p>
     <h2>?q=...</h2>
-    <pre style="background-color: transparent">{{ query }}</pre>
-    <pre style="background-color: transparent">!!query.q && query.q && Array.isArray(query.q): {{ !!query.q && query.q && Array.isArray(query.q) }}</pre>
+    <pre style="background-color: transparent">
+  query: {{ query }}
+
+  query && query.q && Array.isArray(query.q): {{ query && query.q && Array.isArray(query.q) }}
+    </pre>
+    <p>
+      use these links: <br/>
+      <a href="../categories/?q=ololo">http://localhost:8080/categories/?q=ololo</a> <br/>
+      <a href="../categories/?q=ololo&q=trololo">http://localhost:8080/categories/?q=ololo&q=trololo</a> <br/>
+    </p>
   </div>
 </template>
 

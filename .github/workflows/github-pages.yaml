@@ -18,13 +18,14 @@ on:
     #- '*.md'
     #- '*.adoc'
     #- '*.js*'
+env:
+  NODE_VERSION: 16.x
 jobs:
   github-pages:
     #See reference: https://docs.github.com/en/actions/reference/context-and-expression-syntax-for-github-actions#functions
     ##manual job definition:
-    #if: github.event.inputs.trigger == ''
-    #  || startsWith(github.event.inputs.trigger, 'm')
-    #  || startsWith(github.event.inputs.trigger, 'M')
+    #if: startsWith(github.event.inputs.trigger, 'm')
+    #     || startsWith(github.event.inputs.trigger, 'M')
     #automatic job definition:
     if: github.event.inputs.trigger == ''
       || !startsWith(github.event.inputs.trigger, 'm')
@@ -32,16 +33,16 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
-    - uses: actions/setup-node@v1
+    - uses: actions/setup-node@v2
       with:
-        node-version: 14.x
+        node-version: ${{ env.NODE_VERSION }}
     - uses: actions/cache@v2
       id: cache
       with:
         path: ~/.npm
         key: ${{ runner.os }}-${{ hashFiles('**/package.json') }}
     - run: npm i -E
-    - run: npm run github-pages
+    - run: npm run build
     - name: Deploy 🚀 GitHub Pages
       uses: JamesIves/github-pages-deploy-action@4.1.0
       with:
