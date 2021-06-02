@@ -6,6 +6,7 @@
     <p>
       {{ description }} <router-link :to="path">→ Читать</router-link>
     </p>
+    <hr/>
   </div>
 </template>
 

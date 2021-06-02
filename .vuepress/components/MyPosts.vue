@@ -5,9 +5,9 @@
                      :description="post.frontmatter.description || 'description is undefined'"
                      :path="post.path || '/'"
       />
-      <div v-if="index !== posts.length - 1">
+      <!--<div v-if="index !== posts.length - 1">
         <hr/>
-      </div>
+      </div>-->
     </div>
   </div>
 </template>

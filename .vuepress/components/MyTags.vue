@@ -13,14 +13,6 @@ export default {
   computed: {
     tags() {
       return tagsServices.getAllTags(this.$site).sort();
-      // return this.$site.pages
-      //                  .filter(page => !!page.path)
-      //                  // .filter(page => page.path.endsWith('.html'))
-      //                  .filter(htmlPage => !!htmlPage.frontmatter)
-      //                  .map(htmlPage => htmlPage.frontmatter)
-      //                  .filter(frontmatter => !!frontmatter.tags || !!frontmatter.tag)
-      //                  .flatMap(frontmatter => !!frontmatter.tags ? arrayOf(frontmatter.tags) : arrayOf(frontmatter.tag))
-      //                  .filter((tag, index, tags) => tags.indexOf(tag) === index);
     },
   },
 };
