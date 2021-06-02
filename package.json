@@ -1,13 +1,17 @@
 {
-  "readme": "README.adoc",
   "name": "daggerok.github.io",
   "version": "0.0.8",
-  "homepage": "https://daggerok.github.io/",
   "repository": "https://github.com/daggerok/daggerok.github.io.git",
+  "bugs": {
+    "url": "https://github.com/daggerok/daggerok.github.io/issues"
+  },
+  "homepage": "https://daggerok.github.io/",
+  "doc": "https://github.com/daggerok/daggerok.github.io",
+  "readme": "README.adoc",
   "author": "Maksim Kostromin <daggerok@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "clean": "rimraf -rf public",
+    "clean": "rimraf public",
     "dev": "vuepress dev",
     "start": "vuepress dev -- --debug --no-clear-screen",
     "prebuild": "npm run clean",
@@ -19,7 +23,6 @@
     "@mr-hope/vuepress-types": "1.18.0",
     "@types/node": "15.6.2",
     "@vuepress/plugin-back-to-top": "1.8.2",
-    "@vuepress/plugin-blog": "1.9.4",
     "@vuepress/plugin-medium-zoom": "1.8.2",
     "@vuepress/plugin-nprogress": "1.8.2",
     "@vuepress/plugin-pagination": "1.0.0-alpha.0",

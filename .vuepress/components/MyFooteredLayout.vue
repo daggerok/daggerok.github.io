@@ -10,7 +10,7 @@
 </template>
 
 <script>
-  import ParentLayout from 'vuepress-theme-default-prefers-color-scheme/layouts/Layout.vue';
+  import ParentLayout from 'vuepress-theme-default-prefers-color-scheme/layouts/Layout';
   import MyFooter from '@/components/MyFooter.vue'
 
   export default {
