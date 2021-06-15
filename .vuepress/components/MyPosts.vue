@@ -30,6 +30,15 @@ export default {
       //     path: undefined, date: undefined, lastUpdated: undefined
       // } ] };
 
+      const lang = this.$page.frontmatter.lang;
+
+      function byLanguageOrAll(page) {
+        if (!lang) return true;
+        if ('ru-RU' === lang) return true;
+        if (!page || !page.frontmatter || !page.frontmatter.lang) return true;
+        return lang === page.frontmatter.lang;
+      }
+
       const tagQuery = this.$route.query["tags"] || [];
 
       function tagIfPresent(post) {
@@ -54,6 +63,7 @@ export default {
 
       return this.$site.pages
                        .filter(page => page.frontmatter.type === 'post')
+                       .filter(byLanguageOrAll)
                        .filter(post => post.path.endsWith('.html'))
                        .filter(tagIfPresent) // .filter(html => html.frontmatter.published) // uncomment if you would like to void drafts
                        // if no date fields provided by frontmatter, then compare git commit time, otherwise compare posts dates

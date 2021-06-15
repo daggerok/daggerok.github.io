@@ -1,7 +1,7 @@
 ---
 layout: MyFooteredLayout
 lang: ru-RU
-home: true
+home: false
 title: Тэги
 description: Спиок тэгов 
 date: '2021-02-11 17:08:27'
@@ -19,6 +19,7 @@ categories:
 #  - title: И три
 #    details: |
 #      ... 3) three
+
 ---
 
 TODO: Тэги в разработке...

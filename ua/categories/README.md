@@ -1,13 +1,13 @@
 ---
 layout: MyFooteredLayout
-lang: ru-RU
+lang: ua-UA
 home: false
 date: '2021-02-11 16:05:07 GMT+0200'
+title: Категорії
+description: Список категорій
 categories:
 - categories
 ---
-
-# Категории
 
 <MyCategories />
 
