@@ -20,8 +20,8 @@
     "serve": "serve public"
   },
   "dependencies": {
-    "@mr-hope/vuepress-types": "1.18.0",
-    "@types/node": "15.6.2",
+    "@mr-hope/vuepress-types": "1.18.2",
+    "@types/node": "15.12.2",
     "@vuepress/plugin-back-to-top": "1.8.2",
     "@vuepress/plugin-medium-zoom": "1.8.2",
     "@vuepress/plugin-nprogress": "1.8.2",
@@ -31,8 +31,10 @@
     "lru-cache": "6.0.0",
     "markdown-it-vuepress-code-snippet-enhanced": "1.0.1",
     "rimraf": "3.0.2",
-    "serve": "11.3.2",
+    "serve": "12.0.0",
     "vercel": "23.0.0",
+    "vue": "2.6.14",
+    "vue-server-renderer": "2.6.14",
     "vuepress": "1.8.2",
     "vuepress-theme-default-prefers-color-scheme": "2.0.0"
   }
