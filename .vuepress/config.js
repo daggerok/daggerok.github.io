@@ -44,6 +44,7 @@ module.exports = {
       headerAnchorSelector: '.header-anchor',
       headerTopOffset: 120,
     }],
+    'vuepress-plugin-smooth-scroll', // https://vuepress-community.netlify.app/en/plugins/smooth-scroll/#details
   ],
   markdown: {
     lineNumbers: true,
