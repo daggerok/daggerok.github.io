@@ -37,13 +37,13 @@ module.exports = {
   },
   plugins: [
     '@vuepress/nprogress',
-    '@vuepress/medium-zoom',
+    '@vuepress/medium-zoom', // https://vuepress-community.netlify.app/en/plugins/medium-zoom/#usage
     '@vuepress/back-to-top',
-    '@vuepress/active-header-links', {
+    ['@vuepress/active-header-links', {
       sidebarLinkSelector: '.sidebar-link',
       headerAnchorSelector: '.header-anchor',
       headerTopOffset: 120,
-    },
+    }],
   ],
   markdown: {
     lineNumbers: true,
