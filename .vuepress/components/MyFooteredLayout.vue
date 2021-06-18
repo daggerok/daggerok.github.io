@@ -3,6 +3,7 @@
     <div class="content-wrapping-section">
       <ParentLayout/>
     </div>
+    <div id="disqus_thread"></div>
     <div class="home">
       <MyFooter/>
     </div>

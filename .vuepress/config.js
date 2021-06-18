@@ -9,6 +9,7 @@ module.exports = {
   base,
   head: [
     ['link', { rel: 'icon', href: base + 'favicon.ico', },],
+    // google analytics
     ['script', { async: '', src: 'https://www.googletagmanager.com/gtag/js?id=G-7NW3H0J5M0', },],
     ['script', { }, `
       window.dataLayer = window.dataLayer || [];
@@ -17,6 +18,20 @@ module.exports = {
       }
       gtag('js', new Date());
       gtag('config', 'G-7NW3H0J5M0');
+    `],
+    // discus
+    ['script', { async: '', id: 'dsq-count-scr', src: 'https://daggerok.disqus.com/count.js', },],
+    ['script', { }, `
+      var disqus_config = function disqus_config() {
+        this.page.url = 'https://daggerok.github.io/';
+        this.page.identifier = 'root.daggerok.github.io';
+      };
+      (function () {
+        var d = document, s = d.createElement('script');
+        s.src = 'https://daggerok.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', + new Date());
+        (d.head || d.body).appendChild(s);
+      })();
     `],
   ],
   docsDir: '.',
