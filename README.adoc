@@ -17,7 +17,7 @@ current custom also blog located here: https://daggerok.github.io/
 
 [source,bash]
 ----
-npm i ; npm run build
+npm i ; npx yarn install ; npm run build
 ./node_modules/.bin/vercle public --prod
 ----
 

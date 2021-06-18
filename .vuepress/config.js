@@ -8,7 +8,16 @@ module.exports = {
   description: 'Делай дело',
   base,
   head: [
-    ['link', { rel: 'icon', href: base + 'favicon.ico' }]
+    ['link', { rel: 'icon', href: base + 'favicon.ico', },],
+    ['script', { async: '', src: 'https://www.googletagmanager.com/gtag/js?id=G-7NW3H0J5M0', },],
+    ['script', { }, `
+      window.dataLayer = window.dataLayer || [];
+      function gtag() {
+        window.dataLayer.push(arguments);
+      }
+      gtag('js', new Date());
+      gtag('config', 'G-7NW3H0J5M0');
+    `],
   ],
   docsDir: '.',
   themeConfig: {
@@ -30,11 +39,10 @@ module.exports = {
     '@vuepress/nprogress',
     '@vuepress/medium-zoom',
     '@vuepress/back-to-top',
-    '@vuepress/pagination',
     '@vuepress/active-header-links', {
       sidebarLinkSelector: '.sidebar-link',
       headerAnchorSelector: '.header-anchor',
-      headerTopOffset: 120
+      headerTopOffset: 120,
     },
   ],
   markdown: {
