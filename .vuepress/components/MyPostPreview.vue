@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="post-list-item">
     <h3 class="post-view-heading">
       <router-link :to="path">{{ title }}</router-link>
     </h3>
