@@ -9,8 +9,8 @@
     </pre>
     <p>
       use these links: <br/>
-      <a href="../categories/?q=ololo">http://localhost:8080/categories/?q=ololo</a> <br/>
-      <a href="../categories/?q=ololo&q=trololo">http://localhost:8080/categories/?q=ololo&q=trololo</a> <br/>
+      <router-link :to="'/categories/?q=ololo'">http://localhost:8080/categories/?q=ololo</router-link> <br/>
+      <router-link :to="'/categories/?q=ololo&q=trololo'">http://localhost:8080/categories/?q=ololo&q=trololo</router-link> <br/>
     </p>
   </div>
 </template>
@@ -19,6 +19,9 @@
 const { getAllCategories } = require('@/my-services/categories');
 export default {
   name: 'MyCategories',
+  mounted() {
+    console.log(this.$route);
+  },
   computed: {
     query() {
       // return this.$router.options.routes.flatMap(({ name, path }, index, array) => ({ [name]: path }));
