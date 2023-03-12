@@ -1,6 +1,6 @@
 {
-  "name": "customized-vuepress-2-blog",
-  "description": "Customized blog using VuePress 2.x",
+  "name": "daggerok.github.io",
+  "description": "Customized daggerok.github.io blog using VuePress 2.x",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -8,13 +8,13 @@
     "clean": "rimraf -rf .vuepress/.cache .vuepress/.temp .vuepress/dist",
     "dev": "vuepress dev .",
     "build": "vuepress build .",
-    "build-github-pages": "cross-env BASE_HREF=/customized-vuepress-2-blog/ npm run build"
+    "build-github-pages": "npm run build"
   },
   "keywords": [
     "glob",
     "rimraf",
     "vuepress",
-    "cross-env",
+    "vuepress2",
     "vuepress@next",
     "vuepress@2.0.0-beta.49",
     "vuepress-plugin-use-pages"
@@ -26,7 +26,6 @@
     "@vuepress/plugin-register-components": "2.0.0-beta.49",
     "@vuepress/plugin-search": "2.0.0-beta.49",
     "@vuepress/theme-default": "2.0.0-beta.49",
-    "cross-env": "7.0.3",
     "glob": "9.2.1",
     "rimraf": "4.4.0",
     "vuepress": "2.0.0-beta.49",
