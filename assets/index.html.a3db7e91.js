@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-145ac574","path":"/blog/","title":"Blog","lang":"en-US","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1678600621000,"contributors":[{"name":"Maksim Kostromin","email":"maksim@beachfront.com","commits":1}]},"filePathRelative":"blog/README.md"}');export{t as data};
