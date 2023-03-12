@@ -15,20 +15,13 @@ const themeConfig = {
     nprogress: true,
 };
 
-import { glob, globSync } from 'glob';
+import { glob, globSync /* <= glob version 9 */ } from 'glob';
 const rootPath = path.resolve(__dirname, '..');
 const blogPath = path.resolve(rootPath, 'blog');
 const blogSidebar = globSync(`${blogPath}/**/*.md`)
     .map(f => f.substring(rootPath.length, f.length))
     .sort()
     .reverse()
-// console.log('blogSidebar', blogSidebar);
-// blogSidebar [
-//     '/blog/README.md',
-//     '/blog/2022-08-08-3rd-post/README.md',
-//     '/blog/2022-08-06-my-second-blog-post.md',
-//     '/blog/2022-07-01-my-first-blog-post.md'
-// ]
 const blogPagePath = '/blog/README.md';
 const firstBlogPath = blogSidebar.find((value, index, array) => value != blogPagePath) || blogPagePath;
 
@@ -62,14 +55,9 @@ export default defineUserConfig({
         registerComponentsPlugin({
            componentsDir: path.resolve(__dirname, './components'),
         }),
-        searchPlugin({
-            // options
-        }),
+        searchPlugin({ /* options */}),
     ],
     alias: { // import MyFooter from '@/components/MyFooter.vue'
         '@': require('path').resolve(process.cwd(), '.vuepress'),
     },
-    // define: {
-    //     __MARKDOWN_BLOG_FILES__: blogSidebar,
-    // },
 });
