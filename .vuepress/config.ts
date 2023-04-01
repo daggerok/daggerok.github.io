@@ -1,5 +1,5 @@
-import { path } from '@vuepress/utils';
-import { defineUserConfig, viteBundler } from 'vuepress';
+import { getDirname, path } from '@vuepress/utils';
+import { defineUserConfig } from 'vuepress';
 import { usePagesPlugin } from 'vuepress-plugin-use-pages';
 import { searchPlugin } from '@vuepress/plugin-search';
 import { registerComponentsPlugin } from '@vuepress/plugin-register-components';
@@ -46,7 +46,6 @@ export default defineUserConfig({
             { text: 'Blog', link: firstBlogPath || '/blog/' },
         ],
     }),
-    bundler: viteBundler(),
     plugins: [
         usePagesPlugin({ // see: https://github.com/monsat/vuepress-plugin-use-pages
             filter: (page) => page.title !== 'Blog', // fetch non README.md (title: '# Blog') posts

@@ -2,7 +2,7 @@
   <div>
     <h2>Latest posts</h2>
     <p v-if="pages.length" v-for="page in pages">
-      <Post :path="page.path" :title="page.title" />
+      <Post :path="page.path" :title="page.title" /> &nbsp;
     </p>
     <p v-if="!pages.length">
       To be continue...
@@ -35,7 +35,3 @@ export default {
   },
 }
 </script>
-
-<style scoped>
-
-</style>
