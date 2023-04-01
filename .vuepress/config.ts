@@ -1,12 +1,17 @@
 import { path } from '@vuepress/utils';
-import { AppConfig, defineUserConfig, viteBundler } from 'vuepress';
+import { defineUserConfig, viteBundler } from 'vuepress';
 import { usePagesPlugin } from 'vuepress-plugin-use-pages';
 import { searchPlugin } from '@vuepress/plugin-search';
 import { registerComponentsPlugin } from '@vuepress/plugin-register-components';
-import { localTheme } from './theme';
 
-const { name, description } = require(`${process.cwd()}/package.json`)
+// @ts-ignore
+const __dirname = getDirname(import.meta.url);
 
+// @ts-ignore // const { name, description } = require(`${process.cwd()}/package.json`)
+const getPackageJsonFile = await import('../package.json', { assert: { type: 'json' } });
+const { name, description } = getPackageJsonFile.default;
+
+import { myBlogLocalTheme } from './theme';
 const themeConfig = {
     title: description,
     displayAllHeaders: true,
@@ -15,10 +20,10 @@ const themeConfig = {
     nprogress: true,
 };
 
-import { glob, globSync /* <= glob version 9 */ } from 'glob';
+import glob from 'glob';
 const rootPath = path.resolve(__dirname, '..');
 const blogPath = path.resolve(rootPath, 'blog');
-const blogSidebar = globSync(`${blogPath}/**/*.md`)
+const blogSidebar = glob.sync(`${blogPath}/**/*.md`)
     .map(f => f.substring(rootPath.length, f.length))
     .sort()
     .reverse()
@@ -28,7 +33,7 @@ const firstBlogPath = blogSidebar.find((value, index, array) => value != blogPag
 export default defineUserConfig({
     ...themeConfig,
     base: !process.env.BASE_HREF ? '/' : `/${name}/`,
-    theme: localTheme({
+    theme: myBlogLocalTheme({
         // See: https://v2.vuepress.vuejs.org/reference/default-theme/config.html#repo
         repo: `daggerok/${name}`, // repo: `https://github.com/daggerok/${name}`,
         docsBranch: 'master',
@@ -57,7 +62,4 @@ export default defineUserConfig({
         }),
         searchPlugin({ /* options */}),
     ],
-    alias: { // import MyFooter from '@/components/MyFooter.vue'
-        '@': require('path').resolve(process.cwd(), '.vuepress'),
-    },
 });

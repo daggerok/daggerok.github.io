@@ -224,10 +224,12 @@ So I would like to use it as my blog title. To implement this I should create `.
 ```typescript
 import { defineUserConfig } from 'vuepress';
 
-const { description: title } = require(`${process.cwd()}/package.json`);
+// @ts-ignore // const { name, description } = require(`${process.cwd()}/package.json`)
+const getPackageJsonFile = await import('../package.json', { assert: { type: 'json' } });
+const { description } = getPackageJsonFile.default;
 
 export default defineUserConfig({
-    title,
+    title: description,
 });
 ```
 
@@ -256,10 +258,11 @@ With time, we will have many other pages, maybe we will add _About_ page togethe
 At this point of time I think it would be nice to start from link to main _Home_ page, so any other links could be added latest similarly.
 Navbar bar links configuration also should be done in `.vuepress/config.ts` file:
 
-```typescript{1,7-11}
+```typescript{1,8-11}
 import { defaultTheme, defineUserConfig } from 'vuepress';
 
-const { description: title } = require(`${process.cwd()}/package.json`);
+const getPackageJsonFile = await import('../package.json', { assert: { type: 'json' } });
+const { description: title } = getPackageJsonFile.default;
 
 export default defineUserConfig({
     title,
@@ -296,10 +299,11 @@ we should tell VuePress our GitHub username and repository name. My repository F
 `daggerok/customized-vuepress-2-blog` part of it as `repo` value. It is enough to have GitHub navbar link, but I would like also specify
 `docsBranch` and `docsDir` values:
 
-```typescript{11-13}
+```typescript{12-14}
 import { defaultTheme, defineUserConfig } from 'vuepress';
 
-const { description: title } = require(`${process.cwd()}/package.json`);
+const getPackageJsonFile = await import('../package.json', { assert: { type: 'json' } });
+const { description: title } = getPackageJsonFile.default;
 
 export default defineUserConfig({
     title,
@@ -341,11 +345,11 @@ npm i -ED @vuepress/plugin-search@next
 
 And configure, as usual in `config.ts` file:
 
-```typescript{2,16-18}
-import { defaultTheme, defineUserConfig } from 'vuepress';
+```typescript{1,16-18}
 import { searchPlugin } from '@vuepress/plugin-search';
 
-const { description: title } = require(`${process.cwd()}/package.json`);
+const getPackageJsonFile = await import('../package.json', { assert: { type: 'json' } });
+const { name, description: title } = getPackageJsonFile.default;
 
 export default defineUserConfig({
     title,
@@ -402,26 +406,13 @@ To do so:
    Script `build` will optimize our build for production,
    script `build-github-pages` will do same, but with `BASE_HREF` environment variable will be used in next point:
 3. Update our `.vuepress/config.ts` file like so:
-   ```typescript{4,7}
-   import { defaultTheme, defineUserConfig } from 'vuepress';
-   import { searchPlugin } from '@vuepress/plugin-search';
-   
+   ```typescript{1,4}
    const { name, description: title } = require(`${process.cwd()}/package.json`);
    
    export default defineUserConfig({
        base: !process.env.BASE_HREF ? '/' : `/${name}/`,
        title,
-       theme: defaultTheme({
-           navbar: [
-               { text: 'Home', link: '/' },
-           ],
-           repo: 'daggerok/customized-vuepress-2-blog',
-           docsBranch: 'master',
-           docsDir: '.',
-       }),
-       plugins: [
-           searchPlugin(),
-       ],
+       // other part is skipped...
    });
    ```
    Here we check if `BASE_HREF` env. variable wasn't passed, then we know that base must be `/`.
@@ -494,13 +485,212 @@ To do so:
    gets published, for example here:
    [https://daggerok.github.io/customized-vuepress-2-blog/](https://daggerok.github.io/customized-vuepress-2-blog/)
 
+## Create custom components
+
+Let's say we wanna custom `Footer` which can be easily used in our pages or components, just like so:
+
+```markdown
+# My post
+
+My content....
+
+<Footer />
+```
+
+Create component folder: `.vuepress/components/layers`
+
+<CodeGroup>
+  <CodeGroupItem title="Unix bash" active>
+
+```bash:no-line-numbers
+mkdir .vuepress/components
+```
+  </CodeGroupItem>
+
+  <CodeGroupItem title="Windows batch">
+
+```batch:no-line-numbers
+mkdir .vuepress\components
+```
+  </CodeGroupItem>
+</CodeGroup>
+
+Create `.vuepress/components/Footer.vue` component:
+
+```vue
+<template>
+  <div class="footer"> Maksim Kostromin © 2022-present 🙃</div>
+</template>
+
+<script>
+import { defineComponent } from 'vue';
+export default defineComponent({
+  name: 'Footer',
+});
+</script>
+
+<style scoped lang="scss">
+div.footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 3rem;
+  min-height: 2rem;
+  margin-top: -3rem;
+  border-top: none !important;
+}
+</style>
+```
+
+Now we should help VuePress to register our components.
+
+Install `@vuepress/plugin-register-components` package:
+
+```bash
+npm i -ED @vuepress/plugin-register-components@next
+```
+
+And finally update our `.vuepress/index.ts` file:
+
+```typescript{2,8-10}
+import { getDirname, path } from '@vuepress/utils';
+import { registerComponentsPlugin } from '@vuepress/plugin-register-components';
+
+const __dirname = getDirname(import.meta.url);
+
+export default defineUserConfig({
+  plugins: [
+    registerComponentsPlugin({
+      componentsDir: path.resolve(__dirname, './components'),
+    }),
+  ],
+  
+  // ...skipped after...
+});
+```
+
+Now we can used our `Footer` directly in markdown files or import it in our vue components just like so:
+
+```typescript
+import Footer from '@/components/Footer.vue';
+```
+
+## Add custom local theme
+
+Let'e imagine we want to have our blog unique, so we've decide to add our custom `Footer` component for every page
+in our blog... To do so we must create our own custom local theme.
+
+Let's create folders `.vuepress/theme` and `.vuepress/theme/layers` which will contains custom theme files:
+
+<CodeGroup>
+  <CodeGroupItem title="Unix bash" active>
+
+```bash:no-line-numbers
+mkdir .vuepress/theme
+mkdir .vuepress/theme/layers
+```
+  </CodeGroupItem>
+
+  <CodeGroupItem title="Windows batch">
+
+```batch:no-line-numbers
+mkdir .vuepress\theme
+mkdir .vuepress\theme\layers
+```
+  </CodeGroupItem>
+</CodeGroup>
+
+Create `.vuepress/theme/layers/Layout.vue` layout:
+
+```vue
+<script setup>
+import ParentLayout from '@vuepress/theme-default/lib/client/layouts/Layout.vue';
+import Footer from '@/components/Footer.vue';
+</script>
+
+<template>
+  <div class="wrapper">
+    <div class="content-wrapping-section">
+      <ParentLayout/>
+    </div>
+    <div class="footer">
+      <Footer/>
+    </div>
+  </div>
+</template>
+```
+
+Create `.vuepress/theme/client.ts` file:
+
+```typescript
+import { defineClientConfig } from '@vuepress/client';
+import Layout from './layouts/Layout.vue';
+
+export default defineClientConfig({
+    layouts: {
+        Layout,
+        NotFound: Layout,
+    },
+});
+```
+
+Create `.vuepress/theme/index.ts` file:
+
+```typescript
+import type { Theme } from '@vuepress/core';
+import { defaultTheme, type DefaultThemeOptions } from '@vuepress/theme-default';
+import { getDirname, path } from '@vuepress/utils';
+
+const __dirname = getDirname(import.meta.url)
+
+export const myBlogLocalTheme = (options: DefaultThemeOptions): Theme => {
+   return {
+      name: 'vuepress-theme-local',
+      extends: defaultTheme(options),
+
+      // override layouts in child theme's client config file:
+      clientConfigFile: path.resolve(__dirname, './client.ts'),
+
+      // add component alias. Usage:
+      // import { MyComponent } from '@/components/MyComponent';
+      // it will import component from .vuepress/components/MyComponent.vue file
+      alias: {
+         '@': path.resolve(__dirname, '..'),
+      },
+   };
+};
+```
+
+Now update `.vuepress/config.ts` file accordingly to use it in your VuePress blog:
+
+```typescript{3,6,13}
+// ...skipped before...
+
+import { myBlogLocalTheme } from './theme';
+
+export default defineUserConfig({
+  theme: myBlogLocalTheme({
+    navbar: [
+      { text: 'Home', link: '/' },
+    ],
+    repo: 'daggerok/customized-vuepress-2-blog',
+    docsBranch: 'master',
+    docsDir: '.',
+  }),
+
+  // ...skipped after...
+});
+```
+
+See: [Official extending section](https://v2.vuepress.vuejs.org/reference/default-theme/extending.html#layout-slots) for more details
+
 Congrats! 🎉💪👏
 
 <!--
 
 ## TODO
 
-* Next post: Add custom local theme with Layer and Footer registered components
 * Next post: Add more blog posts, use globs to autoconfigure blog sidebar and page plugin
 * Next post: Use page plugin to create custom reusable blog posts component to be used on home and blog pages
 * Next post: [Add multi-language support](https://v2.vuepress.vuejs.org/guide/i18n.html)
