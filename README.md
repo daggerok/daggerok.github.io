@@ -26,6 +26,7 @@ I'm Maksim! I do software engineering, music, love and peace...
 <!--
 RTFM:
 
+* [VuePress Plugin usePages](https://github.com/monsat/vuepress-plugin-use-pages)
 * [GitHub repository](https://github.com/daggerok/customized-vuepress-2-blog)
 * [VuePress 2.x site](https://v2.vuepress.vuejs.org/)
 * [Categories and Tags](https://www.bluleadz.com/blog/what-are-blog-tags-and-how-to-use-them)
