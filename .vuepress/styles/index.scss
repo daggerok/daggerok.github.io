@@ -15,6 +15,13 @@ main.page {
   }
 }
 
+//.home .features {
+//  justify-content: space-around;
+//}
+.feature {
+  min-width: 48%;
+}
+
 @media screen and (min-width: 1500px) {
   main.page {
     min-height: 85vh !important;
