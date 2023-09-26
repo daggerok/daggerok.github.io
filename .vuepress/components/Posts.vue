@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h2>Latest posts</h2>
+    <h2>Latest</h2>
     <p v-if="pages.length" v-for="page in pages">
       <Post :path="page.path" :title="page.title" /> &nbsp;
     </p>

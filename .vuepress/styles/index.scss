@@ -15,11 +15,12 @@ main.page {
   }
 }
 
-//.home .features {
-//  justify-content: space-around;
-//}
 .feature {
   min-width: 48%;
+}
+
+.home .hero img {
+  margin: 1rem auto 1rem !important;
 }
 
 @media screen and (min-width: 1500px) {
