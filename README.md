@@ -2,11 +2,11 @@
 home: true
 heroImage: me-2020-11.jpeg
 heroText: Maksim Kostromin
-tagline: I do software engineering, music, love and peace...
-            This site is all about me, my life and my work.
-            Honestly, I don't think you can find it useful...
-            Because all posts here are pretty much specific
-            But, if you like it - welcome! ✌️
+tagline: I do software engineering, music, love and peace 🙂
+            This site is all about me, my life, work and interests.
+            I don't think that you can find it very useful,
+            because all posts here are pretty much specific...
+            But if you like it - welcome! ✌️
 #actions:
 #  - text: Posts →
 #    link: /blog/README.md
@@ -25,17 +25,18 @@ features:
             Time is going so fast these days, so I don't want postpone my life
             for late!
 - title: work
-  details: I'm doing software engineering.
+  details: As you might know I'm doing software engineering.
             During my career I worked with many people, customers and companies.
-            I have experience with many different languages, platforms and tools.
-            I learned a lot and my experience is telling me that I will learn a lot
-            more! This area is growing fast! So we must develop ourselves
-            today unless we wanna be a dinosaur tomorrow...
+            I've experience with many different languages, platforms and tools.
+            I learned a lot already and I know that tomorrow I will learn more!
+            This area is growing fast! So we must develop ourselves
+            today unless we want to be a dinosaur tomorrow...
 ---
 
 <Posts />
 
 <!--
+
 # Hello, World! [![GitHub Pages](https://github.com/daggerok/customized-vuepress-2-blog/actions/workflows/ci.yaml/badge.svg)](https://github.com/daggerok/customized-vuepress-2-blog/actions/workflows/ci.yaml)
 
 I'm Maksim! I do software engineering, music, love and peace...
@@ -50,4 +51,5 @@ RTFM:
 * [Categories and Tags](https://www.bluleadz.com/blog/what-are-blog-tags-and-how-to-use-them)
 * [VuePress Metadata](https://www.adamdehaven.com/blog/how-to-add-metadata-canonical-urls-and-structured-data-to-your-vuepress-site/#update-the-vuepress-themeconfig)
 * [VuePress i18n](https://vuepress.github.io/guide/i18n.html)
+
 -->

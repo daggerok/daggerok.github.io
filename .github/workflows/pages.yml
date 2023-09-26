@@ -1,10 +1,7 @@
-# Sample workflow for building and deploying a VuePress site to GitHub Pages
 name: Deploy custom VuePress blog with GitHub Pages artifacts
-# Runs on pushes targeting the default branch
 on:
   push:
     branches: ["master"]
-  # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
 permissions:
@@ -17,7 +14,7 @@ concurrency:
   cancel-in-progress: true
 # Use concrete NodeJS version:
 env:
-  NODE_VERSION: 18.4.0
+  NODE_VERSION: 19.7.0
 # Jobs:
 jobs:
   # Build job:
@@ -33,22 +30,17 @@ jobs:
           path: |
             ~/.npm
             ~/.node
-            ~/.m2/repository
-            !~/.m2/repository/com/gituhb/daggerok
-          key: ${{ runner.os }}-${{ hashFiles('**/*.gradle*', '**/pom.xml', '**/package.json', '**/package-lock.json') }}
+            !~/.m2/repository/com/github/daggerok
+          key: ${{ runner.os }}-${{ hashFiles('**/package.json', '**/package-lock.json') }}
       - uses: actions/setup-node@v3
         with:
           node-version: ${{ env.NODE_VERSION }}
       - run: npm i -E
       - run: npm run build-github-pages
       - name: Upload artifact
-        #uses: actions/upload-artifact@v3
         uses: actions/upload-pages-artifact@v1
         with:
-          # Upload .vuepress/dist folder
           path: '.vuepress/dist'
-          #name: github-pages
-          #if-no-files-found: error
   # Deployment job:
   deploy:
     environment:
