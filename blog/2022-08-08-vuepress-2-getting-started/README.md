@@ -701,3 +701,26 @@ Congrats! 🎉💪👏
 
 * [GitHub repository](https://github.com/daggerok/customized-vuepress-2-blog)
 * [VuePress 2.x site](https://v2.vuepress.vuejs.org/)
+
+<script>
+  export default {
+    mounted: async function mounted() {
+      const html = await document.querySelector('html');
+      const classList = html.classList;
+      const isDark = classList.contains('dark');
+      console.log('isDark', isDark);
+      if (!isDark) {
+        document.querySelectorAll('.code-group__nav').forEach(el => {
+          el.style.backgroundColor = '#6a8bad';
+        });
+        return;
+      }
+      const tabs = await Promise.all(document.querySelectorAll('button.code-group__nav-tab'));
+      tabs.filter(el => el.textContent === 'dark theme')
+          .filter(el => el.getAttribute('aria-pressed') !== true)
+          .filter(el => el.getAttribute('aria-expanded') !== true)
+          .forEach(el => el.click());
+      console.log('clicked.');
+    },
+  }
+</script>

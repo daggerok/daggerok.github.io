@@ -20,6 +20,7 @@ const themeConfig = {
     nprogress: true,
 };
 
+// @ts-ignore
 import * as glob from 'glob';
 const rootPath = path.resolve(__dirname, '..');
 const blogPath = path.resolve(rootPath, 'blog');
