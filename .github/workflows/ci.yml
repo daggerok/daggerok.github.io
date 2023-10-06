@@ -1,0 +1,36 @@
+name: CI
+on:
+  push:
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  bun:
+    uses: ./.github/workflows/bun.yml
+  ci:
+    needs: bun
+    environment:
+      name: ci
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          fetch-depth: 1
+      - uses: actions/cache@v3
+        id: ci
+        with:
+          path: |
+            !~/.m2
+            ~/.bun
+            ~/.npm
+            ~/.node
+          key: ${{ runner.os }}-${{ hashFiles('**/workflows/*.yml', '**/package.json', '**/package-lock.json') }}
+      - run: echo "${{ needs.bun.outputs.BUN_BIN }}" >> "$GITHUB_PATH"
+      - run: bun install -E
+      - run: bun run build
+      - run: bunx npm-check-updates -u
+      - run: bun run clean
+      - run: bun run clear
+      - run: bun install -E
+      - run: bun run build

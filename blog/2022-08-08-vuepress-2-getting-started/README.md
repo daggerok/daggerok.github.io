@@ -458,7 +458,7 @@ To do so:
              path: |
                ~/.npm
                ~/.node
-             key: ${{ runner.os }}-${{ hashFiles('**/package.json', '**/package-lock.json') }}
+             key: ${{ runner.os }}-${{ hashFiles('**/workflows/*.yml', '**/package.json', '**/package-lock.json') }}
          - uses: actions/setup-node@v3
            with:
              node-version: ${{ env.NODE_VERSION }}

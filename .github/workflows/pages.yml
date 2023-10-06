@@ -12,31 +12,32 @@ permissions:
 concurrency:
   group: "pages"
   cancel-in-progress: true
-# Use concrete NodeJS version:
-env:
-  NODE_VERSION: 19.7.0
 # Jobs:
 jobs:
+  bun:
+    uses: ./.github/workflows/bun.yml
   # Build job:
   build:
+    needs: bun
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
+        with:
+          fetch-depth: 1
       - name: Setup Pages
         uses: actions/configure-pages@v3
       - uses: actions/cache@v3
         id: ci
         with:
           path: |
+            !~/.m2
+            ~/.bun
             ~/.npm
             ~/.node
-            !~/.m2/repository/com/github/daggerok
-          key: ${{ runner.os }}-${{ hashFiles('**/package.json', '**/package-lock.json') }}
-      - uses: actions/setup-node@v3
-        with:
-          node-version: ${{ env.NODE_VERSION }}
-      - run: npm i -E
-      - run: npm run build-github-pages
+          key: ${{ runner.os }}-${{ hashFiles('**/workflows/*.yml', '**/package.json', '**/package-lock.json') }}
+      - run: echo "${{ needs.bun.outputs.BUN_BIN }}" >> "$GITHUB_PATH"
+      - run: bun install -E
+      - run: bun run build-github-pages
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
         with:
