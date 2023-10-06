@@ -10,6 +10,7 @@ that I should make some notes about it
 * **NWOG C.E.** - New Week Opening Gap C.E. (TODO: consequent encouragement?)
 * **NWOG Low** - New Week Opening Gap Low. Example: Fri 29 Sep '23 4:30pm
 * **OTE** - Optimal Trade Entry [using Breaking Market Structure](https://www.youtube.com/watch?v=aQrd75xwBS4)
+* **BISI** - Buyside Imbalance Sellside Inefficiency
 
 ## Rules
 
