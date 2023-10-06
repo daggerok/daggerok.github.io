@@ -3,11 +3,13 @@ This is my ICT notes. I started learn it this (2023) year, but topic is quite bi
 that I should make some notes about it
 
 ## Glossary and acronyms
+
 * **NWOG** - New Week Opening Gap. Gap between close price of previous Friday at 4:30pm and open price of
   previous Sunday at 6pm
 * **NWOG High** - New Week Opening Gap High. Example: Sun 01 Oct '23 6pm
 * **NWOG C.E.** - New Week Opening Gap C.E. (TODO)
 * **NWOG Low** - New Week Opening Gap Low. Example: Fri 29 Sep '23 4:30pm
+* **OTE** - [Optimal Trade Entry](https://www.youtube.com/watch?v=aQrd75xwBS4)
 
 ## Rules
 
