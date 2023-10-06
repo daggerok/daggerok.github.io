@@ -14,7 +14,8 @@ that I should make some notes about it
 * **NWOG C.E.** - New Week Opening Gap C.E. TODO: consequent encouragement?
 * **NWOG Low** - New Week Opening Gap Low. Example: Fri 29 Sep '23 4:30pm
 * **NDOG** - New Day Opening Gap. Distance between 5pm and opening 6pm
-* **ORG** - Opening Range Gap. Where we have relation between **RTH**
+* **ORG** - [Opening Range Gap](https://www.youtube.com/live/LoXPDfFoLSc?si=Gp6dGyGANROcwTpQ&t=1327). Where we have
+  relation between **RTH**
 * **ORG Settlement** - Opening Range Gap Settlement. Previous day close price on **RTH**. Word Settlement is going to
   be changed in a moment where market price is opened today on **ETH** before 9:30am... If current price is above
   **ORG Settlement**, then we should change **ORG Settlement** -> **ORG Low** otherwise **ORG Settlement** -> **ORG High**
