@@ -9,7 +9,7 @@ that I should make some notes about it
 * **NWOG High** - New Week Opening Gap High. Example: Sun 01 Oct '23 6pm
 * **NWOG C.E.** - New Week Opening Gap C.E. (TODO)
 * **NWOG Low** - New Week Opening Gap Low. Example: Fri 29 Sep '23 4:30pm
-* **OTE** - [Optimal Trade Entry](https://www.youtube.com/watch?v=aQrd75xwBS4) using Breaking Market Structure
+* **OTE** - Optimal Trade Entry [using Breaking Market Structure](https://www.youtube.com/watch?v=aQrd75xwBS4)
 
 ## Rules
 
