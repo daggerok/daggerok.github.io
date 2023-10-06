@@ -3,9 +3,9 @@ This is my ICT notes. I started learn it this (2023) year, but topic is quite bi
 that I should make some notes about it
 
 ## Glossary and acronyms
-* **NQOG** - New Week Openning Gap
-* **NQOG Low** - New Week Openning Gap Low
-* **NQOG High** - New Week Openning Gap High
+* **NWOG** - New Week Openning Gap
+* **NWOG Low** - New Week Openning Gap Low
+* **NWOG High** - New Week Openning Gap High
 
 ## Rules
 
