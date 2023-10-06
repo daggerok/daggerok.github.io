@@ -18,7 +18,7 @@ that I should make some notes about it
   relation between **RTH**
 * **ORG Settlement** - Opening Range Gap Settlement. Previous day close price on **RTH**. Word Settlement is going to
   be changed in a moment where market price is opened today on **ETH** before 9:30am... If current price is above
-  **ORG Settlement**, then we should change **ORG Settlement** -> **ORG Low** otherwise **ORG Settlement** -> **ORG High**
+  **ORG Settlement**, then we should change **ORG Settlement** to **ORG Low**, otherwise **ORG Settlement** to **ORG High**
 * **OTE** - Optimal Trade Entry [using Breaking Market Structure](https://www.youtube.com/watch?v=aQrd75xwBS4)
 * **BISI** - Buyside Imbalance Sellside Inefficiency
 
