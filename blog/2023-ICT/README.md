@@ -21,6 +21,9 @@ that I should make some notes about it
   **ORG Settlement**, then we should change **ORG Settlement** to **ORG Low**, otherwise **ORG Settlement** to **ORG High**
 * **OTE** - Optimal Trade Entry [using Breaking Market Structure](https://www.youtube.com/watch?v=aQrd75xwBS4)
 * **BISI** - Buyside Imbalance Sellside Inefficiency
+* **MSS** - Market Sructure Shift
+* **BL** - Buyside Liquidity
+* **SL** - Sellside Liquidity
 
 ## Rules
 
