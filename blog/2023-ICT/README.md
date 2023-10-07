@@ -11,7 +11,7 @@ that I should make some notes about it
 * [**New Week Opening Gap** (NWOG)](https://www.youtube.com/live/LoXPDfFoLSc?si=Ob_gRATBCm7Fgm2W&t=1251). Gap between
   close price of previous Friday at 4:30pm and open price of previous Sunday at 6pm
 * **New Week Opening Gap High** (NWOG High). Example: Sun 01 Oct '23 6pm
-* **New Week Opening Gap C.E.** (NWOG C.E.). TODO: consequent encouragement?
+* **New Week Opening Gap C.E.** (NWOG C.E.). TODO: consequent encroachment?
 * **New Week Opening Gap Low** (NWOG Low). Example: Fri 29 Sep '23 4:30pm
 * **New Day Opening Gap** (NDOG). Distance between 5pm and opening 6pm
 * [**Opening Range Gap** (ORG)](https://www.youtube.com/live/LoXPDfFoLSc?si=Gp6dGyGANROcwTpQ&t=1327). Where we have
