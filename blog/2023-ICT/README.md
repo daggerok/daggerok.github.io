@@ -9,7 +9,7 @@ that I should make some notes about it
 * **Buy Stops** (BS). Stops below **BL** Retail Trader idea of support level on long positions, lower than old low
 * **Sellside Liquidity** (SL)
 * **Sellside Imbalance Buyside Inefficiency** (SIBI)
-* **Buy Stops** (BS). Stops above **SL** Retail Trader idea of resistance level on short positions, higher than old high
+* **Sell Stops** (SS). Stops above **SL** Retail Trader idea of resistance level on short positions, higher than old high
 * **Regular Trading Hours** (RTH). Hours when algorithm is delivering price to **SMT**
 * **Electronic Trading Hours** (ETH). All available trading hours on a chart
 * **Liquidity Viod** (LV). Gap between two candels where no trading at all, for example between **NWOGap High** and
