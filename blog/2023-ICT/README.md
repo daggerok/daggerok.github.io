@@ -35,8 +35,8 @@ that I should make some notes about it
 
 * Trade from Monday till Friday
 * Do not trade on Thursday and Friday in between 8am and 10am
-* Every gap or inefficiency should delivered (filled) with both up and down price actions. So if **BS delivery** (when marked
-  goes up) occurred it reasonable expect that later **SS delivery** is also going to be done next in future
+* Every gap or inefficiency should delivered (filled) with both up and down price actions. So if Buyside delivery (when marked
+  goes up) occurred it reasonable expect that later Sellside delivery is also going to be done eventually
 
 ## NWOG
 New Week Opening Gap
