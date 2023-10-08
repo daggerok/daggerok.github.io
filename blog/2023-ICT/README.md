@@ -41,7 +41,9 @@ that I should make some notes about it
   * London session in between 2am-5am
   * New York session in between 7am-10am
   * And finally intrady just before 9:30am 
-* Trade from Monday till Friday
+* Trade from Monday till Friday:
+  * From 8:30am (or 9:30am depends on year time) till 12pm
+  * From 1-1:30pm till 4-4:30pm
 * Do not trade on Thursday and Friday in between 8am and 10am
 * **FVG** with **OTE** is signifficant only if before it we traded into Sellside Liquidity or Buyside Liquidity meaning
   that is should be traded under Retail Trader idea of support level / double bottom or it should be traded above Retail
