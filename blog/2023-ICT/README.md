@@ -45,12 +45,12 @@ that I should make some notes about it
   move - that is a first stage delivery. The second stage is the opposite is whatever that is meaning we will see price
   do reversal.
   For example:
-  ![Fake move on MNQZ2023 on Fri Oct 06 '23 at 8:30am](MNQZ2023-Fri-Oct-06-at-8-30-am-1st-stage.png)
+  ![Fake move on MNQZ2023 on Fri Oct 06 '23 at 8:30am](./MNQZ2023-Fri-Oct-06-at-8-30-am-1st-stage.png)
   Here everybody thinking: "okay, it's gonna go lower" and it's crashes everyone that's already in long... And it did so
   in stunning fashion very quickly, which scares everyone in a marketplace, it terrifies them! ...Then the market does
   a second stage: what the 8:30am news sentiment shift caused everyone to think that it would keep going lower and keep
   going lower... They trapped them short and then they run against the move that took place in the morning:
-  ![SMT price delivery move on MNQZ2023 on Fri Oct 06 '23 at 9:00am](MNQZ2023-Fri-Oct-06-at-9-00-am-2nd-stage.png)
+  ![SMT price delivery move on MNQZ2023 on Fri Oct 06 '23 at 9:00am](./MNQZ2023-Fri-Oct-06-at-9-00-am-2nd-stage.png)
 
 ## NWOG
 New Week Opening Gap
