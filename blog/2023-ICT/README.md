@@ -8,6 +8,7 @@ that I should make some notes about it
 * **Buyside Imbalance Sellside Inefficiency** (BISI)
 * **Sellside Liquidity** (SL)
 * **Sellside Imbalance Buyside Inefficiency** (SIBI)
+* **Regular Trading Hours** (RTH). Hours when algorithm is delivering price to **SMT**
 * **Electronic Trading Hours** (ETH). All available trading hours on a chart
 * **Liquidity Viod** (LV). Gap between two candels where no trading at all, for example between **NWOGap High** and **NWOG Low**
 * **Market Sructure Shift** (MSS). Bullish MSS, Bearish MSS
@@ -23,7 +24,6 @@ that I should make some notes about it
   be changed in a moment where market price is opened today on **ETH** before 9:30am... If current price is above
   **ORG Settlement**, then we should change **ORG Settlement** to **ORG Low**, otherwise **ORG Settlement** to **ORG High**
 * **Optimal Trade Entry** (OTE) [using Breaking Market Structure](https://www.youtube.com/watch?v=aQrd75xwBS4)
-* **Regular Trading Hours** (RTH). Hours when algorithm is delivering price to **SMT**
 * **Silver Bullet** (SB). 1-hour time interval where a **FVG** can be touched: 10am-11am, 1pm-2pm
 * **Smart Money** (SM)
 * **Smart Money Concepts** (SMC)
