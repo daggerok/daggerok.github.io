@@ -21,8 +21,9 @@ that I should make some notes about it
 * [**Opening Range Gap** (ORG)](https://www.youtube.com/live/LoXPDfFoLSc?si=Gp6dGyGANROcwTpQ&t=1327). Where we have
   relation between **RTH**
 * **Opening Range Gap Settlement** (ORG Settlement). Previous day close price on **RTH**. Word Settlement is going to
-  be changed in a moment where market price is opened today on **ETH** before 9:30am... If current price is above
-  **ORG Settlement**, then we should change **ORG Settlement** to **ORG Low**, otherwise **ORG Settlement** to **ORG High**
+  be changed in a moment where market price is opened at 9:30am... If current price is opened above
+  **ORG Settlement**, then we should change **ORG Settlement** to **ORG Low**, otherwise **ORG Settlement** must be changed to
+  **ORG High** as far opening price is under the **RTH** previously closed price
 * **Optimal Trade Entry** (OTE) [using Breaking Market Structure](https://www.youtube.com/watch?v=aQrd75xwBS4)
 * **Silver Bullet** (SB). 1-hour time interval where a **FVG** can be touched: 10am-11am, 1pm-2pm
 * **Smart Money** (SM)
