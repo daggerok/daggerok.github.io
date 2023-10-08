@@ -37,6 +37,9 @@ that I should make some notes about it
 * Do not trade on Thursday and Friday in between 8am and 10am
 * Every gap or inefficiency should delivered (filled) with both up and down price actions. So if Buyside delivery (when marked
   goes up) occurred it reasonable expect that later Sellside delivery is also going to be done eventually
+* In most cases in 8:30am when news are came out the first run whatever that direction is in price that is the fake move - that is
+  a first stage delivery. The second stage is the oppoite is whatever that is meaning we will see price do reversal. For example:
+  
 
 ## NWOG
 New Week Opening Gap
