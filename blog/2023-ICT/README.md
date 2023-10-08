@@ -35,6 +35,7 @@ that I should make some notes about it
 
 * Trade from Monday till Friday
 * Do not trade on Thursday and Friday in between 8am and 10am
+* **FVG** with **OTE** is signifficant only if before it we traded into Sellside Liquidity or Buyside Liquidity
 * Every gap or inefficiency should delivered (filled) with both up and down price actions. So if Buyside delivery (when
   marked goes up) occurred it reasonable expect that later Sellside delivery is also going to be done eventually
 * In most cases in 8:30am when news are came out the first run whatever that direction is in price that is the fake
