@@ -4,7 +4,12 @@ that I should make some notes about it
 
 ## Glossary and acronyms
 
+* **Buyside Liquidity** (BL)
+* **Buyside Imbalance Sellside Inefficiency** (BISI)
+* **Sellside Liquidity** (SL)
+* **Sellside Imbalance Buyside Inefficiency** (SIBI)
 * **Electronic Trading Hours** (ETH). All available trading hours on a chart
+* **Liquidity Viod** (LV). Gap between two candels where no trading at all, for example between **NWOGap High** and **NWOG Low**
 * **Market Sructure Shift** (MSS). Bullish MSS, Bearish MSS
 * [**New Week Opening Gap** (NWOG)](https://www.youtube.com/live/LoXPDfFoLSc?si=Ob_gRATBCm7Fgm2W&t=1251). Gap between
   close price of previous Friday at 4:30pm and open price of previous Sunday at 6pm
@@ -19,10 +24,6 @@ that I should make some notes about it
   **ORG Settlement**, then we should change **ORG Settlement** to **ORG Low**, otherwise **ORG Settlement** to **ORG High**
 * **Optimal Trade Entry** (OTE) [using Breaking Market Structure](https://www.youtube.com/watch?v=aQrd75xwBS4)
 * **Regular Trading Hours** (RTH). Hours when algorithm is delivering price to **SMT**
-* **Buyside Liquidity** (BL)
-* **Buyside Imbalance Sellside Inefficiency** (BISI)
-* **Sellside Liquidity** (SL)
-* **Sellside Imbalance Buyside Inefficiency** (SIBI)
 * **Silver Bullet** (SB). 1-hour time interval where a **FVG** can be touched: 10am-11am, 1pm-2pm
 * **Smart Money** (SM)
 * **Smart Money Concepts** (SMC)
