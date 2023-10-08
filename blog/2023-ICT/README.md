@@ -10,7 +10,8 @@ that I should make some notes about it
 * **Sellside Imbalance Buyside Inefficiency** (SIBI)
 * **Regular Trading Hours** (RTH). Hours when algorithm is delivering price to **SMT**
 * **Electronic Trading Hours** (ETH). All available trading hours on a chart
-* **Liquidity Viod** (LV). Gap between two candels where no trading at all, for example between **NWOGap High** and **NWOG Low**
+* **Liquidity Viod** (LV). Gap between two candels where no trading at all, for example between **NWOGap High** and
+  **NWOG Low**
 * **Market Sructure Shift** (MSS). Bullish MSS, Bearish MSS
 * [**New Week Opening Gap** (NWOG)](https://www.youtube.com/live/LoXPDfFoLSc?si=Ob_gRATBCm7Fgm2W&t=1251). Gap between
   close price of previous Friday at 4:30pm and open price of previous Sunday at 6pm
@@ -35,7 +36,9 @@ that I should make some notes about it
 
 * Trade from Monday till Friday
 * Do not trade on Thursday and Friday in between 8am and 10am
-* **FVG** with **OTE** is signifficant only if before it we traded into Sellside Liquidity or Buyside Liquidity
+* **FVG** with **OTE** is signifficant only if before it we traded into Sellside Liquidity or Buyside Liquidity meaning
+  that is should be traded under Retail Trader idea of support level / double bottom or it should be traded above Retail
+  trader idea of resistance level / double top / head and sholders, etc... 
 * Every gap or inefficiency should delivered (filled) with both up and down price actions. So if Buyside delivery (when
   marked goes up) occurred it reasonable expect that later Sellside delivery is also going to be done eventually
 * In most cases in 8:30am when news are came out the first run whatever that direction is in price that is the fake
