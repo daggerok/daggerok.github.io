@@ -40,6 +40,7 @@ that I should make some notes about it
   * Asian session in between 7pm-9pm
   * London session in between 2am-5am
   * New York session in between 7am-10am
+  * And finally intrady just before 9:30am 
 * Trade from Monday till Friday
 * Do not trade on Thursday and Friday in between 8am and 10am
 * **FVG** with **OTE** is signifficant only if before it we traded into Sellside Liquidity or Buyside Liquidity meaning
