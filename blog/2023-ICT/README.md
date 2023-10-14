@@ -2,6 +2,13 @@
 This is my ICT notes. I started learn it this (2023) year, but topic is quite big and complex, so I feel
 that I should make some notes about it
 
+## Seasonality
+* On a weekly chart (preferably before week start) we should think of where weekly candle should go - higher or lower.
+  It depends on FED how ots gonna rase interrest rate (Stock markets doesn't like that). If we are in a earching
+  season, then there are a lot of valotility because of earnings. All this factors - are drivers to where is market is
+  going to go, up or down to drawing a liquidity or deliver price effectively to some previously formed FVG
+* On a daily chart
+
 ## Glossary and acronyms
 
 * **Buyside Liquidity** (BL)
