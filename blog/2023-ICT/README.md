@@ -3,12 +3,14 @@ This is my ICT notes. I started learn it this (2023) year, but topic is quite bi
 that I should make some notes about it
 
 ## [Seasonality](https://www.youtube.com/watch?v=tmeCWULSTHc&t=26s)
-* On a weekly chart (preferably before week start) we should think of where weekly candle should go - higher or lower.
+* [On a weekly chart (preferably before week start) we should think of where weekly candle should go - higher or lower
+  ](https://youtu.be/tmeCWULSTHc?si=Fs4jFaHgYEBTnhH1&t=983).
   It depends on FED how ots gonna rase interrest rate (Stock markets doesn't like that). If we are in a earching
   season, then there are a lot of valotility because of earnings. All this factors - are drivers to where is market is
-  going to go, up or down to drawing a liquidity or deliver price effectively to some previously formed FVG. [So the
-  only thing we are looking for is a likly movement higher or lower based on a weekly candle](https://youtu.be/tmeCWULSTHc?si=Fs4jFaHgYEBTnhH1&t=983)
-* On a daily chart
+  going to go, up or down to drawing a liquidity or deliver price effectively to some previously formed FVG. So the
+  only thing we are looking for is a likly movement higher or lower based on a weekly candle
+* [On a daily chart we are lookling for swing highs and swing lows to get your liquidity
+  ](https://youtu.be/tmeCWULSTHc?si=HZNXc0wvjaIxyMHE&t=995)
 
 ## Glossary and acronyms
 
