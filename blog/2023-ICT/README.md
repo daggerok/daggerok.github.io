@@ -12,7 +12,10 @@ that I should make some notes about it
 * Daily bias. [On a daily chart we are lookling for swing highs and swing lows to get your liquidity
   ](https://youtu.be/tmeCWULSTHc?si=HZNXc0wvjaIxyMHE&t=995). Major treading time to looking for reasons what makes
   market go higher or lower will be found on that TF (time frame). We wanna see every STL (short teram low) which
-  is going to be a sell stops on a bearish bias or buy stops on a bulish bias.
+  is going to be a sell stops on a bearish bias or buy stops on a bulish bias. Market is always drawing one of
+  these things:
+  - its drawing to stops, which is liquidity, or
+  - its running to [imbalance (FVG)](https://youtu.be/tmeCWULSTHc?si=ObTgBNA4WAAsjBCW&t=1064)
 
 ## Glossary and acronyms
 
