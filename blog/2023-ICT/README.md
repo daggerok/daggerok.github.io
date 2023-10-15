@@ -19,6 +19,11 @@ that I should make some notes about it
 
 ## [Internal range liquidity & Market structure shift](https://www.youtube.com/watch?v=nQfHZ2DEJ8c)
 
+* [Sell Side Liquidity](https://www.youtube.com/watch?v=nQfHZ2DEJ8c&t=114s)
+* [What is an Order Block](https://www.youtube.com/watch?v=nQfHZ2DEJ8c&t=1461s)
+* [Homework](https://www.youtube.com/watch?v=nQfHZ2DEJ8c&t=2143s)
+* [Maximum risk on trade](https://www.youtube.com/watch?v=nQfHZ2DEJ8c&t=2944s)
+
 ## Glossary and acronyms
 
 * **Buyside Liquidity** (BL)
