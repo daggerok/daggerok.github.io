@@ -17,6 +17,8 @@ that I should make some notes about it
   - its drawing to stops, which is liquidity, or
   - its running to [imbalance (FVG)](https://youtu.be/tmeCWULSTHc?si=ObTgBNA4WAAsjBCW&t=1064)
 
+## [Internal range liquidity & Market structure shift](https://www.youtube.com/watch?v=nQfHZ2DEJ8c)
+
 ## Glossary and acronyms
 
 * **Buyside Liquidity** (BL)
