@@ -50,7 +50,10 @@ that I should make some notes about it
   **ORG Settlement**, then we should change **ORG Settlement** to **ORG Low**, otherwise **ORG Settlement** must be
   changed to **ORG High** as far opening price is under the **RTH** previously closed price
 * **Optimal Trade Entry** (OTE) [using Breaking Market Structure](https://www.youtube.com/watch?v=aQrd75xwBS4)
-* **Old High** is a first nearest swing high you can found going back on a chart starting from current candle
+* **Old High** or **Old Low** is a first nearest Swing High or Swing Low you can found going back on a chart starting
+  from current candle. If there are any other importants like **Fair Value Gap** or **Volume Gap** on a chart exists
+  near that Old High / Old Low, then we should watch our trade range in between that and current candles highs and lows
+  current candle and candle with
 * **Silver Bullet** (SB). 1-hour time interval where a **FVG** can be touched: 10am-11am, 1pm-2pm
 * **Smart Money** (SM)
 * **Smart Money Concepts** (SMC)
