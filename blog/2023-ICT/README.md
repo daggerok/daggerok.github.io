@@ -32,6 +32,7 @@ that I should make some notes about it
 * **Sellside Liquidity** (SL)
 * **Sellside Imbalance Buyside Inefficiency** (SIBI)
 * **Sell Stops** (SS). Stops above **SL** Retail Trader idea of resistance level on short positions, higher than old high
+* **Consequent Encuragment** its a middle of the gap
 * **Regular Trading Hours** (RTH). Hours when algorithm is delivering price to **SMT**
 * **Electronic Trading Hours** (ETH). All available trading hours on a chart
 * **Liquidity Viod** (LV). Gap between two candels where no trading at all, for example between **NWOGap High** and
@@ -40,7 +41,7 @@ that I should make some notes about it
 * [**New Week Opening Gap** (NWOG)](https://www.youtube.com/live/LoXPDfFoLSc?si=Ob_gRATBCm7Fgm2W&t=1251). Gap between
   close price of previous Friday at 4:30pm and open price of previous Sunday at 6pm
 * **New Week Opening Gap High** (NWOG High). Example: Sun 01 Oct '23 6pm
-* **New Week Opening Gap Consequent Encuragment** (NWOG C.E.). Mid point of the gap
+* **New Week Opening Gap Consequent Encuragment** (NWOG C.E.). Mid point of the NWOG
 * **New Week Opening Gap Low** (NWOG Low). Example: Fri 29 Sep '23 4:30pm
 * **New Day Opening Gap** (NDOG). Distance between 5pm and opening 6pm
 * [**Opening Range Gap** (ORG)](https://www.youtube.com/live/LoXPDfFoLSc?si=Gp6dGyGANROcwTpQ&t=1327). Where we have
