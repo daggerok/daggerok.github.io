@@ -22,7 +22,7 @@ that I should make some notes about it
 * Asia: 20:00-00:00
 * London: 02:00-05:00
 * New York AM Session: 8:30-11:00
-* New York PM Session: 14:00-16:00
+* New York PM Session: 13:30-16:00
 * New York Last 1 Hour of PM Session: 15:00-16:00
 
 ## [Internal range liquidity & Market structure shift](https://www.youtube.com/watch?v=nQfHZ2DEJ8c)
