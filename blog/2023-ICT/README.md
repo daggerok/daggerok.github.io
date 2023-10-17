@@ -26,10 +26,12 @@ that I should make some notes about it
 
 ## Glossary and acronyms
 
-* **Buyside Liquidity** (BL)
+* **Buyside Liquidity** (BL) - its **Buy Stops** (BS) retail traders put above **Old High** (OH) or above
+  **Short Tearm High** (STH)
 * **Buyside Imbalance Sellside Inefficiency** (BISI)
 * **Buy Stops** (BS). Stops below **BL** Retail Trader idea of support level on long positions, lower than old low
-* **Sellside Liquidity** (SL)
+* **Sellside Liquidity** (SL) - its **Sell Stops** (SS) retail traders put below **Old Low** (OL) or below
+  **Short Tearm Low** (STL)
 * **Sellside Imbalance Buyside Inefficiency** (SIBI)
 * **Sell Stops** (SS). Stops above **SL** Retail Trader idea of resistance level on short positions, higher than old high
 * **Consequent Encuragment** its a middle of the gap
