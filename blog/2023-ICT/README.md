@@ -25,6 +25,12 @@ that I should make some notes about it
 * New York PM Session: 13:30-16:00
 * New York Last 1 Hour of PM Session: 15:00-16:00
 
+## Silver bullet
+
+* London SB: 03:00-04:00
+* New York AM SB: 10:00-11:00
+* New York PM SB: 14:00-15:00
+
 ## [Internal range liquidity & Market structure shift](https://www.youtube.com/watch?v=nQfHZ2DEJ8c)
 
 * [Sell Side Liquidity](https://www.youtube.com/watch?v=nQfHZ2DEJ8c&t=114s)
