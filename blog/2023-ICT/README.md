@@ -55,8 +55,9 @@ that I should make some notes about it
 * **Smart Money Concepts** (SMC)
 * **Smart Money Traders** (SMT)
 * **Stop Raid** (SR)
-* **Final Hour Of PM Trading Session** - 15:00-16:00 time (from 3pm till 4pm) where is possibility of price action move
-  in the end of the day
+* **PM Trading Session** - 14:00-16:00 time interval (from 2pm till 4pm)
+* **Final Hour Of PM Trading Session** - 15:00-16:00 time interval (from 3pm till 4pm) where is possibility of price action
+  move in the end of the day
 
 ## Rules
 
