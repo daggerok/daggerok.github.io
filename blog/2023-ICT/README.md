@@ -2,6 +2,11 @@
 This is my ICT notes. I started learn it this (2023) year, but topic is quite big and complex, so I feel
 that I should make some notes about it
 
+## When professionals trade?
+* Do not trade on Wensday, Thoursday and Friday leading up to Non-Farm Payroll (NFP) because ther are is going to be a lot of volatility 
+* Monday and Tuesday
+* Wensday will have big price move if on Tue price was consolidate
+
 ## [Seasonality](https://www.youtube.com/watch?v=tmeCWULSTHc&t=26s)
 * Weekly bias. [On a weekly chart (preferably before week start) we should think of where weekly candle should go
   higher or lower](https://youtu.be/tmeCWULSTHc?si=Fs4jFaHgYEBTnhH1&t=983). It depends on FED how ots gonna rase
