@@ -2,6 +2,10 @@
 This is my ICT notes. I started learn it this (2023) year, but topic is quite big and complex, so I feel
 that I should make some notes about it
 
+## Learnng Plan
+* ICT 2022 Mentorship
+* ICT Silve Bullet
+
 ## When professionals trade?
 * Do not trade on Wensday, Thoursday and Friday leading up to Non-Farm Payroll (NFP) because ther are is going to be a lot of volatility 
 * Monday and Tuesday
