@@ -30,7 +30,7 @@ that I should make some notes about it
 
 * Asia: 20:00-00:00
 * London: 02:00-05:00
-* New York AM Session: 8:30-11:00
+* New York AM Session: 8:30-11:00 (FX pairs: 7:00-10:00)
 * New York PM Session: 13:30-16:00
 * New York Last 1 Hour of PM Session: 15:00-16:00
 
