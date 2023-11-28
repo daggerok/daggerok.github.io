@@ -12,15 +12,16 @@ that I should make some notes about it
 * Wensday will have big price move if on Tue price was consolidate
 
 ## [Seasonality](https://www.youtube.com/watch?v=tmeCWULSTHc&t=26s)
-* On a daily timeframe charts we are looking for **SMT divergence** on all three Indexes:
+* **SMT Divergence** is showing a willingness to correct the correlation
+* On a **daily timeframe** charts we are looking for **SMT divergence** between all these 3 Indexes:
   - NASDAQ
   - S&P 500
   - DOW
-* In spring **in between Apr and May** we are looking for **Bearish SMT divergence** when one of these indexes
+* **In spring in between Apr and May** we are looking for **Bearish SMT divergence** when one of these indexes
   will not be able to form higher high.
   Once that happened we are hunt for **ICT 2022 Mentorship Bearish Model**
-* In autumn (in fall in between 3rd week of Spe and 3rd week of Nov) **in between Apr and May** we are looking
-  for **Billush SMT divergence** when one of these indexes will not be able to form lower low.
+* **In autumn (fall) in between 3rd week of Spe and 3rd week of Nov** we are looking for
+  **Billush SMT divergence** when one of these indexes will not be able to form lower low.
   Once that happened we are hunt for **ICT 2022 Mentorship Bullish Model**
 * Weekly bias. [On a weekly chart (preferably before week start) we should think of where weekly candle should go
   higher or lower](https://youtu.be/tmeCWULSTHc?si=Fs4jFaHgYEBTnhH1&t=983). It depends on FED how ots gonna rase
