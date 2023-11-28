@@ -19,7 +19,7 @@ that I should make some notes about it
 * In spring **in between Apr and May** we are looking for **Bearish SMT divergence** when one of these indexes
   will not be able to form higher high.
   Once that happened we are hunt for **ICT 2022 Mentorship Bearish Model**
-* In autum (in fall in between 3rd week of Spe and 3rd week of Nov) **in between Apr and May** we are looking
+* In autumn (in fall in between 3rd week of Spe and 3rd week of Nov) **in between Apr and May** we are looking
   for **Billush SMT divergence** when one of these indexes will not be able to form lower low.
   Once that happened we are hunt for **ICT 2022 Mentorship Bullish Model**
 * Weekly bias. [On a weekly chart (preferably before week start) we should think of where weekly candle should go
