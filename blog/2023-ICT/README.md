@@ -12,6 +12,16 @@ that I should make some notes about it
 * Wensday will have big price move if on Tue price was consolidate
 
 ## [Seasonality](https://www.youtube.com/watch?v=tmeCWULSTHc&t=26s)
+* On a daily timeframe charts we are looking for **SMT divergence** on all three Indexes:
+  - NASDAQ
+  - S&P 500
+  - DOW
+* In spring **in between Apr and May** we are looking for **Bearish SMT divergence** when one of these indexes
+  will not be able to form higher high.
+  Once that happened we are hunt for **ICT 2022 Mentorship Bearish Model**
+* In autum (in fall in between 3rd week of Spe and 3rd week of Nov) **in between Apr and May** we are looking
+  for **Billush SMT divergence** when one of these indexes will not be able to form lower low.
+  Once that happened we are hunt for **ICT 2022 Mentorship Bullish Model**
 * Weekly bias. [On a weekly chart (preferably before week start) we should think of where weekly candle should go
   higher or lower](https://youtu.be/tmeCWULSTHc?si=Fs4jFaHgYEBTnhH1&t=983). It depends on FED how ots gonna rase
   interrest rate (Stock markets doesn't like that). If we are in a earching season, then there are a lot of
@@ -27,7 +37,6 @@ that I should make some notes about it
   - its running to [imbalance (FVG)](https://youtu.be/tmeCWULSTHc?si=ObTgBNA4WAAsjBCW&t=1064)
 
 ## Killzones
-
 * Asia: 20:00-00:00
 * London: 02:00-05:00
 * New York AM Session: 8:30-11:00 (FX pairs: 7:00-10:00)
@@ -35,20 +44,17 @@ that I should make some notes about it
 * New York Last 1 Hour of PM Session: 15:00-16:00
 
 ## Silver bullet
-
 * London SB: 03:00-04:00
 * New York AM SB: 10:00-11:00
 * New York PM SB: 14:00-15:00
 
 ## [Internal range liquidity & Market structure shift](https://www.youtube.com/watch?v=nQfHZ2DEJ8c)
-
 * [Sell Side Liquidity](https://www.youtube.com/watch?v=nQfHZ2DEJ8c&t=114s)
 * [What is an Order Block](https://www.youtube.com/watch?v=nQfHZ2DEJ8c&t=1461s)
 * [Homework](https://www.youtube.com/watch?v=nQfHZ2DEJ8c&t=2143s)
 * [Maximum risk on trade](https://www.youtube.com/watch?v=nQfHZ2DEJ8c&t=2944s)
 
 ## Glossary and acronyms
-
 * **Buyside Liquidity** (BL) - its **Buy Stops** (BS) retail traders put above **Old High** (OH) or above
   **Short Tearm High** (STH)
 * **Buyside Imbalance Sellside Inefficiency** (BISI)
@@ -92,7 +98,6 @@ that I should make some notes about it
   below marketplace if I'm bearish) or if there is an imbalance (BISI if I'm bulish, SIBI if I'm bearish)
 
 ## Rules
-
 * Before trade always check highs and lows marker could sweep above or below for **Stop Raid**:
   * Asian session in between 7pm-9pm
   * London session in between 2am-5am
@@ -121,7 +126,6 @@ that I should make some notes about it
   ![SMT price delivery move on MNQZ2023 on Fri Oct 06 '23 at 9:00am](./MNQZ2023-Fri-Oct-06-at-9-00-am-2nd-stage.png)
 
 ## NWOG
-
 New Week Opening Gap
 
 ![NWOG MNQ1!](./NWOG-MNQ1!.png)
