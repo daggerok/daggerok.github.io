@@ -18,7 +18,8 @@ that I should make some notes about it
   - At 9:30
   - At news events beign released
   And if we have a bias then it's healpful: For example **we are bulish** and **NASDAQ did a lower low**
-  but **E-MINI S&P 500 - a higher low**, then we shouldn't trade **NASDAQ**, but **S&P 500**...
+  but **E-MINI S&P 500 - a higher low**, then we shouldn't trade **NASDAQ**, but **S&P 500** because its not
+  likely to go lower, but higher
 * On a **daily timeframe** charts we are looking for **SMT divergence** between all these 3 Indexes:
   - NASDAQ
   - S&P 500
