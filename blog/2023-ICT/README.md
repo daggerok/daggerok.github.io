@@ -15,7 +15,7 @@ that I should make some notes about it
 * **SMT Divergence** (Smart Money Technique Divergence) is showing a willingness to correct the correlation.
   Usually it happens
   - At 8:30
-  - At 9:30
+  - Around 9:30 when there are already been nice early run before 7:00 or 8:00
   - At news events beign released
   And if we have a bias then it's healpful: For example **we are bulish** and **NASDAQ did a lower low**
   but **E-MINI S&P 500 - a higher low**, then we shouldn't trade **NASDAQ**, but **S&P 500** because its not
