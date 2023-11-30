@@ -12,7 +12,11 @@ that I should make some notes about it
 * Wensday will have big price move if on Tue price was consolidate
 
 ## [Seasonality](https://www.youtube.com/watch?v=tmeCWULSTHc&t=26s)
-* **SMT Divergence** is showing a willingness to correct the correlation
+* **SMT Divergence** (Smart Money Technique Divergence) is showing a willingness to correct the correlation.
+  Usually it happens
+  - At 8:30
+  - At 9:30
+  - At news events beign released
 * On a **daily timeframe** charts we are looking for **SMT divergence** between all these 3 Indexes:
   - NASDAQ
   - S&P 500
