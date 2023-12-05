@@ -9,7 +9,7 @@ that I should make some notes about it
 
 ## When professionals trade?
 * In bearish market 70% of time high of the week will be formed on Tue or Wed
-* In bullish market 70% of time low of the week will be formed on Tue or Wed
+* In bullish market 70% of time low of the week will be formed on Mon or Tue
 * Do not trade on Wensday, Thoursday and Friday leading up to Non-Farm Payroll (NFP) because ther are is going to be a lot of volatility 
 * Monday and Tuesday
 * Wensday will have big price move if on Tue price was consolidate
