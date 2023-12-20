@@ -14,6 +14,24 @@ that I should make some notes about it
 * Monday and Tuesday
 * Wensday will have big price move if on Tue price was consolidate
 
+## Institutional Price Delivery Algorythm (IPTA)
+
+General order in the daily range:
+* Consolidation = Asia
+* Expansion/Reversal = London (Normally makes the high or low of day)
+* Consolidation = Pre-NY (5:00am → 8:00am EST)
+* Retracement = (8:00 → 8.30am EST)
+* Expansion = NY
+* Reversal = NY
+* Consolidation = Near/after market close
+
+General order in the weekly range:
+* Sunday Open = Consolidation
+* Monday = Expansion/Reversal
+* Tuesday = Reversal
+* Wednesday = Consolidation
+* Friday = Reversal/Retracement/Expansion
+
 ## [Seasonality](https://www.youtube.com/watch?v=tmeCWULSTHc&t=26s)
 * **SMT Divergence** (Smart Money Technique Divergence) is showing a willingness to correct the correlation.
   Usually it happens
