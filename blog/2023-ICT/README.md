@@ -158,3 +158,9 @@ General order in the weekly range:
 New Week Opening Gap
 
 ![NWOG MNQ1!](./NWOG-MNQ1!.png)
+
+## How to define Opening Range Settlement (Gap)
+
+* Enable RTH
+* Mark with horiszontal line prev. Friday closed price
+* As soon market open at 9:30am mark ractangle (with consequent encouragement line) from horizontal price to 9:30am open price
