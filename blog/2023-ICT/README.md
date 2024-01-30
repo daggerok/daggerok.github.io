@@ -162,6 +162,10 @@ New Week Opening Gap
 ## How to define Opening Range Settlement and Opening Range Gap
 
 * Enable RTH
-* Mark with horiszontal line prev. Friday closed price - Opening Range Settlement
-* As soon market open at 9:30am mark ractangle with consequent encouragement line from horizontal price to 9:30am open
-  price. Consequent encouragement line - Opening Range Gap
+* Mark with horiszontal line prev. Friday close 16:14pm price - **Opening Range Settlement**
+* As soon Market open 9:30am price appears then mark ractangle with consequent encouragement line from horizontal price
+  to Market open 9:30am price. Consequent encouragement line - **Opening Range Gap**
+* If Market open 9:30am price will be higher than Friday close 16:14pm price then **Opening Range Settlement** becomes
+  **Opening Range Low**
+* If Market open 9:30am price will be lower than Friday close 16:14pm price then **Opening Range Settlement** becomes
+  **Opening Range High**
