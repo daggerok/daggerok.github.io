@@ -171,15 +171,14 @@ New Week Opening Gap
   **Opening Range High**
 
 ## Mastering High Probability Scalping
-
-### ICT Directional Bias For Sculping
+ICT Directional Bias For Sculping
 
 See this [ICT - Mastering High Probability Scalping Volumes 1 - 3](https://www.youtube.com/watch?v=uE-aaP16nOw&list=PLVgHx4Z63paYdrA3rupIlFhsYFA07GJGP&index=1&ab_channel=TheInnerCircleTrader)
 YouTube playlist
 
-#### Bullish Bias
+### Implementing Bullish Daily Bias
 
-![](./2024-02-03-bullish.png)
+![ICT Directional Bullish Bias For Sculping](./2024-02-03-bullish-1.png) ![Implementing Bullish Daily Bias](./2024-02-04-Bullish-2.png)
 
 If we are **Bullish**, we are looking for **daily (1D) chart** and when we see **Daily Swing Low (DSL)** formaation - what we are lookibg
 for is next:
@@ -189,11 +188,11 @@ for is next:
   through on next day or before that we want to see some retraisment
 * Once next day does that - we know that next we will anticipate a **run on previous day high liquidity**
 
-![](./MNQH2024_2024-02-03_22-32-43_6c2aa.png)
+![MNQH2024 Bullish Chart](./MNQH2024_2024-02-04-Bullish.png)
 
-#### Bearish Bias
+### Implementing Bearish Daily Bias
 
-![](./2024-02-03-bearish.png)
+![ICT Directional Bearish Bias For Sculping](./2024-02-03-bearish-1.png) ![Implementing Bearish Daily Bias](./2024-02-04-Bearish-2.png)
 
 If we are **Bearish**, we are looking for **1D chart** and when we see **DSH** formaation - what
 we are lookibg for is next:
@@ -203,4 +202,4 @@ we are lookibg for is next:
   through on next day or before that we want to see some retraisment
 * Once next day does that - we know that next we will anticipate a **run on previous day low liquidity**
 
-![](./MNQH2024_2024-02-03_23-28-09_791ef.png)
+![MNQH2024 Bearish Chart](./MNQH2024_2024-02-04-Bearish.png)
