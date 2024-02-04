@@ -1,0 +1,1 @@
+import{_ as e,g as o,o as t,c as s}from"./app-82404351.js";const _=o({name:"Footer"}),c={class:"footer"};function n(r,a,d,p,i,f){return t(),s("div",c," Maksim Kostromin © 2022-present 🙃")}const m=e(_,[["render",n],["__scopeId","data-v-c6bcd437"],["__file","Footer.vue"]]);export{m as default};

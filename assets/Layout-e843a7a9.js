@@ -1,0 +1,1 @@
+import{_ as t,o as s,c as a,d as e,a as o,P as c}from"./app-82404351.js";import r from"./Footer-e7aa0c08.js";const _={class:"wrapper"},n={class:"content-wrapping-section"},i={class:"footer"},p={__name:"Layout",setup(d){return(u,l)=>(s(),a("div",_,[e("div",n,[o(c)]),e("div",i,[o(r)])]))}},h=t(p,[["__file","Layout.vue"]]);export{h as default};

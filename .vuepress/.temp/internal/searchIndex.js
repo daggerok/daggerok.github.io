@@ -1,0 +1,258 @@
+export const searchIndex = [
+  {
+    "title": "",
+    "headers": [],
+    "path": "/",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Blog",
+    "headers": [],
+    "path": "/blog/",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "VuePress 2.x Getting Started",
+    "headers": [
+      {
+        "level": 2,
+        "title": "Install NodeJS",
+        "slug": "install-nodejs",
+        "link": "#install-nodejs",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "Initialize project",
+        "slug": "initialize-project",
+        "link": "#initialize-project",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "Install minimal require software",
+        "slug": "install-minimal-require-software",
+        "link": "#install-minimal-require-software",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "Git ignore configuration",
+        "slug": "git-ignore-configuration",
+        "link": "#git-ignore-configuration",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "Add NPM scripts",
+        "slug": "add-npm-scripts",
+        "link": "#add-npm-scripts",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "Static resources",
+        "slug": "static-resources",
+        "link": "#static-resources",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "Site content",
+        "slug": "site-content",
+        "link": "#site-content",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "Run dev server to test",
+        "slug": "run-dev-server-to-test",
+        "link": "#run-dev-server-to-test",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "Custom styling",
+        "slug": "custom-styling",
+        "link": "#custom-styling",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "Customize navbar",
+        "slug": "customize-navbar",
+        "link": "#customize-navbar",
+        "children": [
+          {
+            "level": 3,
+            "title": "Navbar title",
+            "slug": "navbar-title",
+            "link": "#navbar-title",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "Navbar links",
+            "slug": "navbar-links",
+            "link": "#navbar-links",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "Navbar search",
+            "slug": "navbar-search",
+            "link": "#navbar-search",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "Deployment",
+        "slug": "deployment",
+        "link": "#deployment",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "Create custom components",
+        "slug": "create-custom-components",
+        "link": "#create-custom-components",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "Add custom local theme",
+        "slug": "add-custom-local-theme",
+        "link": "#add-custom-local-theme",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "Useful links",
+        "slug": "useful-links",
+        "link": "#useful-links",
+        "children": []
+      }
+    ],
+    "path": "/blog/2022-08-08-vuepress-2-getting-started/",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "ICT",
+    "headers": [
+      {
+        "level": 2,
+        "title": "Learnng Plan",
+        "slug": "learnng-plan",
+        "link": "#learnng-plan",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "When professionals trade?",
+        "slug": "when-professionals-trade",
+        "link": "#when-professionals-trade",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "Institutional Price Delivery Algorythm (IPTA)",
+        "slug": "institutional-price-delivery-algorythm-ipta",
+        "link": "#institutional-price-delivery-algorythm-ipta",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "Seasonality",
+        "slug": "seasonality",
+        "link": "#seasonality",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "Killzones",
+        "slug": "killzones",
+        "link": "#killzones",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "Silver bullet",
+        "slug": "silver-bullet",
+        "link": "#silver-bullet",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "Internal range liquidity & Market structure shift",
+        "slug": "internal-range-liquidity-market-structure-shift",
+        "link": "#internal-range-liquidity-market-structure-shift",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "Glossary and acronyms",
+        "slug": "glossary-and-acronyms",
+        "link": "#glossary-and-acronyms",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "Rules",
+        "slug": "rules",
+        "link": "#rules",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "NWOG",
+        "slug": "nwog",
+        "link": "#nwog",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "How to define Opening Range Settlement and Opening Range Gap",
+        "slug": "how-to-define-opening-range-settlement-and-opening-range-gap",
+        "link": "#how-to-define-opening-range-settlement-and-opening-range-gap",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "Mastering High Probability Scalping",
+        "slug": "mastering-high-probability-scalping",
+        "link": "#mastering-high-probability-scalping",
+        "children": [
+          {
+            "level": 3,
+            "title": "Implementing Bullish Daily Bias",
+            "slug": "implementing-bullish-daily-bias",
+            "link": "#implementing-bullish-daily-bias",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "Implementing Bearish Daily Bias",
+            "slug": "implementing-bearish-daily-bias",
+            "link": "#implementing-bearish-daily-bias",
+            "children": []
+          }
+        ]
+      }
+    ],
+    "path": "/blog/2023-ICT/",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "",
+    "headers": [],
+    "path": "/404.html",
+    "pathLocale": "/",
+    "extraFields": []
+  }
+]
