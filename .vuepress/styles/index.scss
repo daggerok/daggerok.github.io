@@ -23,6 +23,11 @@ main.page {
   margin: 1rem auto 1rem !important;
 }
 
+img[alt="ICT Directional Bullish Bias For Sculping"], img[alt="Implementing Bullish Daily Bias"],
+img[alt="ICT Directional Bearish Bias For Sculping"], img[alt="Implementing Bearish Daily Bias"] {
+    max-width: 49%;
+}
+
 @media screen and (min-width: 1500px) {
   main.page {
     min-height: 85vh !important;
