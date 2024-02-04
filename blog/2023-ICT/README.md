@@ -183,8 +183,9 @@ YouTube playlist
 If we are **Bullish**, we are looking for **daily (1D) chart** and when we see **Daily Swing Low (DSL)** formaation - what we are lookibg
 for is next:
 
-* **DSL** occur **only after** previous **Swing Daily High (DSH)** was broken, when that happened:
-* We are on a **Bullish Alert** and our focus is on **last (right) candle high**, so we wanna see the high be traded
+* **DSL** occur **only after** previous **Swing Daily High (DSH)** was broken (like **Long Tearm High (LTH)** or **Short Tearm High (STH)**)
+  when that happened:
+* We are on a **Bullish Alert** and our focus is on **Last Candle High (Right Candle High)**, so we wanna see the high be traded
   through on next day or before that we want to see some retraisment
 * Once next day does that - we know that next we will anticipate a **run on previous day high liquidity**
 
@@ -198,7 +199,7 @@ If we are **Bearish**, we are looking for **1D chart** and when we see **DSH** f
 we are lookibg for is next:
 
 * **DSH** occur **only after** previous **DSL** was broken, when that happened:
-* We are on a **Bearish Alert** and our focus is on **last (right) candle low**, so we wanna see the low be traded
+* We are on a **Bearish Alert** and our focus is on **Last Candle Low (Right Candle Low)**, so we wanna see the low be traded
   through on next day or before that we want to see some retraisment
 * Once next day does that - we know that next we will anticipate a **run on previous day low liquidity**
 
