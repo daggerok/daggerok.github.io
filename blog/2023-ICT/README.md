@@ -204,3 +204,41 @@ we are lookibg for is next:
 * Once next day does that - we know that next we will anticipate a **run on previous day low liquidity**
 
 ![MNQH2024 Bearish Chart](./MNQH2024_2024-02-04-Bearish.png)
+
+### ICT Power Of 3 Concept
+
+#### Bullish Daily Bias
+
+![ICT Power Of 3 - Bullish Daily Bias figure](./2024-02-04-PO3-bullish-0.png)
+
+When The Daily Bias Is Bullish:
+
+* Confirm London session was **Bullish**
+* Wait for 8am New York time to stalk a **Long Position**
+* Between 8am - 9:30am New York time it may form
+* After 8am New York time wait for **Retracement Lower**
+* New York session will retrace from the SWH
+* Ideally select retracements of at least 20 pips lower
+* If no retracement of 20 pips forms by 10am - walk
+* If it does form - enter on the 62% fib as it drops down
+* Expect price to retest High of Day or a Previous Days High then Targets 1 & 2
+
+![ICT Power Of 3 - Bullish Daily Bias example](./2024-02-04-PO3-bullish-1.png)
+
+#### Bearish Daily Bias
+
+![ICT Power Of 3 - Bearish Daily Bias figure](./2024-02-04-PO3-bearish-0.png)
+
+When The Daily Bias Is Bearish:
+
+* Confirm London session was **Bearish**
+* Wait for 8am New York time to stalk a **Short Position**
+* Between 8am - 9:30am New York time it should form
+* After 8am New York time wait for **Retracement Higher**
+* New York session will retrace from the SWL
+* Ideally select retracements of at least 20 pips higher
+* If no retracement of 20 pips forms by 10am - walk
+* If it does form - enter on the 62% fib as it rallies up
+* Expect price to retest Low of Day or a Previous Days Low then Targets 1 & 2
+
+![ICT Power Of 3 - Bearish Daily Bias example](./2024-02-04-PO3-bearish-1.png)
