@@ -177,7 +177,7 @@ New Week Opening Gap
 See this [ICT - Mastering High Probability Scalping Volumes 1 - 3](https://www.youtube.com/watch?v=uE-aaP16nOw&list=PLVgHx4Z63paYdrA3rupIlFhsYFA07GJGP&index=1&ab_channel=TheInnerCircleTrader)
 YouTube playlist
 
-### Bullish Bias
+#### Bullish Bias
 
 If we are **Bullish**, we are looking for **daily (1D) chart** and when we see **Daily Swing Low (DSL)** formaation - what we are lookibg
 for is next:
@@ -190,7 +190,7 @@ for is next:
 ![](./MNQH2024_2024-02-03_22-32-43_6c2aa.png)
 
 
-### Bearish Bias
+#### Bearish Bias
 
 If we are **Bearish**, we are looking for **1D chart** and when we see **DSH** formaation - what
 we are lookibg for is next:
