@@ -179,13 +179,25 @@ YouTube playlist
 
 ### Bullish Bias
 
-If we are Bullish, we are looking for daily (1D) chart and when we see **Swing Daily Low (DSL)** formaation - what
-we are lookibg for is next:
+If we are **Bullish**, we are looking for **daily (1D) chart** and when we see **Daily Swing Low (DSL)** formaation - what we are lookibg
+for is next:
 
-* **DSL** occur **only after** previous **Daily Swing High (DSH)** was broken, when that happened:
-* We are on a **Bullish Alert** and our focus is on last (right) candle high, so we wanna see the high be traded
-  through on next day
-* Once next day does that - we know that on next day after that we will antisipate a run on previous day high
-  liquidity
+* **DSL** occur **only after** previous **Swing Daily High (DSH)** was broken, when that happened:
+* We are on a **Bullish Alert** and our focus is on **last (right) candle high**, so we wanna see the high be traded
+  through on next day or before that we want to see some retraisment
+* Once next day does that - we know that next we will anticipate a **run on previous day high liquidity**
 
 ![](./MNQH2024_2024-02-03_22-32-43_6c2aa.png)
+
+
+### Bearish Bias
+
+If we are **Bearish**, we are looking for **1D chart** and when we see **DSH** formaation - what
+we are lookibg for is next:
+
+* **DSH** occur **only after** previous **DSL** was broken, when that happened:
+* We are on a **Bearish Alert** and our focus is on **last (right) candle low**, so we wanna see the low be traded
+  through on next day or before that we want to see some retraisment
+* Once next day does that - we know that next we will anticipate a **run on previous day low liquidity**
+
+![](./MNQH2024_2024-02-03_23-28-09_791ef.png)
