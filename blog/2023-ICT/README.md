@@ -169,3 +169,11 @@ New Week Opening Gap
   **Opening Range Low**
 * If Market open 9:30am price will be lower than Friday close 16:14pm price then **Opening Range Settlement** becomes
   **Opening Range High**
+
+## 
+
+See this [ICT - Mastering High Probability Scalping Volumes 1 - 3](https://www.youtube.com/watch?v=uE-aaP16nOw&list=PLVgHx4Z63paYdrA3rupIlFhsYFA07GJGP&index=1&ab_channel=TheInnerCircleTrader)
+YouTube playlist
+
+* When we see **Swing Daily Low (DSL)** formaation on a daily (1D) chart - what we are lookibg for is **DSL** occur
+  **only after** previous **Daily Swing High (DSH)** has been broken
