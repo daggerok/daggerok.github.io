@@ -170,10 +170,20 @@ New Week Opening Gap
 * If Market open 9:30am price will be lower than Friday close 16:14pm price then **Opening Range Settlement** becomes
   **Opening Range High**
 
-## 
+## Mastering High Probability Scalping
 
 See this [ICT - Mastering High Probability Scalping Volumes 1 - 3](https://www.youtube.com/watch?v=uE-aaP16nOw&list=PLVgHx4Z63paYdrA3rupIlFhsYFA07GJGP&index=1&ab_channel=TheInnerCircleTrader)
 YouTube playlist
 
-* When we see **Swing Daily Low (DSL)** formaation on a daily (1D) chart - what we are lookibg for is **DSL** occur
-  **only after** previous **Daily Swing High (DSH)** has been broken
+### Bullish Bias
+
+If we are Bullish, we are looking for daily (1D) chart and when we see **Swing Daily Low (DSL)** formaation - what
+we are lookibg for is next:
+
+* **DSL** occur **only after** previous **Daily Swing High (DSH)** was broken, when that happened:
+* We are on a **Bullish Alert** and our focus is on last (right) candle high, so we wanna see the high be traded
+  through on next day
+* Once next day does that - we know that on next day after that we will antisipate a run on previous day high
+  liquidity
+
+![](./MNQH2024_2024-02-03_22-32-43_6c2aa.png)
