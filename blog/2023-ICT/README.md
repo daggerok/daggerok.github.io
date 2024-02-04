@@ -179,6 +179,8 @@ YouTube playlist
 
 #### Bullish Bias
 
+![](./2024-02-03-bullish.png)
+
 If we are **Bullish**, we are looking for **daily (1D) chart** and when we see **Daily Swing Low (DSL)** formaation - what we are lookibg
 for is next:
 
@@ -189,8 +191,9 @@ for is next:
 
 ![](./MNQH2024_2024-02-03_22-32-43_6c2aa.png)
 
-
 #### Bearish Bias
+
+![](./2024-02-03-bearish.png)
 
 If we are **Bearish**, we are looking for **1D chart** and when we see **DSH** formaation - what
 we are lookibg for is next:
