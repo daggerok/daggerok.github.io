@@ -172,6 +172,8 @@ New Week Opening Gap
 
 ## Mastering High Probability Scalping
 
+### ICT Directional Bias For Sculping
+
 See this [ICT - Mastering High Probability Scalping Volumes 1 - 3](https://www.youtube.com/watch?v=uE-aaP16nOw&list=PLVgHx4Z63paYdrA3rupIlFhsYFA07GJGP&index=1&ab_channel=TheInnerCircleTrader)
 YouTube playlist
 
