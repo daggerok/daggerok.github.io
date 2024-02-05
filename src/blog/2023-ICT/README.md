@@ -40,6 +40,8 @@ First of all we can make a Quantitative Analysis:
     Bullish on USD or CAD and Bearish on JPY, then we can anticipate rallie on USD/JPY and CAD/JPY currency pairs...
     And it's not just 1D Bias, it's long run
 * Commitment Of Traders (COT) on [barchart.com](https://www.barchart.com/futures/commitment-of-traders/)
+  * We are mostly interesting on commercials - Bullish is when COT commercials (Red color) indicator on a Asset is above
+    zero, otherwise it's Bearish when COT commercials Red colored indicator line is below 0  
 
 ## Mastering High Probability Scalping (2017)
 ICT Directional Bias For Sculping
