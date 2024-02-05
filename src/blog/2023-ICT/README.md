@@ -1,5 +1,5 @@
 # ICT
-This is my ICT notes. I started learn it this (2023) year, but topic is quite big and complex, so I feel
+This is my ICT notes. I started learn it 2023 year, but topic is quite big and complex, so I feel
 that I should make some notes about it
 
 ## Learnng Plan
