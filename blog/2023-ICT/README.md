@@ -209,8 +209,6 @@ we are lookibg for is next:
 
 #### Bullish Daily Bias
 
-![ICT Power Of 3 - Bullish Daily Bias figure](./2024-02-04-PO3-bullish-0.png)
-
 When The Daily Bias Is Bullish:
 
 * Confirm London session was **Bullish**
@@ -223,11 +221,9 @@ When The Daily Bias Is Bullish:
 * If it does form - enter on the 62% fib as it drops down
 * Expect price to retest High of Day or a Previous Days High then Targets 1 & 2
 
-![ICT Power Of 3 - Bullish Daily Bias example](./2024-02-04-PO3-bullish-1.png)
+![ICT Power Of 3 - Bullish Daily Bias figure](./2024-02-04-PO3-bullish-0.png) ![ICT Power Of 3 - Bullish Daily Bias example](./2024-02-04-PO3-bullish-1.png)
 
 #### Bearish Daily Bias
-
-![ICT Power Of 3 - Bearish Daily Bias figure](./2024-02-04-PO3-bearish-0.png)
 
 When The Daily Bias Is Bearish:
 
@@ -241,4 +237,4 @@ When The Daily Bias Is Bearish:
 * If it does form - enter on the 62% fib as it rallies up
 * Expect price to retest Low of Day or a Previous Days Low then Targets 1 & 2
 
-![ICT Power Of 3 - Bearish Daily Bias example](./2024-02-04-PO3-bearish-1.png)
+![ICT Power Of 3 - Bearish Daily Bias figure](./2024-02-04-PO3-bearish-0.png) ![ICT Power Of 3 - Bearish Daily Bias example](./2024-02-04-PO3-bearish-1.png)

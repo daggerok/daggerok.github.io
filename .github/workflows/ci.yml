@@ -1,17 +1,14 @@
 name: CI
 on:
-  push:
+  pull_request: 
   workflow_dispatch:
-permissions:
-  contents: write
 jobs:
+  # Reusable bun env:
   bun:
     uses: ./.github/workflows/bun.yml
-  ci:
+  # Testing job:
+  tests:
     needs: bun
-    environment:
-      name: ci
-      url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -25,7 +22,7 @@ jobs:
             ~/.bun
             ~/.npm
             ~/.node
-          key: ${{ runner.os }}-${{ hashFiles('**/workflows/*.yml', '**/package.json', '**/package-lock.json') }}
+          key: ${{ runner.os }}-${{ hashFiles('**/workflows/*.yml', '**/package.json') }}
       - run: echo "${{ needs.bun.outputs.BUN_BIN }}" >> "$GITHUB_PATH"
       - run: bun install -E
       - run: bun run build

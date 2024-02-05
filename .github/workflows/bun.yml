@@ -30,7 +30,7 @@ jobs:
             ~/.bun
             ~/.npm
             ~/.node
-          key: ${{ runner.os }}-${{ hashFiles('**/workflows/*.yml', '**/package.json', '**/package-lock.json') }}
+          key: ${{ runner.os }}-${{ hashFiles('**/workflows/*.yml', '**/package.json') }}
       - run: |
           PATH="$HOME/.bun/bin:$PATH" command -v bun >/dev/null 2>&1 || {
             echo >&2 "Bun is required but not installed."       ;
