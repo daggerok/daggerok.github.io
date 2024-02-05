@@ -178,7 +178,7 @@ YouTube playlist
 
 ### Implementing Bullish Daily Bias
 
-![ICT Directional Bullish Bias For Sculping](./2024-02-03-bullish-1.png) ![Implementing Bullish Daily Bias](./2024-02-04-Bullish-2.png)
+![ICT Directional Bullish Bias For Sculping](./directional-bias/directional-bullish-bias-1.png) ![Implementing Bullish Daily Bias](./directional-bias/directional-bullish-bias-2.png)
 
 If we are **Bullish**, we are looking for **daily (1D) chart** and when we see **Daily Swing Low (DSL)** formaation - what we are lookibg
 for is next:
@@ -189,11 +189,11 @@ for is next:
   through on next day or before that we want to see some retraisment
 * Once next day does that - we know that next we will anticipate a **run on previous day high liquidity**
 
-![MNQH2024 Bullish Chart](./MNQH2024_2024-02-04-Bullish.png)
+![MNQH2024 Bullish Chart](./directional-bias/directional-bullish-bias-3-MNQH2024.png)
 
 ### Implementing Bearish Daily Bias
 
-![ICT Directional Bearish Bias For Sculping](./2024-02-03-bearish-1.png) ![Implementing Bearish Daily Bias](./2024-02-04-Bearish-2.png)
+![ICT Directional Bearish Bias For Sculping](./directional-bias/directional-bearish-bias-1.png) ![Implementing Bearish Daily Bias](./directional-bias/directional-bearish-bias-2.png)
 
 If we are **Bearish**, we are looking for **1D chart** and when we see **DSH** formaation - what
 we are lookibg for is next:
@@ -203,7 +203,7 @@ we are lookibg for is next:
   through on next day or before that we want to see some retraisment
 * Once next day does that - we know that next we will anticipate a **run on previous day low liquidity**
 
-![MNQH2024 Bearish Chart](./MNQH2024_2024-02-04-Bearish.png)
+![MNQH2024 Bearish Chart](./directional-bias/directional-bearish-bias-3-MNQH2024.png)
 
 ### ICT Power Of 3 Concept
 
