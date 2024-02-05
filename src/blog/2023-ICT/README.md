@@ -170,7 +170,7 @@ New Week Opening Gap
 * If Market open 9:30am price will be lower than Friday close 16:14pm price then **Opening Range Settlement** becomes
   **Opening Range High**
 
-## Mastering High Probability Scalping
+## Mastering High Probability Scalping (2017)
 ICT Directional Bias For Sculping
 
 See this [ICT - Mastering High Probability Scalping Volumes 1 - 3](https://www.youtube.com/watch?v=uE-aaP16nOw&list=PLVgHx4Z63paYdrA3rupIlFhsYFA07GJGP&index=1&ab_channel=TheInnerCircleTrader)
