@@ -31,7 +31,7 @@ that I should make some notes about it
 To have an idea where is market is goling to go we need a Bias.
 So how to get that Bias?
 
-#### Quantitative Analysis
+#### Quantitative Analysis (objective)
 First of all we can make a Quantitative Analysis:
 * Global Interest Rates on [global-rates.com](https://www.global-rates.com/en/interest-rates/central-banks/).
   Important here is: Interest Rates Differentials - which country you will choose to place your money? with 2% interest rates or with 5%?
@@ -47,7 +47,7 @@ First of all we can make a Quantitative Analysis:
 When we know where market is going to go on a high level, we would likw to figureout where it's going to go next weak or days.
 So how to get that information?
 
-#### Qualitative Analysis
+#### Qualitative Analysis (subjective)
 * If Market price is going Higher - we can expect that it may draw on **Buystop Liquidiry** and then:
   * Continue go Higher to draw on Higher Buy Stops Liquidity (too clean, double tops, etc)
   * Continue go Higher to rebalance BISI FVG which was previously form Higher
