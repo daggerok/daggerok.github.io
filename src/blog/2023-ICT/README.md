@@ -34,8 +34,8 @@ So how to get that Bias?
 #### Quantitative Analysis
 First of all we can make a Quantitative Analysis:
 * Global Interest Rates on [global-rates.com](https://www.global-rates.com/en/interest-rates/central-banks/)
-  * Interest Rates - which country you will choose to place your money? with 2% interest rates or with 5%? Obviously you will choose 5%
-    Central Banks thinks similarly 
+  * Interest Rates Differentials - which country you will choose to place your money? with 2% interest rates or with 5%?
+    Obviously you will choose higher yield interest rates... Central Banks thinks similarly but with some differentials...
 * Commitment Of Traders (COT) on [barchart.com](https://www.barchart.com/futures/commitment-of-traders/)
 
 ## Mastering High Probability Scalping (2017)
