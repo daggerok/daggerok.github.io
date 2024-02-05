@@ -49,7 +49,7 @@ jobs:
         uses: actions/upload-pages-artifact@v2
         with:
           name: github-pages
-          path: .vuepress/dist
+          path: src/.vuepress/dist
   # Deployment job:
   deploy:
     environment:

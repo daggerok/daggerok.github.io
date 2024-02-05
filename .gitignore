@@ -1,6 +1,6 @@
 /.idea/
-/.vuepress/.cache/
-/.vuepress/.temp/
-/.vuepress/dist/
+/src/.vuepress/.cache/
+/src/.vuepress/.temp/
+/src/.vuepress/dist/
 /node_modules/
 .DS_Store

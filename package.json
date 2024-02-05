@@ -6,8 +6,8 @@
   "scripts": {
     "clear": "npm run clean -- package-lock.json node_modules",
     "clean": "rimraf -rf .vuepress/.cache .vuepress/.temp .vuepress/dist",
-    "dev": "vuepress dev .",
-    "build": "vuepress build .",
+    "dev": "vuepress dev src",
+    "build": "vuepress build src",
     "build-github-pages": "npm run build"
   },
   "keywords": [

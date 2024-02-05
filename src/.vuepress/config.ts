@@ -8,7 +8,7 @@ import { registerComponentsPlugin } from '@vuepress/plugin-register-components';
 const __dirname = getDirname(import.meta.url);
 
 // @ts-ignore // const { name, description } = require(`${process.cwd()}/package.json`)
-const getPackageJsonFile = await import('../package.json', { assert: { type: 'json' } });
+const getPackageJsonFile = await import('../../package.json', { assert: { type: 'json' } });
 const { name, description } = getPackageJsonFile.default;
 
 import { myBlogLocalTheme } from './theme';
