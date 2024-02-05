@@ -61,6 +61,11 @@ So how to get that information?
   * Do reversal to move Higher to draw on Buystop Liquidity in nearest future
   * Or stay for consolidation
 
+### Market Maker Buy Model (MMBM)
+
+Possible Lows formations:
+![ICT Market Maker Buy Model - Regular Low Type](./MM/MMBM-regular-low-type.png) ![ICT Market Maker Buy Model - SMT Low Type](./MM/MMBM-smt-low-type.png)
+
 ## Mastering High Probability Scalping (2017)
 ICT Directional Bias For Sculping
 

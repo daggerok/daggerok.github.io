@@ -23,6 +23,12 @@ main.page {
   margin: 1rem auto 1rem !important;
 }
 
+// Market Maker Buy Model - Low formation:
+img[alt="ICT Market Maker Buy Model - Regular Low Type"],
+img[alt="ICT Market Maker Buy Model - SMT Low Type"] {
+    max-width: 49%;
+}
+
 // ICT Directional Bias:
 img[alt="ICT Directional Bullish Bias For Sculping"],
 img[alt="ICT Directional Bearish Bias For Sculping"] {
