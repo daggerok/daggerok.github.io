@@ -238,3 +238,26 @@ When The Daily Bias Is Bearish:
 * Expect price to retest Low of Day or a Previous Days Low then Targets 1 & 2
 
 ![ICT Power Of 3 - Bearish Daily Bias figure](./PO3/PO3-bearish-0.png) ![ICT Power Of 3 - Bearish Daily Bias example](./PO3/PO3-bearish-1.png)
+
+### When to expect Reversals?
+
+* When the Hourly Chart trades to an obvious Old High or Old Low that has shown a clear willingness to reverse Price
+  before... this will likely repeat.
+* Sometimes Price will not respect an Old High or Low and these generic Support and Resistance levels will give way
+  and we never really know for sure
+* It is far better to expect them to cause a reaction, than not to. There are plenty of moves and price swings
+  between these Key HTF price points to never have to worry about them either!
+
+![ICT Reversal](./reversal/reversal.png)
+
+### Money Management
+
+* While you develop and practice in your Demo Account - it is important to also implement strict Risk controls
+* This is the only protection you have in this business and if you want to see what can be accomplished... you
+  need to use sound Money Management
+* Consider using 1% per setup and gradually working your way up to 2% if this meets your "Risk Tolerance". It
+  is important not to try to swing for Home-runs or take larger Risks
+* Over-leverage will impede your development and drastically decrease your chances of seeing responsible
+  equity growth
+
+![Money Management](./money-management/money-management.png)
