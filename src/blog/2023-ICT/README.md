@@ -4,8 +4,134 @@ that I should make some notes about it
 
 ## Learnng Plan
 * ICT 2022 Mentorship
+  * FVG
+  * Power Of Three
+  * Bias
+  * Risk Management
+  * Money Management
 * ICT Silve Bullet
-* Sniper Forex Series (to learn OB)
+* Optimal Trade Entry (OTE)
+* Mastering High Probability Scalping
+  * Directional Bias
+  * PO3
+  * Reversal
+  * Money Management
+* Market Maker Series
+  * Who is MM?
+  * Bias
+* Sniper Forex Series
+
+## Market Maker Series
+
+* Central Banks - **are Maket Makers**
+* Dealers like Chase, BofA, Citi or Goldman Suchs, etc - **are not Market Makers**
+* Brokers like TD Ameritrade, Charles Schwab, etc - **are not Market Makers**
+
+### Bias
+To have an idea where is market is goling to go we need a Bias.
+So how to get that Bias?
+
+#### Quantitative Analysis
+First of all we can make a Quantitative Analysis:
+* Global Interest Rates on [global-rates.com](https://www.global-rates.com/en/interest-rates/central-banks/)
+* Commitment Of Traders (COT) on [barchart.com](https://www.barchart.com/futures/commitment-of-traders/)
+
+## Mastering High Probability Scalping (2017)
+ICT Directional Bias For Sculping
+
+See this [ICT - Mastering High Probability Scalping Volumes 1 - 3](https://www.youtube.com/watch?v=uE-aaP16nOw&list=PLVgHx4Z63paYdrA3rupIlFhsYFA07GJGP&index=1&ab_channel=TheInnerCircleTrader)
+YouTube playlist
+
+### Implementing Bullish Daily Bias
+
+![ICT Directional Bullish Bias For Sculping](./directional-bias/directional-bullish-bias-1.png) ![Implementing Bullish Daily Bias](./directional-bias/directional-bullish-bias-2.png)
+
+If we are **Bullish**, we are looking for **daily (1D) chart** and when we see **Daily Swing Low (DSL)** formaation - what we are lookibg
+for is next:
+
+* **DSL** occur **only after** previous **Swing Daily High (DSH)** was broken (like **Long Tearm High (LTH)** or **Short Tearm High (STH)**)
+  when that happened:
+* We are on a **Bullish Alert** and our focus is on **Last Candle High (Right Candle High)**, so we wanna see the high be traded
+  through on next day or before that we want to see some retraisment
+* Once next day does that - we know that next we will anticipate a **run on previous day high liquidity**
+
+![MNQH2024 Bullish Chart](./directional-bias/directional-bullish-bias-3-MNQH2024.png)
+
+### Implementing Bearish Daily Bias
+
+![ICT Directional Bearish Bias For Sculping](./directional-bias/directional-bearish-bias-1.png) ![Implementing Bearish Daily Bias](./directional-bias/directional-bearish-bias-2.png)
+
+If we are **Bearish**, we are looking for **1D chart** and when we see **DSH** formaation - what
+we are lookibg for is next:
+
+* **DSH** occur **only after** previous **DSL** was broken, when that happened:
+* We are on a **Bearish Alert** and our focus is on **Last Candle Low (Right Candle Low)**, so we wanna see the low be traded
+  through on next day or before that we want to see some retraisment
+* Once next day does that - we know that next we will anticipate a **run on previous day low liquidity**
+
+![MNQH2024 Bearish Chart](./directional-bias/directional-bearish-bias-3-MNQH2024.png)
+
+### ICT Power Of 3 Concept
+
+#### Bullish Daily Bias
+
+When The Daily Bias Is Bullish:
+
+* Confirm London session was **Bullish**
+* Wait for 8am New York time to stalk a **Long Position**
+* Between 8am - 9:30am New York time it may form
+* After 8am New York time wait for **Retracement Lower**
+* New York session will retrace from the SWH
+* Ideally select retracements of at least 20 pips lower
+* If no retracement of 20 pips forms by 10am - walk
+* If it does form - enter on the 62% fib as it drops down
+* Expect price to retest High of Day or a Previous Days High then Targets 1 & 2
+
+![ICT Power Of 3 - Bullish Daily Bias figure](./PO3/PO3-bullish-0.png) ![ICT Power Of 3 - Bullish Daily Bias example](./PO3/PO3-bullish-1.png)
+
+#### Bearish Daily Bias
+
+When The Daily Bias Is Bearish:
+
+* Confirm London session was **Bearish**
+* Wait for 8am New York time to stalk a **Short Position**
+* Between 8am - 9:30am New York time it should form
+* After 8am New York time wait for **Retracement Higher**
+* New York session will retrace from the SWL
+* Ideally select retracements of at least 20 pips higher
+* If no retracement of 20 pips forms by 10am - walk
+* If it does form - enter on the 62% fib as it rallies up
+* Expect price to retest Low of Day or a Previous Days Low then Targets 1 & 2
+
+![ICT Power Of 3 - Bearish Daily Bias figure](./PO3/PO3-bearish-0.png) ![ICT Power Of 3 - Bearish Daily Bias example](./PO3/PO3-bearish-1.png)
+
+### When to expect Reversals?
+
+#### TL;DR
+Higher Time Frame (HTF) will help you to understand that...
+
+* When the Hourly Chart trades to an obvious Old High or Old Low that has shown a clear willingness to reverse Price
+  before... this will likely repeat.
+* Sometimes Price will not respect an Old High or Low and these generic Support and Resistance levels will give way
+  and we never really know for sure
+* It is far better to expect them to cause a reaction, than not to. There are plenty of moves and price swings
+  between these Key HTF price points to never have to worry about them either!
+
+![ICT Reversal](./reversal/reversal.png)
+
+### Money Management
+
+* While you develop and practice in your Demo Account - it is important to also implement strict Risk controls
+* This is the only protection you have in this business and if you want to see what can be accomplished... you
+  need to use sound Money Management
+* Consider using 1% per setup and gradually working your way up to 2% if this meets your "Risk Tolerance". It
+  is important not to try to swing for Home-runs or take larger Risks
+* Over-leverage will impede your development and drastically decrease your chances of seeing responsible
+  equity growth
+
+![Money Management](./money-management/money-management.png)
+
+# Notes...
 
 ## When professionals trade?
 * In bearish market 70% of time high of the week will be formed on Tue or Wed
@@ -170,97 +296,3 @@ New Week Opening Gap
 * If Market open 9:30am price will be lower than Friday close 16:14pm price then **Opening Range Settlement** becomes
   **Opening Range High**
 
-## Mastering High Probability Scalping (2017)
-ICT Directional Bias For Sculping
-
-See this [ICT - Mastering High Probability Scalping Volumes 1 - 3](https://www.youtube.com/watch?v=uE-aaP16nOw&list=PLVgHx4Z63paYdrA3rupIlFhsYFA07GJGP&index=1&ab_channel=TheInnerCircleTrader)
-YouTube playlist
-
-### Implementing Bullish Daily Bias
-
-![ICT Directional Bullish Bias For Sculping](./directional-bias/directional-bullish-bias-1.png) ![Implementing Bullish Daily Bias](./directional-bias/directional-bullish-bias-2.png)
-
-If we are **Bullish**, we are looking for **daily (1D) chart** and when we see **Daily Swing Low (DSL)** formaation - what we are lookibg
-for is next:
-
-* **DSL** occur **only after** previous **Swing Daily High (DSH)** was broken (like **Long Tearm High (LTH)** or **Short Tearm High (STH)**)
-  when that happened:
-* We are on a **Bullish Alert** and our focus is on **Last Candle High (Right Candle High)**, so we wanna see the high be traded
-  through on next day or before that we want to see some retraisment
-* Once next day does that - we know that next we will anticipate a **run on previous day high liquidity**
-
-![MNQH2024 Bullish Chart](./directional-bias/directional-bullish-bias-3-MNQH2024.png)
-
-### Implementing Bearish Daily Bias
-
-![ICT Directional Bearish Bias For Sculping](./directional-bias/directional-bearish-bias-1.png) ![Implementing Bearish Daily Bias](./directional-bias/directional-bearish-bias-2.png)
-
-If we are **Bearish**, we are looking for **1D chart** and when we see **DSH** formaation - what
-we are lookibg for is next:
-
-* **DSH** occur **only after** previous **DSL** was broken, when that happened:
-* We are on a **Bearish Alert** and our focus is on **Last Candle Low (Right Candle Low)**, so we wanna see the low be traded
-  through on next day or before that we want to see some retraisment
-* Once next day does that - we know that next we will anticipate a **run on previous day low liquidity**
-
-![MNQH2024 Bearish Chart](./directional-bias/directional-bearish-bias-3-MNQH2024.png)
-
-### ICT Power Of 3 Concept
-
-#### Bullish Daily Bias
-
-When The Daily Bias Is Bullish:
-
-* Confirm London session was **Bullish**
-* Wait for 8am New York time to stalk a **Long Position**
-* Between 8am - 9:30am New York time it may form
-* After 8am New York time wait for **Retracement Lower**
-* New York session will retrace from the SWH
-* Ideally select retracements of at least 20 pips lower
-* If no retracement of 20 pips forms by 10am - walk
-* If it does form - enter on the 62% fib as it drops down
-* Expect price to retest High of Day or a Previous Days High then Targets 1 & 2
-
-![ICT Power Of 3 - Bullish Daily Bias figure](./PO3/PO3-bullish-0.png) ![ICT Power Of 3 - Bullish Daily Bias example](./PO3/PO3-bullish-1.png)
-
-#### Bearish Daily Bias
-
-When The Daily Bias Is Bearish:
-
-* Confirm London session was **Bearish**
-* Wait for 8am New York time to stalk a **Short Position**
-* Between 8am - 9:30am New York time it should form
-* After 8am New York time wait for **Retracement Higher**
-* New York session will retrace from the SWL
-* Ideally select retracements of at least 20 pips higher
-* If no retracement of 20 pips forms by 10am - walk
-* If it does form - enter on the 62% fib as it rallies up
-* Expect price to retest Low of Day or a Previous Days Low then Targets 1 & 2
-
-![ICT Power Of 3 - Bearish Daily Bias figure](./PO3/PO3-bearish-0.png) ![ICT Power Of 3 - Bearish Daily Bias example](./PO3/PO3-bearish-1.png)
-
-### When to expect Reversals?
-
-#### TL;DR
-Higher Time Frame (HTF) will help you to understand that...
-
-* When the Hourly Chart trades to an obvious Old High or Old Low that has shown a clear willingness to reverse Price
-  before... this will likely repeat.
-* Sometimes Price will not respect an Old High or Low and these generic Support and Resistance levels will give way
-  and we never really know for sure
-* It is far better to expect them to cause a reaction, than not to. There are plenty of moves and price swings
-  between these Key HTF price points to never have to worry about them either!
-
-![ICT Reversal](./reversal/reversal.png)
-
-### Money Management
-
-* While you develop and practice in your Demo Account - it is important to also implement strict Risk controls
-* This is the only protection you have in this business and if you want to see what can be accomplished... you
-  need to use sound Money Management
-* Consider using 1% per setup and gradually working your way up to 2% if this meets your "Risk Tolerance". It
-  is important not to try to swing for Home-runs or take larger Risks
-* Over-leverage will impede your development and drastically decrease your chances of seeing responsible
-  equity growth
-
-![Money Management](./money-management/money-management.png)
