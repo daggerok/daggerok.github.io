@@ -33,15 +33,15 @@ So how to get that Bias?
 
 #### Quantitative Analysis
 First of all we can make a Quantitative Analysis:
-* Global Interest Rates on [global-rates.com](https://www.global-rates.com/en/interest-rates/central-banks/)
-    Interest Rates Differentials - which country you will choose to place your money? with 2% interest rates or with 5%?
-    Obviously you will choose higher yield interest rates... Central Banks thinks similarly but with some differentials...
-    So if USD or CAD interest rates are higher (0.25%) than for example JPY (Japaneese Yen) and COT (commercials) are
-    Bullish on USD or CAD and Bearish on JPY, then we can anticipate rallie on USD/JPY and CAD/JPY currency pairs...
-    And it's not just 1D Bias, it's long run
-* Commitment Of Traders (COT) on [barchart.com](https://www.barchart.com/futures/commitment-of-traders/)
-    We are mostly interesting on commercials - Bullish is when COT commercials (Red color) indicator on a Asset is above
-    zero, otherwise it's Bearish when COT commercials Red colored indicator line is below 0  
+* Global Interest Rates on [global-rates.com](https://www.global-rates.com/en/interest-rates/central-banks/).
+  Important here is: Interest Rates Differentials - which country you will choose to place your money? with 2% interest rates or with 5%?
+  Obviously you will choose higher yield interest rates... Central Banks thinks similarly but with some differentials...
+  So if USD or CAD interest rates are higher (0.25%) than for example JPY (Japaneese Yen) and COT (commercials) are
+  Bullish on USD or CAD and Bearish on JPY, then we can anticipate rallie on USD/JPY and CAD/JPY currency pairs...
+  And it's not just 1D Bias, it's long run
+* Commitment Of Traders (COT) on [barchart.com](https://www.barchart.com/futures/commitment-of-traders/).
+  We are mostly interesting on commercials - Bullish is when COT commercials (Red color) indicator on a Asset is above
+  zero, otherwise it's Bearish when COT commercials Red colored indicator line is below 0  
 
 ## Mastering High Probability Scalping (2017)
 ICT Directional Bias For Sculping
