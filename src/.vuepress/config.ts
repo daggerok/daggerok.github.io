@@ -38,7 +38,7 @@ export default defineUserConfig({
         // See: https://v2.vuepress.vuejs.org/reference/default-theme/config.html#repo
         repo: `daggerok/${name}`, // repo: `https://github.com/daggerok/${name}`,
         docsBranch: 'master',
-        docsDir: '.',
+        docsDir: './src',
         lastUpdated: true,
         sidebar: blogSidebar,
         // default theme options
