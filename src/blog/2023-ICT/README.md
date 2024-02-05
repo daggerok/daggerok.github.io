@@ -241,6 +241,9 @@ When The Daily Bias Is Bearish:
 
 ### When to expect Reversals?
 
+#### TL;DR
+Higher Time Frame (HTF) will help you to understand that...
+
 * When the Hourly Chart trades to an obvious Old High or Old Low that has shown a clear willingness to reverse Price
   before... this will likely repeat.
 * Sometimes Price will not respect an Old High or Low and these generic Support and Resistance levels will give way
