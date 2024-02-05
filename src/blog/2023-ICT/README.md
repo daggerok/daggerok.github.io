@@ -44,20 +44,22 @@ First of all we can make a Quantitative Analysis:
   zero, otherwise it's Bearish when COT commercials Red colored indicator line is below 0  
 
 ### Institutional Order Flow & Liquidity
+When we know where market is going to go on a high level, we would likw to figureout where it's going to go next weak or days.
+So how to get that information?
 
-If Market price is going Higher - we can expect that it may draw on **Buystop Liquidiry** and then:
-* Continue go Higher to draw on Higher Buy Stops Liquidity (too clean, double tops, etc)
-* Continue go Higher to rebalance BISI FVG which was previously form Higher
-* Continue go Higher to make a Higher High
-* Do reversal to move Lower to draw on Sellstop Liquidity in nearest future
-* Or stay for consolidation
-
-If Market price is going Lower - we can expect that it may draw on **Sellstop Liquidiry** and then:
-* Continue go Lower to draw on Lower Sellstop Liquidity (too clean, double tops, etc)
-* Continue go Lower to rebalance SIBI FVG which was previously form Lower
-* Continue go Lower to make a Lower Low
-* Do reversal to move Higher to draw on Buystop Liquidity in nearest future
-* Or stay for consolidation
+#### Qualitative Analysis
+* If Market price is going Higher - we can expect that it may draw on **Buystop Liquidiry** and then:
+  * Continue go Higher to draw on Higher Buy Stops Liquidity (too clean, double tops, etc)
+  * Continue go Higher to rebalance BISI FVG which was previously form Higher
+  * Continue go Higher to make a Higher High
+  * Do reversal to move Lower to draw on Sellstop Liquidity in nearest future
+  * Or stay for consolidation
+* If Market price is going Lower - we can expect that it may draw on **Sellstop Liquidiry** and then:
+  * Continue go Lower to draw on Lower Sellstop Liquidity (too clean, double tops, etc)
+  * Continue go Lower to rebalance SIBI FVG which was previously form Lower
+  * Continue go Lower to make a Lower Low
+  * Do reversal to move Higher to draw on Buystop Liquidity in nearest future
+  * Or stay for consolidation
 
 ## Mastering High Probability Scalping (2017)
 ICT Directional Bias For Sculping
