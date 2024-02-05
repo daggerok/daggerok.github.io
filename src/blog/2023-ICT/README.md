@@ -64,7 +64,11 @@ So how to get that information?
 ### Market Maker Buy Model (MMBM)
 
 Possible Lows formations:
+1) Regular: Low then Lower Low => +Breaker or 2) Only with SMT Divergence: Low then Higher Low => +OB / +FVG / +OTE
 ![ICT Market Maker Buy Model - Regular Low Type](./MM/MMBM-regular-low-type.png) ![ICT Market Maker Buy Model - SMT Low Type](./MM/MMBM-smt-low-type.png)
+
+Model starts from **Short Term Consolidation** or **Short Term Trading Range** - when price is
+staying in range some time. For example on a 15m TF it could be 5-10 candels (it's depends)
 
 ## Mastering High Probability Scalping (2017)
 ICT Directional Bias For Sculping
