@@ -1,6 +1,46 @@
 # ICT
-This is my ICT notes. I started learn it 2023 year, but topic is quite big and complex, so I feel
-that I should make some notes about it
+This is my ICT notes. I started learn it 2023 year, but topic is quite big and complex.
+ICT always saying that hist students should make a notes because its not realistic to
+keep memorize everything...
+
+## Lecture On ICT Order Blocks & Tape Reading April 18, 2024
+[Lecture On ICT Order Blocks & Tape Reading April 18, 2024](https://www.youtube.com/watch?v=BxR3tVRS_FI&t=4s&ab_channel=TheInnerCircleTrader)
+
+Bias must be found based on weekly and daily charts.
+Don't build bias based on anything what less than 1 hour.
+
+SM doing stop runs only to kick out everyone who can be profitable and
+to catch traders who created limit orders for breakouts.
+
+Seasonal tendency take price down into the spring decline.
+
+In days when we have high impacted news we should use 5 minutes
+timeframe to reduce choppiness and spottiness of price fluctuation.
+In all other "normal" trading days we can use 1 minute and sub-minute
+timeframes.
+On high impact news drivers we should wait and use 5 minutes charts at
+least 15-20-30 minutes and only then we can start dropping down below
+5 minutes charts for looking for inefficiencies because we won't
+probably pick a right one...
+
+When I'm bullish, my stop loss should have 3 PD arrays above it or 
+3 PD arrays below it when I'm bearish.
+
+Dealer range is high that was engaged buyside and low that was engaged sellside.
+And it must be on a timeframe we are looking for analysis (5 minutes on high
+impact driver news during 15-30 minutes after release). Best moves starts from \
+running stops, so if we are bearish - we want to see that market take buy stops
+first.
+
+Algorithm is designed to range wide to seek liquidity.
+
+Important to keep in mind quadrants and remember that best entries when we are:
+* bullish: in between 50%-100% of +OB or +FVG
+* bearish: in between 0%-50% of -OB or -FVG
+
+<!--
+
+# Old
 
 ## Learnng Plan
 * ICT 2022 Mentorship
@@ -330,3 +370,4 @@ New Week Opening Gap
 * If Market open 9:30am price will be lower than Friday close 16:14pm price then **Opening Range Settlement** becomes
   **Opening Range High**
 
+-->
