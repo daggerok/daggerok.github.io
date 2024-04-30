@@ -3,6 +3,41 @@ This is my ICT notes. I started learn it 2023 year, but topic is quite big and c
 ICT always saying that hist students should make a notes because its not realistic to
 keep memorize everything...
 
+## February 15, 2023 ES Live Commentary AM Opening Session
+[February 15, 2023 ES Live Commentary AM Opening Session](https://www.youtube.com/watch?v=8YSVu51hUWQ)
+
+We should always look on multiple chArts: ES, NQ, YM, DXY. All markets should agree:
+if Dollar is going higher, then we are looking for short setups on indexes (risk-off mode);
+if Dollar is moving lower, then we are looking for longs on indexes (risk-on mode)
+
+## February 15, 2023 ES Session Review
+[February 15, 2023 ES Session Review](https://www.youtube.com/watch?v=SSWN6YSVyFY)
+
+NDOG (New Day Opening Gap) is price in between 5pm market close and 6pm market open its
+a reference point where algorithm will refer and come back later.
+
+The Bodies tell the story, the Wicks do the damage.
+
+If we expect that market is going to be hard to read (for example due to high impact
+news), we can trade on 7:00am-8:30am to utilize that interval during pre-market before
+news driver (medium to high impact news) and expect that we can reach our target at 8:30am
+
+Symmetrical market is when for example we have lower low in NQ and ES and higher high on DXY.
+This is we want to see to trade, if at any time we see non-symmetrical market we want to step
+away because of sentiment shift unfolding. Example: if we for example cannot see dollar
+index higher high when it was expected - it's a dollar index divergence, and it's a signal
+for  smart money, so they probably will seek for liquidity (external - Buyside or internal -
+50% of dealer range, bearish gaps or blocks...)
+
+Buy model on last hour macro 15:15-15:45 after stops (liquidity) has been taken is not a
+Market Maker Buy Model is when market starts booking higher price until we get a pool of
+liquidity (Buyside liquidity) or premium inefficiency (FVG SiBi)
+
+Order Block it's a Change in the State of Delivery.
+Order block start on opening price of consecutive sets of down close candles after its validation.
+Order Block is valid as soon as upper close candle goes 1 tick above Order Block.
+Order Block is fair value, it means that algorithm with offer that fair value to the Smart Money.
+
 ## Lecture On ICT Order Blocks & Tape Reading April 18, 2024
 [Lecture On ICT Order Blocks & Tape Reading April 18, 2024](https://www.youtube.com/watch?v=BxR3tVRS_FI&t=4s&ab_channel=TheInnerCircleTrader)
 
@@ -38,7 +73,49 @@ Important to keep in mind quadrants and remember that best entries when we are:
 * bullish: in between 50%-100% of +OB or +FVG
 * bearish: in between 0%-50% of -OB or -FVG
 
+## How To Read Price With Or Without A Bias - April 29, 2024
+[How To Read Price With Or Without A Bias - April 29, 2024](https://www.youtube.com/watch?v=BxR3tVRS_FI&t=4s&ab_channel=TheInnerCircleTrader)
+
+Wicks == Gaps. Our focus on C.E. or upper quadrants if bullish (lower quadrants when bearish).
+
+When we have high impact news, we are wait for damage and manipulation. Only then, after all retail
+traders will be stopped out from their seats we are looking for turtle sups or other setups.
+
+If there are no high impact news, then we can relay on macros (every single trading hour 20 minutes
+macros): 9:50am-10:10am, 10:50am-11:10am, 1:50pm-2:10pm, 2:50pm-3:10pm and 3:15-3:45 last hour macro
+
+If bullish and want to use +OB, then there should be only few down closed candles that we should use
+only as opportunity to buy. If there are a lot of down closed candles, then we either on
+consolidation or near to high, but definitely not in up move.
+
+Same thing in relation to FVG, we don't want to see every FVG was fully rebalanced, we do want to
+see price left some inefficiency stay opened, not fully closed, otherwise we maybe on end of the run
+
+To capture nice day trades we need to look at 15m charts or 1h charts.
+To capture nice swing trades we need to look at 1h charts or 4h charts.
+To capture nice position trades we need to look at 1D charts or 1W charts.
+
+Change in a state of delivery it's always opening price of OB. Delivery it's
+directional price run, so it's going to be a change in the direction of price.
+
+## Reading Price Without A Bias - April 30, 2024
+[Reading Price Without A Bias - April 30, 2024](https://www.youtube.com/watch?v=joqM_Z96vtM)
+
+Do not trade on non-farm payroll week from after lunch Wed till Fri.
+If we want we can trade 15-30 minutes after non-farm payroll numbers report.
+
+Reclaimed FVG / Reclaimed OB is when initial expectations is used at later time.
+IFGV / Mitigation block is when its reverse the role.
+
+Bounce price range is when you have 2 inefficiencies (BiSi and SiBi) in opposing
+directions in a same general area in terms of price. Best is with 1 candle in a
+middle because it would be sudden and more impactful. Or it could be pattern called
+island reversal. We can trade is as iFVG
+
 <!--
+
+
+
 
 # Old
 
@@ -369,5 +446,8 @@ New Week Opening Gap
   **Opening Range Low**
 * If Market open 9:30am price will be lower than Friday close 16:14pm price then **Opening Range Settlement** becomes
   **Opening Range High**
+
+
+
 
 -->
