@@ -38,6 +38,28 @@ Order block start on opening price of consecutive sets of down close candles aft
 Order Block is valid as soon as upper close candle goes 1 tick above Order Block.
 Order Block is fair value, it means that algorithm with offer that fair value to the Smart Money.
 
+## February 16, 2023 ES Opening Session Commentary
+[February 16, 2023 ES Opening Session Commentary](https://www.youtube.com/watch?v=KXx07qzW5u0)
+
+New Week Opening gap (NWOG) is gap between 16:00 on Fri and 18:00 on Sun.
+New Week/Day Opening gap (NDOG) is gap between 16:00 and 18:00 of current.
+Opening Range Gap (OR) is gap between yesterday's 16:00 closing price and today's 9:30 opening price.
+
+If we had news drivers and big run before 9:30 then we can expect price choppiness and/or run agains
+profitable traders (who was able to catch this move) stops. For example after bin market drop if we're
+not going to go lower ask yourself "where is the money?" right, - higher buyside liquidity on bearish
+inefficiencies, order blocks, or previous highs, or relative equals highs...
+
+Breaker Block is: Low, Higher High, Lower Low, retrace to block and go higher.
+Mitigation Block its almost opposite to Bullish Breaker Block: Low, Higher High, Higher Low, retrace
+to block and go higher.
+
+If we want to confirm that our Bullish Breaker Block invalid - price should at least go lower through
+it and then back upper, so Breaker will act as resistance (similar to -iFVG).
+
+## ICT February 24 - Conquering Fear Of Being Wrong Vs. Profitability
+[ICT February 24 - Conquering Fear Of Being Wrong Vs. Profitability](https://www.youtube.com/watch?v=qUYWVwyRhZs)
+
 ## Lecture On ICT Order Blocks & Tape Reading April 18, 2024
 [Lecture On ICT Order Blocks & Tape Reading April 18, 2024](https://www.youtube.com/watch?v=BxR3tVRS_FI&t=4s&ab_channel=TheInnerCircleTrader)
 
