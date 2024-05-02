@@ -84,6 +84,25 @@ from it.
 
 Bullish Propulsion Block its nested OB within another OB.
 
+### February 25, 2023 Market Commentary
+[February 25, 2023 Market Commentary](youtube.com/watch?v=kFIOp8Tprdc)
+
+-BB (Bearish Breaker Block) can be identified if price was closed below Breaker down close candle, so even
+if price has -FVG upper we should not expect that price will come back up to it.
+
+Engineered Liquidity can be formed for example near old relative equals highs, when we are not swept it
+and form -BB initial down move candles to make believe retail crowd that they must sell shorts, so on
+next -BB upper move we will take their buy stops (break all short traders).
+
+-IOFED is when market touched a little bit -FGV and drops.
+
+In bearish market every time when market goes up it's returning to take buy stops or repricing
+inefficiencies.
+
+We can use SMT not only with highly correlated markets but also USDX SMT. For example if ES made a higher
+high and in according normal situation DXY should do lower low, when DXY wasn't able to make lower low it
+is USDX SMT.
+
 ## 2024
 
 ### Lecture On ICT Order Blocks & Tape Reading April 18, 2024
@@ -183,10 +202,7 @@ smart money want to move markets higher to get everybody else Byu stops.
 
 <!--
 
-
-
-
-# Old
+## 2022
 
 ## Learnng Plan
 * ICT 2022 Mentorship
