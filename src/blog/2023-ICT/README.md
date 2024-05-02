@@ -3,14 +3,16 @@ This is my ICT notes. I started learn it 2023 year, but topic is quite big and c
 ICT always saying that hist students should make a notes because its not realistic to
 keep memorize everything...
 
-## February 15, 2023 ES Live Commentary AM Opening Session
+## 2023
+
+### February 15, 2023 ES Live Commentary AM Opening Session
 [February 15, 2023 ES Live Commentary AM Opening Session](https://www.youtube.com/watch?v=8YSVu51hUWQ)
 
 We should always look on multiple chArts: ES, NQ, YM, DXY. All markets should agree:
 if Dollar is going higher, then we are looking for short setups on indexes (risk-off mode);
 if Dollar is moving lower, then we are looking for longs on indexes (risk-on mode)
 
-## February 15, 2023 ES Session Review
+### February 15, 2023 ES Session Review
 [February 15, 2023 ES Session Review](https://www.youtube.com/watch?v=SSWN6YSVyFY)
 
 NDOG (New Day Opening Gap) is price in between 5pm market close and 6pm market open its
@@ -38,7 +40,7 @@ Order block start on opening price of consecutive sets of down close candles aft
 Order Block is valid as soon as upper close candle goes 1 tick above Order Block.
 Order Block is fair value, it means that algorithm with offer that fair value to the Smart Money.
 
-## February 16, 2023 ES Opening Session Commentary
+### February 16, 2023 ES Opening Session Commentary
 [February 16, 2023 ES Opening Session Commentary](https://www.youtube.com/watch?v=KXx07qzW5u0)
 
 New Week Opening gap (NWOG) is gap between 16:00 on Fri and 18:00 on Sun.
@@ -57,7 +59,7 @@ to block and go higher.
 If we want to confirm that our Bullish Breaker Block invalid - price should at least go lower through
 it and then back upper, so Breaker will act as resistance (similar to -iFVG).
 
-## ICT February 24 - Conquering Fear Of Being Wrong Vs. Profitability
+### ICT February 24 - Conquering Fear Of Being Wrong Vs. Profitability
 [ICT February 24 - Conquering Fear Of Being Wrong Vs. Profitability](https://www.youtube.com/watch?v=qUYWVwyRhZs)
 
 Market Structure Shift (MSS) is short term change in market sentiment and it will deliver on a short
@@ -82,7 +84,9 @@ from it.
 
 Bullish Propulsion Block its nested OB within another OB.
 
-## Lecture On ICT Order Blocks & Tape Reading April 18, 2024
+## 2024
+
+### Lecture On ICT Order Blocks & Tape Reading April 18, 2024
 [Lecture On ICT Order Blocks & Tape Reading April 18, 2024](https://www.youtube.com/watch?v=BxR3tVRS_FI)
 
 Bias must be found based on weekly and daily charts.
@@ -117,7 +121,7 @@ Important to keep in mind quadrants and remember that best entries when we are:
 * bullish: in between 50%-100% of +OB or +FVG
 * bearish: in between 0%-50% of -OB or -FVG
 
-## How To Read Price With Or Without A Bias - April 29, 2024
+### How To Read Price With Or Without A Bias - April 29, 2024
 [How To Read Price With Or Without A Bias - April 29, 2024](https://www.youtube.com/watch?v=LpdFdIckXqo)
 
 Wicks == Gaps. Our focus on C.E. or upper quadrants if bullish (lower quadrants when bearish).
@@ -142,7 +146,7 @@ To capture nice position trades we need to look at 1D charts or 1W charts.
 Change in a state of delivery it's always opening price of OB. Delivery it's
 directional price run, so it's going to be a change in the direction of price.
 
-## Reading Price Without A Bias - April 30, 2024
+### Reading Price Without A Bias - April 30, 2024
 [Reading Price Without A Bias - April 30, 2024](https://www.youtube.com/watch?v=joqM_Z96vtM)
 
 Do not trade on non-farm payroll week from after lunch Wed till Fri.
@@ -156,7 +160,7 @@ directions in a same general area in terms of price. Best is with 1 candle in a
 middle because it would be sudden and more impactful. Or it could be pattern called
 island reversal. We can trade is as iFVG
 
-## Keynotes & Observations - May 01, 2024
+### Keynotes & Observations - May 01, 2024
 [Keynotes & Observations - May 01, 2024]()
 
 In FOMC day is 2 stage event: 1) Move start on 14:00 and complete at 14:30 2) At 14:35
