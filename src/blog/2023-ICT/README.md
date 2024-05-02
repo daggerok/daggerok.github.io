@@ -60,8 +60,30 @@ it and then back upper, so Breaker will act as resistance (similar to -iFVG).
 ## ICT February 24 - Conquering Fear Of Being Wrong Vs. Profitability
 [ICT February 24 - Conquering Fear Of Being Wrong Vs. Profitability](https://www.youtube.com/watch?v=qUYWVwyRhZs)
 
+Market Structure Shift (MSS) is short term change in market sentiment and it will deliver on a short
+term basis. MSS doesn't require close above a STH, its just need to trade above it.
+
+Market Structure Break (MSB) is where entire trend in marketplace changes, and we're going into
+longer higher timeframe delivery of the price (where if its bullish, and we have MSB that is bearish,
+then we would say that is change in trend, aka reversal).
+
+Once MSS occur algorithm will start a macro for price delivery.
+
+Macro is a short list of instructions that algorithm will run in a price engine which creates these
+fluctuations in price action, and it doesn't matter what buying and selling pressure currently is.
+
++SMTD is only confirmation tool that showing that Sellside Liquidity was taken, and we're going
+higher if we are bullish.
+
+You do not ever want to be trading ahead of CPI numbers, it will rip your face off.
+
+When we're watching +OB, we are looking on its high and Mean Threshold and expecting a reaction higher
+from it.
+
+Bullish Propulsion Block its nested OB within another OB.
+
 ## Lecture On ICT Order Blocks & Tape Reading April 18, 2024
-[Lecture On ICT Order Blocks & Tape Reading April 18, 2024](https://www.youtube.com/watch?v=BxR3tVRS_FI&t=4s&ab_channel=TheInnerCircleTrader)
+[Lecture On ICT Order Blocks & Tape Reading April 18, 2024](https://www.youtube.com/watch?v=BxR3tVRS_FI)
 
 Bias must be found based on weekly and daily charts.
 Don't build bias based on anything what less than 1 hour.
@@ -96,7 +118,7 @@ Important to keep in mind quadrants and remember that best entries when we are:
 * bearish: in between 0%-50% of -OB or -FVG
 
 ## How To Read Price With Or Without A Bias - April 29, 2024
-[How To Read Price With Or Without A Bias - April 29, 2024](https://www.youtube.com/watch?v=BxR3tVRS_FI&t=4s&ab_channel=TheInnerCircleTrader)
+[How To Read Price With Or Without A Bias - April 29, 2024](https://www.youtube.com/watch?v=LpdFdIckXqo)
 
 Wicks == Gaps. Our focus on C.E. or upper quadrants if bullish (lower quadrants when bearish).
 
@@ -133,6 +155,27 @@ Bounce price range is when you have 2 inefficiencies (BiSi and SiBi) in opposing
 directions in a same general area in terms of price. Best is with 1 candle in a
 middle because it would be sudden and more impactful. Or it could be pattern called
 island reversal. We can trade is as iFVG
+
+## Keynotes & Observations - May 01, 2024
+[Keynotes & Observations - May 01, 2024]()
+
+In FOMC day is 2 stage event: 1) Move start on 14:00 and complete at 14:30 2) At 14:35
+I can do either reversal or continue
+
+Non-Farm Payroll is also nopt possible for trading - algorithm is turn off and manual
+intervention will be turned on
+
+How to detect time when LRL in place? If there are no news drivers.
+
+Session bias can be built for 4h and 1h charts: were we are? where are we going from?
+where are we going to (block, inefficiency, C.E, draw on liquidity etc...)?
+
+Why we don't want Opening Range Gap fill completely if we are Bearish? Because if it
+cannot fill that Gap it means that it Very Bearish.
+
+We can expect as retail traders want to go short after big down day, so smart money
+wants to trap them. Takeaway from this is: when retail public crowd want to sell,
+smart money want to move markets higher to get everybody else Byu stops.
 
 <!--
 
