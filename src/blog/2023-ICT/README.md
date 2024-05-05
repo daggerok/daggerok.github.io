@@ -1,7 +1,6 @@
 # ICT
-This is my ICT notes. I started learn it 2023 year, but topic is quite big and complex.
-ICT always saying that hist students should make a notes because its not realistic to
-keep memorize everything...
+This is my ICT notes. I started learn it in the end of 2023, but topic is quite big and complex.
+ICT said that hist students should make a notes because its not realistic to keep everything in memory...
 
 ## 2023
 
@@ -87,6 +86,18 @@ Bullish Propulsion Block its nested OB within another OB.
 ### February 25, 2023 Market Commentary
 [February 25, 2023 Market Commentary](youtube.com/watch?v=kFIOp8Tprdc)
 
+![2023-02-25.jpeg](./2023-02-25.jpeg)
+Here 👆 
+* 1 - +FVG (Bullish Fair Value Gap)
+* 2 - Price retrace into this +FVG Consequent Encouragement (C.E.)
+* 3 - +MSS (Market Structure Shift)
+* 4 - Price retrace into +BB (Bullish Breaker)
+* 5 - Price retrace into +OB (Bullish Order Block) which is candle with lower body
+* 6 - Price retrace into +VI (Bullish Volume Imbalance)
+* 7 - We expect price will reach +VI higher
+* 8 - We also can expect that price should at least touch Equilibrium (50% or Dealer Range)
+* 9 - Finally our expectations is that price can potentially reach -FVG (Bearish Fair Value Gap)
+
 -BB (Bearish Breaker Block) can be identified if price was closed below Breaker down close candle, so even
 if price has -FVG upper we should not expect that price will come back up to it.
 
@@ -102,6 +113,25 @@ inefficiencies.
 We can use SMT not only with highly correlated markets but also USDX SMT. For example if ES made a higher
 high and in according normal situation DXY should do lower low, when DXY wasn't able to make lower low it
 is USDX SMT.
+
+### March 06, 2023 Live Tape Reading \ Baseline 1 of 3
+[March 06, 2023 Live Tape Reading \ Baseline 1 of 3](youtube.com/watch?v=n37ozsUreR0)
+
+We're going to do wrong. So baseline measurement 1 of 3 Drawdown Mitigation & Rebuilding.
+
+Do not trade on Non-Farm Payroll, Federal Funds Rate, FOMC, CPI, PMI, etc...
+See: https://www.forexfactory.com/calendar
+
+In HRL run conditions market is no hurry to reach opposing PD Array (choppiness or consolidations...)
+In LRL run conditions market is in a hurry to reach opposing PD Array (big candles or push-push-push...)
+
+We should always take partial profit, or close a trade if there are only 1 contract to not allow us be
+frustrated by think to being right and loose money instead of taking some money. Risk management is #1
+
+Opening Range is 9:30-10:00 and we not trading during this period of time.
+
+### March 07, 2023 Live Tape Reading \ Fed Chair Testimony 10am
+[March 07, 2023 Live Tape Reading \ Fed Chair Testimony 10am]()
 
 ## 2024
 
@@ -454,7 +484,7 @@ General order in the weekly range:
   **Short Tearm Low** (STL)
 * **Sellside Imbalance Buyside Inefficiency** (SIBI)
 * **Sell Stops** (SS). Stops above **SL** Retail Trader idea of resistance level on short positions, higher than old high
-* **Consequent Encuragment** its a middle of the gap
+* **Consequent Encouragement** it's a middle of the gap
 * **Regular Trading Hours** (RTH). Hours when algorithm is delivering price to **SMT**
 * **Electronic Trading Hours** (ETH). All available trading hours on a chart
 * **Liquidity Viod** (LV). Gap between two candels where no trading at all, for example between **NWOGap High** and
@@ -463,7 +493,7 @@ General order in the weekly range:
 * [**New Week Opening Gap** (NWOG)](https://www.youtube.com/live/LoXPDfFoLSc?si=Ob_gRATBCm7Fgm2W&t=1251). Gap between
   close price of previous Friday at 4:30pm and open price of previous Sunday at 6pm
 * **New Week Opening Gap High** (NWOG High). Example: Sun 01 Oct '23 6pm
-* **New Week Opening Gap Consequent Encuragment** (NWOG C.E.). Mid point of the NWOG
+* **New Week Opening Gap Consequent Encouragement** (NWOG C.E.). Mid point of the NWOG
 * **New Week Opening Gap Low** (NWOG Low). Example: Fri 29 Sep '23 4:30pm
 * **New Day Opening Gap** (NDOG). Distance between 5pm and opening 6pm
 * [**Opening Range Gap** (ORG)](https://www.youtube.com/live/LoXPDfFoLSc?si=Gp6dGyGANROcwTpQ&t=1327). Where we have
@@ -498,10 +528,10 @@ General order in the weekly range:
   * From 8:30am (or 9:30am depends on year time) till 12pm
   * From 1-1:30pm till 4-4:30pm
 * Do not trade on Thursday and Friday in between 8am and 10am
-* **FVG** with **OTE** is signifficant only if before it we traded into Sellside Liquidity or Buyside Liquidity meaning
+* **FVG** with **OTE** is significant only if before it we traded into Sellside Liquidity or Buyside Liquidity meaning
   that is should be traded under Retail Trader idea of support level / double bottom or it should be traded above Retail
   trader idea of resistance level / double top / head and sholders, etc... 
-* Every gap or inefficiency should delivered (filled) with both up and down price actions. So if Buyside delivery (when
+* Every gap or inefficiency should be delivered (filled) with both up and down price actions. So if Buyside delivery (when
   marked goes up) occurred it reasonable expect that later Sellside delivery is also going to be done eventually
 * In most cases in 8:30am when news are came out the first run whatever that direction is in price that is the fake
   move - that is a first stage delivery. The second stage is the opposite is whatever that is meaning we will see price
@@ -509,10 +539,10 @@ General order in the weekly range:
   For example:
   
   ![Fake move on MNQZ2023 on Fri Oct 06 '23 at 8:30am](./MNQZ2023-Fri-Oct-06-at-8-30-am-1st-stage.png)
-  Here everybody thinking: "okay, it's gonna go lower" and it's crashes everyone that's already in long... And it did so
+  Here everybody thinking: "okay, it's going to go lower" and it's crashes everyone that's already in long... And it did so
   in stunning fashion very quickly, which scares everyone in a marketplace, it terrifies them! ...Then the market does
   a second stage: what the 8:30am news sentiment shift caused everyone to think that it would keep going lower and keep
-  going lower... They trapped them short and then they run against the move that took place in the morning:
+  going lower... They trapped them short, and then they run against the move that took place in the morning:
   
   ![SMT price delivery move on MNQZ2023 on Fri Oct 06 '23 at 9:00am](./MNQZ2023-Fri-Oct-06-at-9-00-am-2nd-stage.png)
 
