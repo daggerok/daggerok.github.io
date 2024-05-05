@@ -104,8 +104,15 @@ lower or higher? - This is our weekly bias. Benefit of doing this is our orienta
 because we will know what we will expect from price, so we submit ourselves to believe that price should
 go in our direction according to our biggest odds and our idea comes from weekly and daily charts...
 
--BB (Bearish Breaker Block) can be identified if price was closed below Breaker down close candle, so even
-if price has -FVG upper we should not expect that price will come back up to it.
+HRL (days with lots of chop) vs LRL (days with big movement candles): We should learn when whey are occur
+to focus on LRL for our trades.
+
+When we see that price did big movement prior to 9:30 then we should expect that at lease NY.AM session
+(but maybe and NY.PR) will be choppy. We gonna miss some moves and it's okay.
+
+-BB (Bearish Breaker Block) can be treat if price was closed below Breaker down close candle, so even
+if price did -MSS and has -FVG upper we should not expect that price will come back up to that -FVG, but
+if we see -VI lower than -BB or -FVG, then we can expect that price will just touch -VI and drop lower.
 
 Engineered Liquidity can be formed for example near old relative equals highs, when we are not swept it
 and form -BB initial down move candles to make believe retail crowd that they must sell shorts, so on
@@ -115,6 +122,10 @@ next -BB upper move we will take their buy stops (break all short traders).
 
 In bearish market every time when market goes up it's returning to take buy stops or repricing
 inefficiencies.
+
+Wicks are inefficiencies, so we can expect price reach mid. point of these wicks (C.E.)
+
+Dress your charts correctly.
 
 We can use SMT not only with highly correlated markets but also USDX SMT. For example if ES made a higher
 high and in according normal situation DXY should do lower low, when DXY wasn't able to make lower low it
