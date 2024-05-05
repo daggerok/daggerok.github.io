@@ -86,6 +86,7 @@ Bullish Propulsion Block its nested OB within another OB.
 ### February 25, 2023 Market Commentary
 [February 25, 2023 Market Commentary](youtube.com/watch?v=kFIOp8Tprdc)
 
+Before trading week routine:
 ![2023-02-25.jpeg](./2023-02-25.jpeg)
 Here 👆 
 * 1 - +FVG (Bullish Fair Value Gap)
@@ -97,6 +98,11 @@ Here 👆
 * 7 - We expect price will reach +VI higher
 * 8 - We also can expect that price should at least touch Equilibrium (50% or Dealer Range)
 * 9 - Finally our expectations is that price can potentially reach -FVG (Bearish Fair Value Gap)
+
+On a weekly charts each Saturday or Sunday we should anticipate where candle is likelihood should expand,
+lower or higher? - This is our weekly bias. Benefit of doing this is our orientation for lower timeframe,
+because we will know what we will expect from price, so we submit ourselves to believe that price should
+go in our direction according to our biggest odds and our idea comes from weekly and daily charts...
 
 -BB (Bearish Breaker Block) can be identified if price was closed below Breaker down close candle, so even
 if price has -FVG upper we should not expect that price will come back up to it.
