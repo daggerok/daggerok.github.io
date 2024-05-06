@@ -145,7 +145,9 @@ In LRL run conditions market is in a hurry to reach opposing PD Array (big candl
 We should always take partial profit, or close a trade if there are only 1 contract to not allow us be
 frustrated by think to being right and loose money instead of taking some money. Risk management is #1
 
-Opening Range is 9:30-10:00 and we not trading during this period of time.
+Opening Range it's 1st 30 minutes of trading (09:30-10:00) and we are not trading during this period of time.
+We are wait for 09:50 macro to see how market will reach for liquidity or reprice inefficiencies and
+when market will show his hand we can try to trade next hour NY.AM Silver Bullet 10:00-11:00
 
 ### March 07, 2023 Live Tape Reading \ Fed Chair Testimony 10am
 [March 07, 2023 Live Tape Reading \ Fed Chair Testimony 10am]()
