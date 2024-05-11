@@ -139,18 +139,70 @@ We're going to do wrong. So baseline measurement 1 of 3 Drawdown Mitigation & Re
 Do not trade on Non-Farm Payroll, Federal Funds Rate, FOMC, CPI, PMI, etc...
 See: https://www.forexfactory.com/calendar
 
+Opening Range (OR) it's 1st 30 minutes of trading (09:30-10:00) and we are not trading during this
+period of time. We are wait for 09:50 macro to see how market will reach for liquidity or reprice
+inefficiencies and when market will show his hand we can try to trade next hour NY.AM Silver Bullet
+in between 10:00-11:00
+
+On ORG if we see ES or NQ price is above it and making higher high, but Dollar Index is not confirming it
+with lower low, then we might expect that price will pull back into this ORG
+
+OR (09:30-10:00) it is not a ORG (17:00-09:30) or NDOG (17:00-18:00) or NWOG (Fri 17:00-Sun 18:00).
+
+In HRL run conditions the market is in no hurry to get to an opposing discount or premium array. Because
+liquidity or inefficiency is encapsulated be that idea. Where in environment like a LRL run it's in a hurry
+very quickly to get where it wants to go (reach opposite premium or discount array).
+
 In HRL run conditions market is no hurry to reach opposing PD Array (choppiness or consolidations...)
 In LRL run conditions market is in a hurry to reach opposing PD Array (big candles or push-push-push...)
 
 We should always take partial profit, or close a trade if there are only 1 contract to not allow us be
 frustrated by think to being right and loose money instead of taking some money. Risk management is #1
 
-Opening Range it's 1st 30 minutes of trading (09:30-10:00) and we are not trading during this period of time.
-We are wait for 09:50 macro to see how market will reach for liquidity or reprice inefficiencies and
-when market will show his hand we can try to trade next hour NY.AM Silver Bullet 10:00-11:00
+If we're expecting price go higher, then down close candles should support price.  
+
+SMT: If YM made a higher low, but ES or NQ made a lower low, then it's SMT Divergence.
 
 ### March 07, 2023 Live Tape Reading \ Fed Chair Testimony 10am
-[March 07, 2023 Live Tape Reading \ Fed Chair Testimony 10am]()
+[March 07, 2023 Live Tape Reading \ Fed Chair Testimony 10am](https://www.youtube.com/watch?v=wu0sQarBRrI)
+
+We should always think like so: if I would control market price, whe would I steer a price to and why?
+So what we need to do is annotate on 5m and 15 m timeframes liquidity pools that hasn't been reached yet.
+Its formation can be related to previous day or earlier... So SM, algo and those who controls price, they
+will go where wouldn't be too much to expect to reach those lever with liquidity pool (too clean, too
+smooth retail support/resistance levels, old lows/highs, FVGs, order blocks...)
+
+When we annotated both (Sellside and Buyside Liquidity Pools) 2nd thing we will do - we can study and
+watch which of these levels market will reach first
+
+If market will take Buyside first, then we should see if it is going to reach opposite (Sellside) Liquidity
+and vise versa...
+
+It's not about be right or wrong! It's not yet about trade setup. We should view this as a personal
+exercise in observation, so in that way we are not just looking at the chart blindly, not knowing what
+we are paying attention to, what's relevant to us... It's just helps us with reading the tape and reading
+the tape it's not about pushing a button, and it's not about trading... it's about observing price and
+getting feel what it's doing right and that's experience chart times, it's how we train ourselves with
+online charts price data
+
+When we have price in between two NWOGs and it reaches mid. point, it's always reasonable to expect that
+price can reach that NWOG its moving towards
+
+We shouldn't regret if we did not catch some move. Big moves happens very often. This is a way of forging
+of patience and self-control
+
+We should be not afraid of using stop lose
+
+If we see like DXY made a higher high, but ES not make a lower low then we can expect that ES should
+eventually make lower low... But, if YM made lower low and ES is not (+SMT Divergence ES), then we can
+expect short-term consolidation or even potential reversal
+
+In other words, if we are in a position and for example YM is making a lower low, but ES with NQ is
+not then we should take ofo more than half of our position, because it could mean it could create a
+replacement higher against the position that would have open
+
+If later after ES/DXY Divergence will be declined, meaning markets back to symmetrical behavior, than
+we can assume that markets movement are in sync and we can expect normal, not unexpected
 
 ## 2024
 
