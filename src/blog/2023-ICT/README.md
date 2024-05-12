@@ -204,6 +204,69 @@ replacement higher against the position that would have open
 If later after ES/DXY Divergence will be declined, meaning markets back to symmetrical behavior, than
 we can assume that markets movement are in sync and we can expect normal, not unexpected
 
+### March 08, 2023 Live Tape Reading \ Fed Chair Testimony 10am
+[March 08, 2023 Live Tape Reading \ Fed Chair Testimony 10am](https://www.youtube.com/watch?v=4H74nXabvL0)
+
+Once we reach a weekly objectives we should stop.
+
+The weeks of Non-Farm Payroll which is typically not always, but typically the first Friday of every month,
+so we don't trade the day before, and we don't trade on that Friday because the probabilities for precision
+fall off precipitously. So protocol for such Non-Farm Payroll weeks is next: our task as a trader is to get
+all our business done on Wednesday NY.AM, once it's 11:00 - it's over, we are done
+
+Inside us 3 people:
+* analyst - person in charge of what we're going to be doing? Buying or selling?
+* trader - the person who is going to be doing engagement itself with timing aspect when we are pushing
+  the button, managing the risk, using the logic that being leaned on as the analyst
+* gambler - this person we should keep out of driver seat and hold away from trading in these two days,
+  because gambler is want to see what will happen if we will push the button
+
+NWOG it's a true dynamic FVG. So market algorithm does is deliver price in it to offer fair value to
+marketplace, not necessary for us, but for large funds and SM. Once price goes here large funds either
+come in or get taken out
+
+1) Market goes up for Buy-stops or re-deliver into inefficiency like FVG upper. That it: it's either going
+   up for that reason for long to sell their long positions too, or it's going up to start a new sell-off
+   so in that way shorts can be implemented, and then it's going to be looking for an opposing liquidity
+2) Market goes down for Sell-stops that hold below an old low, or it will goes down for an inefficiency,
+   or it's going lower to start new buys, so in that way longs can be implemented, and target objectives
+   will be opposite Buyside Liquidity
+3) If it's not doing that, guess what it's doing - it's consolidating. Usually consolidation is happening
+   ahead of big news, so we don't trade in consolidation
+
+When we Bullish then we are looking for 2 things: a) it's going up for Buy-stops - above a high or relative
+equal highs, or b) it's going up for Premium Fair Value Gap - some kind of inefficiency where market has
+dropped in a previous as far as 60 days back, some old high, some old price decline where is a FVG, it's
+going up to that level to re-price. That's the only two reasons why price is going to go up
+
+The market will where money is. If there are no money they will engineer it
+
+### NWOG - New Week Opening Gap
+[NWOG - New Week Opening Gap](https://www.youtube.com/watch?v=WKKnlIIkBTk&list=PLVgHx4Z63pabpjlduWBaEsn8VMtALhjGV&index=39&pp=iAQB)
+
+When analyzing NWOG, don't use daily charts, use something like 5m charts
+
+Use Fri closing price.
+Use Sun opening price.
+And C.E. in between them
+
+ICT NWOG it's a tool with is giving information on large funds fair value meaning the market will gyrate in
+between current and previous NWOG
+
+NWOG it a real liquidity void there is no trading there, so when market moves away from that after re-pricing
+into it, it can refer back to it weeks ago, a month ago or more. So we need to keep at least of 5 of them on
+our charts for proper perspective of large funds valuation
+
+If we are moving around current and previous NWOG then we are in consolidation.
+If in a trending days we are moving away from current NWOG then we might expect to get back to it later
+
+There are two NWOGs, and we should prepare two templates in our TradingView for these gaps:
+1. NWOG Actual, which is forming from Fri 16:69 closing price and Sun 18:00 opening price.
+2. NWOG, which is forming from Fri 16:69 closing price and Mon 9:30 opening price.
+
+By looking on a difference between these two NWOG and NWOG Actual we can learn how fair valuation is 
+utilized during the week and/or even month
+
 ## 2024
 
 ### Lecture On ICT Order Blocks & Tape Reading April 18, 2024
