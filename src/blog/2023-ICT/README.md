@@ -267,6 +267,21 @@ There are two NWOGs, and we should prepare two templates in our TradingView for 
 By looking on a difference between these two NWOG and NWOG Actual we can learn how fair valuation is 
 utilized during the week and/or even month
 
+### March 21, 2023 Live Tape Reading - Conquering Your Fear Of Entries
+[March 21, 2023 Live Tape Reading - Conquering Your Fear Of Entries](https://www.youtube.com/watch?v=hQ379EuyNKQ&list=PLVgHx4Z63pabpjlduWBaEsn8VMtALhjGV&index=42&ab_channel=TheInnerCircleTrader)
+
+General rule: skip 1st 30 minutes (9:30-10:00) because it can be Judas Swing (fake move)
+
+ORG (Opening Range Gap) 15:59-9:30. If we opened higher, we are wait for trap (meaning price go higher
+but fail go higher next and can drop inside our ORG. I may just touch it or close 50% or close completely,
+we don't know, but this is ideal scenario for us, it's potential opportunity and it's repeat
+
+We should always look at the Dollar Index to let it keep us out from wrong trades entries
+
+We should also look on ES, NQ and YM for divergences. When these markets are forming SMT Divergence we should
+know that algo is tipping its hand, meaning that it's telling us that this rally is suspect rally, meaning
+it's only going up to take Buy stops of anyone that short
+
 ## 2024
 
 ### Lecture On ICT Order Blocks & Tape Reading April 18, 2024
