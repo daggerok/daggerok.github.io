@@ -283,6 +283,38 @@ We should also look on ES, NQ and YM for divergences. When these markets are for
 know that algo is tipping its hand, meaning that it's telling us that this rally is suspect rally, meaning
 it's only going up to take Buy stops of anyone that short
 
+### ICT Emini S&P 500 Review - March 27, 2023
+[ICT Emini S&P 500 Review - March 27, 2023](https://www.youtube.com/watch?v=NkwqJBzgQwo&list=PLVgHx4Z63pabpjlduWBaEsn8VMtALhjGV&index=43&ab_channel=TheInnerCircleTrader)
+
+ORG can be useful when:
+* Opening Range Gap is higher (meaning we opened higher than yesterday's session close price) then Market can
+  return lower to yesterday's session closed price to re-balance or to reach discount PD Array
+* Opening Range Gap is lower (meaning we opened lower than yesterday's session close price) then Market can
+  go upper to yesterday's session closed price to re-balance or to reach premium PD Array
+* Or it may return only to C.E. of that ORG
+
+When we are Bullish and when we have 3 swing lows which showing us intention go higher and where the lowest
+swing is in a middle, then we can measure Standard Deviation projection from latest swing low to previous swing
+high. In this example from STL2 to STH2:
+```               STH2        /\      ...
+\      STH1        /\        /  .    .
+ \      /\        /  \      /    .  .
+  \    /  \      /    \    /      .
+   \  /    \    /      \  /
+    \/      \  /        \/
+   STL1      \/         STL2
+             ITL
+```
+
+When we in consolidation od Daily chart, one possible case for trade on NY PM session on reversal after Key Level
+was reached is wait for MSS after 13:00 prior to run stops of NY Lunch session
+
+Best Long positions will be below NY midnight opening price.
+Best Short positions will be above NY midnight opening price
+
+We should not forget about Macro (09:50-10:10, 14:50-15:10, PM session last trading hour) during these macros
+algo can seek liquidity or deliver price to key levels.
+
 ## 2024
 
 ### Lecture On ICT Order Blocks & Tape Reading April 18, 2024
