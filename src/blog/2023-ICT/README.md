@@ -14,25 +14,24 @@ if Dollar is moving lower, then we are looking for longs on indexes (risk-on mod
 ### February 15, 2023 ES Session Review
 [February 15, 2023 ES Session Review](https://www.youtube.com/watch?v=SSWN6YSVyFY)
 
-NDOG (New Day Opening Gap) is price in between 5pm market close and 6pm market open its
-a reference point where algorithm will refer and come back later.
+NDOG (New Day Opening Gap) is price in between 5pm market close and 6pm market open it's a reference
+point where algorithm will refer and come back later.
 
 The Bodies tell the story, the Wicks do the damage.
 
-If we expect that market is going to be hard to read (for example due to high impact
-news), we can trade on 7:00am-8:30am to utilize that interval during pre-market before
-news driver (medium to high impact news) and expect that we can reach our target at 8:30am
+If we expect that market is going to be hard to read (for example due to high impact news), we can trade
+on 7:00am-8:30am to utilize that interval during pre-market before news driver (medium to high impact
+news) and expect that we can reach our target at 8:30am.
 
-Symmetrical market is when for example we have lower low in NQ and ES and higher high on DXY.
-This is we want to see to trade, if at any time we see non-symmetrical market we want to step
-away because of sentiment shift unfolding. Example: if we for example cannot see dollar
-index higher high when it was expected - it's a dollar index divergence, and it's a signal
-for  smart money, so they probably will seek for liquidity (external - Buyside or internal -
-50% of dealer range, bearish gaps or blocks...)
+Symmetrical market is when for example we have lower low in NQ and ES and higher high on DXY. This is
+we want to see to trade, if at any time we see non-symmetrical market we want to step away because of
+sentiment shift unfolding. Example: if we for example cannot see dollar index higher high when it was
+expected - it's a dollar index divergence, and it's a signal for  smart money, so they probably will
+seek for liquidity (external - Buyside or internal - 50% of dealer range, bearish gaps or blocks...)
 
-Buy model on last hour macro 15:15-15:45 after stops (liquidity) has been taken is not a
-Market Maker Buy Model is when market starts booking higher price until we get a pool of
-liquidity (Buyside liquidity) or premium inefficiency (FVG SiBi)
+Buy model on last hour macro 15:15-15:45 after stops (liquidity) has been taken is not a Market Maker
+Buy Model is when market starts booking higher price until we get a pool of liquidity (Buyside
+liquidity) or premium inefficiency (FVG SiBi)
 
 Order Block it's a Change in the State of Delivery.
 Order block start on opening price of consecutive sets of down close candles after its validation.
@@ -46,40 +45,38 @@ New Week Opening gap (NWOG) is gap between 16:00 on Fri and 18:00 on Sun.
 New Week/Day Opening gap (NDOG) is gap between 16:00 and 18:00 of current.
 Opening Range Gap (OR) is gap between yesterday's 16:00 closing price and today's 9:30 opening price.
 
-If we had news drivers and big run before 9:30 then we can expect price choppiness and/or run agains
-profitable traders (who was able to catch this move) stops. For example after bin market drop if we're
-not going to go lower ask yourself "where is the money?" right, - higher buyside liquidity on bearish
+If we had news drivers and big run before 9:30 then we can expect price choppiness and/or run against
+profitable traders (who was able to catch this move) stops. For example after bin market drop if we're not
+going to go lower ask yourself "where is the money?" right, - higher buyside liquidity on bearish
 inefficiencies, order blocks, or previous highs, or relative equals highs...
 
-Breaker Block is: Low, Higher High, Lower Low, retrace to block and go higher.
-Mitigation Block its almost opposite to Bullish Breaker Block: Low, Higher High, Higher Low, retrace
-to block and go higher.
+Breaker Block is: Low, Higher High, Lower Low, retrace to block and go higher. Mitigation Block its
+almost opposite to Bullish Breaker Block: Low, Higher High, Higher Low, retrace to block and go higher.
 
-If we want to confirm that our Bullish Breaker Block invalid - price should at least go lower through
-it and then back upper, so Breaker will act as resistance (similar to -iFVG).
+If we want to confirm that our Bullish Breaker Block invalid - price should at least go lower through it
+and then back upper, so Breaker will act as resistance (similar to -iFVG).
 
 ### ICT February 24 - Conquering Fear Of Being Wrong Vs. Profitability
 [ICT February 24 - Conquering Fear Of Being Wrong Vs. Profitability](https://www.youtube.com/watch?v=qUYWVwyRhZs)
 
-Market Structure Shift (MSS) is short term change in market sentiment and it will deliver on a short
-term basis. MSS doesn't require close above a STH, its just need to trade above it.
+Market Structure Shift (MSS) is short term change in market sentiment and it will deliver on a short term
+basis. MSS doesn't require close above a STH, its just need to trade above it.
 
-Market Structure Break (MSB) is where entire trend in marketplace changes, and we're going into
-longer higher timeframe delivery of the price (where if its bullish, and we have MSB that is bearish,
-then we would say that is change in trend, aka reversal).
+Market Structure Break (MSB) is where entire trend in marketplace changes, and we're going into longer higher
+timeframe delivery of the price (where if its bullish, and we have MSB that is bearish, then we would say
+that is change in trend, aka reversal).
 
 Once MSS occur algorithm will start a macro for price delivery.
 
 Macro is a short list of instructions that algorithm will run in a price engine which creates these
 fluctuations in price action, and it doesn't matter what buying and selling pressure currently is.
 
-+SMTD is only confirmation tool that showing that Sellside Liquidity was taken, and we're going
-higher if we are bullish.
++SMTD is only confirmation tool that showing that Sellside Liquidity was taken, and we're going higher if we
+are bullish.
 
 You do not ever want to be trading ahead of CPI numbers, it will rip your face off.
 
-When we're watching +OB, we are looking on its high and Mean Threshold and expecting a reaction higher
-from it.
+When we're watching +OB, we are looking on its high and Mean Threshold and expecting a reaction higher from it.
 
 Bullish Propulsion Block its nested OB within another OB.
 
@@ -123,7 +120,7 @@ next -BB upper move we will take their buy stops (break all short traders).
 In bearish market every time when market goes up it's returning to take buy stops or repricing
 inefficiencies.
 
-Wicks are inefficiencies, so we can expect price reach mid. point of these wicks (C.E.)
+Wicks are inefficiencies, so we can expect price reach mid. point of these wicks C.E.
 
 Dress your charts correctly.
 
@@ -142,10 +139,10 @@ See: https://www.forexfactory.com/calendar
 Opening Range (OR) it's 1st 30 minutes of trading (09:30-10:00) and we are not trading during this
 period of time. We are wait for 09:50 macro to see how market will reach for liquidity or reprice
 inefficiencies and when market will show his hand we can try to trade next hour NY.AM Silver Bullet
-in between 10:00-11:00
+in between 10:00-11:00 o'clock.
 
 On ORG if we see ES or NQ price is above it and making higher high, but Dollar Index is not confirming it
-with lower low, then we might expect that price will pull back into this ORG
+with lower low, then we might expect that price will pull back into this ORG.
 
 OR (09:30-10:00) it is not a ORG (17:00-09:30) or NDOG (17:00-18:00) or NWOG (Fri 17:00-Sun 18:00).
 
@@ -156,8 +153,9 @@ very quickly to get where it wants to go (reach opposite premium or discount arr
 In HRL run conditions market is no hurry to reach opposing PD Array (choppiness or consolidations...)
 In LRL run conditions market is in a hurry to reach opposing PD Array (big candles or push-push-push...)
 
-We should always take partial profit, or close a trade if there are only 1 contract to not allow us be
-frustrated by think to being right and loose money instead of taking some money. Risk management is #1
+We should always take partial profit, or close a trade if there are only 1 contract to not allow us to be
+frustrated by think to being right and loose money instead of taking some money. Risk management is #1.
+Period.
 
 If we're expecting price go higher, then down close candles should support price.  
 
@@ -170,10 +168,10 @@ We should always think like so: if I would control market price, whe would I ste
 So what we need to do is annotate on 5m and 15 m timeframes liquidity pools that hasn't been reached yet.
 Its formation can be related to previous day or earlier... So SM, algo and those who controls price, they
 will go where wouldn't be too much to expect to reach those lever with liquidity pool (too clean, too
-smooth retail support/resistance levels, old lows/highs, FVGs, order blocks...)
+smooth retail support/resistance levels, old lows/highs, FVGs, order blocks, etc.)
 
 When we annotated both (Sellside and Buyside Liquidity Pools) 2nd thing we will do - we can study and
-watch which of these levels market will reach first
+watch which of these levels market will reach first.
 
 If market will take Buyside first, then we should see if it is going to reach opposite (Sellside) Liquidity
 and vise versa...
@@ -183,26 +181,26 @@ exercise in observation, so in that way we are not just looking at the chart bli
 we are paying attention to, what's relevant to us... It's just helps us with reading the tape and reading
 the tape it's not about pushing a button, and it's not about trading... it's about observing price and
 getting feel what it's doing right and that's experience chart times, it's how we train ourselves with
-online charts price data
+online charts price data.
 
 When we have price in between two NWOGs and it reaches mid. point, it's always reasonable to expect that
-price can reach that NWOG its moving towards
+price can reach that NWOG its moving towards.
 
 We shouldn't regret if we did not catch some move. Big moves happens very often. This is a way of forging
-of patience and self-control
+of patience and self-control.
 
-We should be not afraid of using stop lose
+We should be not afraid of using stop lose.
 
 If we see like DXY made a higher high, but ES not make a lower low then we can expect that ES should
 eventually make lower low... But, if YM made lower low and ES is not (+SMT Divergence ES), then we can
-expect short-term consolidation or even potential reversal
+expect short-term consolidation or even potential reversal.
 
 In other words, if we are in a position and for example YM is making a lower low, but ES with NQ is
 not then we should take ofo more than half of our position, because it could mean it could create a
-replacement higher against the position that would have open
+replacement higher against the position that would have open.
 
 If later after ES/DXY Divergence will be declined, meaning markets back to symmetrical behavior, than
-we can assume that markets movement are in sync and we can expect normal, not unexpected
+we can assume that markets movement are in sync, and we can expect normal, not unexpected.
 
 ### March 08, 2023 Live Tape Reading \ Fed Chair Testimony 10am
 [March 08, 2023 Live Tape Reading \ Fed Chair Testimony 10am](https://www.youtube.com/watch?v=4H74nXabvL0)
@@ -212,7 +210,7 @@ Once we reach a weekly objectives we should stop.
 The weeks of Non-Farm Payroll which is typically not always, but typically the first Friday of every month,
 so we don't trade the day before, and we don't trade on that Friday because the probabilities for precision
 fall off precipitously. So protocol for such Non-Farm Payroll weeks is next: our task as a trader is to get
-all our business done on Wednesday NY.AM, once it's 11:00 - it's over, we are done
+all our business done on Wednesday NY.AM, once it's 11:00 - it's over, we are done.
 
 Inside us 3 people:
 * analyst - person in charge of what we're going to be doing? Buying or selling?
@@ -223,7 +221,7 @@ Inside us 3 people:
 
 NWOG it's a true dynamic FVG. So market algorithm does is deliver price in it to offer fair value to
 marketplace, not necessary for us, but for large funds and SM. Once price goes here large funds either
-come in or get taken out
+come in or get taken out.
 
 1) Market goes up for Buy-stops or re-deliver into inefficiency like FVG upper. That it: it's either going
    up for that reason for long to sell their long positions too, or it's going up to start a new sell-off
@@ -237,51 +235,51 @@ come in or get taken out
 When we Bullish then we are looking for 2 things: a) it's going up for Buy-stops - above a high or relative
 equal highs, or b) it's going up for Premium Fair Value Gap - some kind of inefficiency where market has
 dropped in a previous as far as 60 days back, some old high, some old price decline where is a FVG, it's
-going up to that level to re-price. That's the only two reasons why price is going to go up
+going up to that level to re-price. That's the only two reasons why price is going to go up.
 
-The market will where money is. If there are no money they will engineer it
+The market will where money is. If there are no money they will engineer it.
 
 ### NWOG - New Week Opening Gap
 [NWOG - New Week Opening Gap](https://www.youtube.com/watch?v=WKKnlIIkBTk&list=PLVgHx4Z63pabpjlduWBaEsn8VMtALhjGV&index=39&pp=iAQB)
 
-When analyzing NWOG, don't use daily charts, use something like 5m charts
+When analyzing NWOG, don't use daily charts, use something like 5m charts.
 
 Use Fri closing price.
 Use Sun opening price.
 And C.E. in between them
 
 ICT NWOG it's a tool with is giving information on large funds fair value meaning the market will gyrate in
-between current and previous NWOG
+between current and previous NWOG.
 
 NWOG it a real liquidity void there is no trading there, so when market moves away from that after re-pricing
 into it, it can refer back to it weeks ago, a month ago or more. So we need to keep at least of 5 of them on
-our charts for proper perspective of large funds valuation
+our charts for proper perspective of large funds valuation.
 
-If we are moving around current and previous NWOG then we are in consolidation.
-If in a trending days we are moving away from current NWOG then we might expect to get back to it later
+If we are moving around current and previous NWOG then we are in consolidation. If in a trending days we are
+moving away from current NWOG then we might expect to get back to it later.
 
 There are two NWOGs, and we should prepare two templates in our TradingView for these gaps:
 1. NWOG Actual, which is forming from Fri 16:69 closing price and Sun 18:00 opening price.
 2. NWOG, which is forming from Fri 16:69 closing price and Mon 9:30 opening price.
 
-By looking on a difference between these two NWOG and NWOG Actual we can learn how fair valuation is 
-utilized during the week and/or even month
+By looking on a difference between these two NWOG and NWOG Actual we can learn how fair valuation is utilized
+during the week and/or even month.
 
 ### March 21, 2023 Live Tape Reading - Conquering Your Fear Of Entries
 [March 21, 2023 Live Tape Reading - Conquering Your Fear Of Entries](https://www.youtube.com/watch?v=hQ379EuyNKQ&list=PLVgHx4Z63pabpjlduWBaEsn8VMtALhjGV&index=42&ab_channel=TheInnerCircleTrader)
 
-General rule: skip 1st 30 minutes (9:30-10:00) while forming Morning Session's OR (Opening Range) to complete because
-it can be Judas Swing (fake move)
+General rule: skip 1st 30 minutes (9:30-10:00) while forming Morning Session's OR (Opening Range) to complete
+because it can be Judas Swing (fake move).
 
 ORG (Opening Range Gap) 15:59-9:30. If we opened higher, we are wait for trap (meaning price go higher
 but fail go higher next and can drop inside our ORG. I may just touch it or close 50% or close completely,
-we don't know, but this is ideal scenario for us, it's potential opportunity and it's repeat
+we don't know, but this is ideal scenario for us, it's potential opportunity and it's repeat.
 
-We should always look at the Dollar Index to let it keep us out from wrong trades entries
+We should always look at the Dollar Index to let it keep us out from wrong trades entries.
 
 We should also look on ES, NQ and YM for divergences. When these markets are forming SMT Divergence we should
 know that algo is tipping its hand, meaning that it's telling us that this rally is suspect rally, meaning
-it's only going up to take Buy stops of anyone that short
+it's only going up to take Buy stops of anyone that short.
 
 ### ICT Emini S&P 500 Review - March 27, 2023
 [ICT Emini S&P 500 Review - March 27, 2023](https://www.youtube.com/watch?v=NkwqJBzgQwo&list=PLVgHx4Z63pabpjlduWBaEsn8VMtALhjGV&index=43&ab_channel=TheInnerCircleTrader)
@@ -291,7 +289,7 @@ ORG can be useful when:
   return lower to yesterday's session closed price to re-balance or to reach discount PD Array
 * Opening Range Gap is lower (meaning we opened lower than yesterday's session close price) then Market can
   go upper to yesterday's session closed price to re-balance or to reach premium PD Array
-* Or it may return only to C.E. of that ORG
+* Or it may return only to C.E. of that ORG.
 
 When we are Bullish and when we have 3 swing lows which showing us intention go higher and where the lowest
 swing is in a middle, then we can measure Standard Deviation projection from latest swing low to previous swing
@@ -307,13 +305,73 @@ high. In this example from STL2 to STH2:
 ```
 
 When we in consolidation od Daily chart, one possible case for trade on NY PM session on reversal after Key Level
-was reached is wait for MSS after 13:00 prior to run stops of NY Lunch session
+was reached is wait for MSS after 13:00 prior to run stops of NY Lunch session.
 
 Best Long positions will be below NY midnight opening price.
-Best Short positions will be above NY midnight opening price
+Best Short positions will be above NY midnight opening price.
 
 We should not forget about Macro (09:50-10:10, 14:50-15:10, PM session last trading hour) during these macros
 algo can seek liquidity or deliver price to key levels.
+
+### March 30, 2023 Live Tape Reading - AM Session
+[March 30, 2023 Live Tape Reading - AM Session](https://www.youtube.com/watch?v=LN1nfYp4dBw&list=PLVgHx4Z63pabpjlduWBaEsn8VMtALhjGV&index=44&ab_channel=TheInnerCircleTrader)
+
+We are waiting specifically more for 10:00 hour to begin giving up the 1st 30 minutes of trading in the opening
+range, waiting for more information and being completely willing to miss te move.
+
+When ORG opens higher, and it is big, meaning we have a lot of premium in it, so we should pull quadrants fib
+to be mindful of potential run when we might do down, event 1 or 2 quarter can be quite good ...but we should
+see what will be in the 10 o'clock hour.
+
+If we are on Thursday and its trendy day and if for example ES with NQ making higher highs, but YM making did
+lower high then it's good to keep in mind than Thursday generally tends to create the opposite end of range.
+
+Never short anything when it's going higher unless you had a confirmation. Keep the rules and do not improvise.
+
+Existing relative equals lows or gap below Bullish Market doesn't make a price go lower if it has unfinished
+business above, so do not short if Market is going higher and there are Liquidity or key reference point hasn't
+been reached yet
+
+If Market is going higher, and we are not know where it might go higher it's better to miss a move then being
+wrong and simply push a button...
+
+Model 2022 + SB (We are expecting 5 handle ES run every day) rules and algorithm:
+1. When market opens identify Liquidity before SB start. At 0950 Macro time we are looking for run movement
+   starts. Remember: run movement starts != run starts
+2. During SB, we are looking for MSS with displacement
+3. Identify FVG which is opposite to direction (+FVG when we're Bullish or -FVG when we're Bearish) we are
+   anticipate Liquidity to be drawn to
+
+For example:
+* If we are Bearish: after Displacement lower we wait for price to trade up into that -FVG and then trade
+  towards Pool of Liquidity lower in a form of Sellside Liquidity to targets with at least 5 Handles run from
+  3rd candle high of -FVG on level where that -FVG was form
+* If we're Bullish, then we are looking for Market to trade higher, Displacement higher, leave a +FVG below
+  Market price, then trade down to +FVG and then gravitate towards a Pool of Liquidity which would be Buyside
+  that hasn't been engaged yet, and it has to have better than 5 handled in terms of range from where we think
+  it might get to
+
+We should trade demo until we no longer we need to feel right, we should follow the rules. If we focus on
+feeling right instead of focus on following rules (whatever the outcome is, we're still following rules),
+then we are not ready to trade live funds. First we should be able to follow the rules even if results are
+not so good, and only after the moment when we found that we can trade and catch 5 handles move no matter
+how many trades we were success and how many not... keeping proper risk management with rules is the key.
+For example, we take partial profit here and only then we move my stop loss on break even, we are never
+move our stop loss or trail it... once we set stop loss its never increase a risk, its only reduces. If
+we're feeling that we opened trade with too little risk it's better to close a trade instead of increasing
+a risk
+
+Task for homework: open 1D chart and find all swing highs and lows, and for each swing find where NWOG was
+formed and where algorithm is accumulating positions (meaning it have be hard and choppy...) Do not keep
+all NWOGs, we need only last 5
+
+Seek and destroy day is when you trade long and it's gets stopped, then you trade short, and it's also gets
+stopped. You say: Okay, I was wrong, now going long, and again, you got stopped again... Then next time
+Market go in your favor leaving you without trade demoralized...
+
+So if NY.AM session blows - okay, no problem, I'm done. I'll come back at 15 to 2 and I'll study and look
+at the price, and it doesn't show me anything by 14:30 I'm not spending the rest of the day and even a
+last hour. That the procedure we should follow
 
 ## 2024
 
