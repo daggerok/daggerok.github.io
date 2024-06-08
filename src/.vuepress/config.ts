@@ -18,6 +18,14 @@ const themeConfig = {
     mediumZoom: true,
     backToHome: true,
     nprogress: true,
+    locales: {
+        '/': {
+            lang: 'en-US',
+        },
+        '/ru/': {
+            lang: 'ru-RU',
+        },
+    },
 };
 
 // @ts-ignore
@@ -46,16 +54,24 @@ export default defineUserConfig({
             { text: 'Home', link: '/' },
             { text: 'Blog', link: firstBlogPath || '/blog/' },
         ],
+        locales: {
+            '/': {
+                selectLanguageName: 'English'
+            },
+            '/ru/': {
+                selectLanguageName: 'Русский'
+            },
+        },
     }),
     bundler: viteBundler(), // required by plugins => usePagesPlugin
     plugins: [
         usePagesPlugin({ // see: https://github.com/monsat/vuepress-plugin-use-pages
-            filter: (page) => page.title !== 'Blog', // fetch non README.md (title: '# Blog') posts
+            filter: (page) => page.title !== 'Blog' && page.title !== 'Блог', // fetch non README.md (title: '# Blog') posts
             sort: (a, b) => {
                 if (a.path == b.path) return 0;
                 return (a.path > b.path) ? -1 : 1; // natural descending order: newest pages comes first
             },
-            startsWith: '/blog/', // fetch only matched paths
+            startsWith: '/', // '/blog/', // fetch only matched paths
             file: 'posts.js', // temp file name will be: posts.js
         }),
         registerComponentsPlugin({

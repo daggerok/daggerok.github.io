@@ -8,18 +8,27 @@
 export default {
   name: 'Post',
   props: {
-    path: {
+    filePathRelative: {
+      type: String,
+      required: false,
+      default: '',
+    },
+    lang: {
       type: String,
       required: true,
     },
-    image: {
+    path: {
       type: String,
-      default: 'me-2020-11.jpeg',
+      required: true,
     },
     title: {
       type: String,
       required: false,
       default: '',
+    },
+    image: {
+      type: String,
+      default: 'me-2020-11.jpeg',
     },
     description: {
       type: String,
