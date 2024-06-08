@@ -27,8 +27,8 @@
     "@vuepress/plugin-search": "2.0.0-beta.67",
     "@vuepress/theme-default": "2.0.0-beta.67",
     "cross-env": "7.0.3",
-    "glob": "10.3.12",
-    "rimraf": "5.0.5",
+    "glob": "10.4.1",
+    "rimraf": "5.0.7",
     "vuepress": "2.0.0-beta.67",
     "vuepress-plugin-use-pages": "1.0.5"
   }
