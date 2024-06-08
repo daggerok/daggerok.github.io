@@ -14,7 +14,7 @@ if Dollar is moving lower, then we are looking for longs on indexes (risk-on mod
 ### February 15, 2023 ES Session Review
 [February 15, 2023 ES Session Review](https://www.youtube.com/watch?v=SSWN6YSVyFY)
 
-NDOG (New Day Opening Gap) is price in between 5pm market close and 6pm market open it's a reference
+NDOG (New Day Opening Gap) is price in between 4:59pm market close and 6pm market open it's a reference
 point where algorithm will refer and come back later.
 
 The Bodies tell the story, the Wicks do the damage.
@@ -144,7 +144,7 @@ in between 10:00-11:00 o'clock.
 On ORG if we see ES or NQ price is above it and making higher high, but Dollar Index is not confirming it
 with lower low, then we might expect that price will pull back into this ORG.
 
-OR (09:30-10:00) it is not a ORG (17:00-09:30) or NDOG (17:00-18:00) or NWOG (Fri 17:00-Sun 18:00).
+OR (09:30-10:00) it is not a ORG (16:00-09:30) or NDOG (16:59-18:00) or NWOG (Fri 16:59-Sun 18:00).
 
 In HRL run conditions the market is in no hurry to get to an opposing discount or premium array. Because
 liquidity or inefficiency is encapsulated be that idea. Where in environment like a LRL run it's in a hurry
@@ -271,7 +271,7 @@ during the week and/or even month.
 General rule: skip 1st 30 minutes (9:30-10:00) while forming Morning Session's OR (Opening Range) to complete
 because it can be Judas Swing (fake move).
 
-ORG (Opening Range Gap) 15:59-9:30. If we opened higher, we are wait for trap (meaning price go higher
+ORG (Opening Range Gap) 16:00-9:30. If we opened higher, we are wait for trap (meaning price go higher
 but fail go higher next and can drop inside our ORG. I may just touch it or close 50% or close completely,
 we don't know, but this is ideal scenario for us, it's potential opportunity and it's repeat.
 
@@ -372,6 +372,41 @@ Market go in your favor leaving you without trade demoralized...
 So if NY.AM session blows - okay, no problem, I'm done. I'll come back at 15 to 2 and I'll study and look
 at the price, and it doesn't show me anything by 14:30 I'm not spending the rest of the day and even a
 last hour. That the procedure we should follow
+
+### March 31, 2023 Live Tape Reading - AM Session
+[March 31, 2023 Live Tape Reading - AM Session](https://www.youtube.com/watch?v=DNi9S3_NA44&list=PLVgHx4Z63pabpjlduWBaEsn8VMtALhjGV&index=45&ab_channel=TheInnerCircleTrader)
+
+NDOG (16:59-18:00) will basically act similarly to NWOG
+
+When price is spotty and messy we should train our patience
+
+To begin with market run we can start with 5 handle run in between 10 o'clock and 11 o'clock:
+* First question is: Where is Draw On Liquidity? Otherwise, without that question it doesn't have sense to open a trade
+* We also should no open a trade if we cannot identify where is low risk and high probability (when everything is high
+  risk and low probability), i.e. it's not obvious to determine where is stops and where is liquidity (where do you go
+  in?)
+* So it has to be absolutely obvious what Market is going to reach for? (inefficiency, Buyside liquidity)
+* Market should tip his hand in form of displacement to show us what is going to do, unless there are no FVGs with
+  displacement, there are nothing to do, meaning it's low probability
+* Knowing what we are looking for (for example FVG with displacement with MSS or after Raid Stops to reach some
+  liquidity during SilverBullet) it's easier to wait
+* We should anticipate, but not reacting on a price
+* In symmetric Market: +FVG/+VI will be best supported with idea ES going higher if DXY lower, higher high NQ and for
+  example DOW not making higher high and thet might provide a fuel to ES going higher
+* To invalidate our bullishness we should use 3 PD Arrays, gor example if price retrace lower than +VI, +OB and +FVG
+  then it might invalidate our long trade idea, in general we want 3 PD Arrays should stay lower, then price for Long
+  trade
+
+For -FVG invalidation we can use the fact that candle body is not permitted above -FVG, wicks permitted - they do
+damage, but as soon candle body has been closed and next candle goes higher (see mouse cursor) then trade can be closed
+with a loss:
+![2023-03-31-1.png](./2023-03-31-1.png)
+So if we are in Short trade and we placed our Stop tick above left high, and candle closed above -FVG which should be
+a resistance then its a warning for us that our stop is not safe and Market ca revisite it, so we have possibility to
+close that trade and get less loses
+
+Inter-market relationship - its important to observe all Markets: ES, NQ, YM, DXY, EURUSD, GBPUSD, ZB, ZN, ZF to have
+complete view on what to expect and it should suggest where price is should go, lower or higher...
 
 ## 2024
 
