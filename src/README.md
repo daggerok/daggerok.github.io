@@ -27,7 +27,7 @@ features:
 - title: work
   details: As you might know I'm doing software engineering.
             During my career I worked with many people, customers and companies.
-            I've experience with many different languages, platforms and tools.
+            I've experience with many different programming languages, platforms and tools.
             I learned a lot already and I know that tomorrow I will learn more!
             This area is growing fast! So we must develop ourselves
             today unless we want to be a dinosaur tomorrow...
@@ -37,7 +37,7 @@ features:
 
 <!--
 
-# Hello, World! [![GitHub Pages](https://github.com/daggerok/customized-vuepress-2-blog/actions/workflows/ci.yaml/badge.svg)](https://github.com/daggerok/customized-vuepress-2-blog/actions/workflows/ci.yaml)
+# Hello, World! [![GitHub Pages](https://github.com/daggerok/daggerok/actions/workflows/ci.yaml/badge.svg)](https://github.com/daggerok/daggerok/actions/workflows/ci.yaml)
 
 I'm Maksim! I do software engineering, music, love and peace...
 
