@@ -841,3 +841,9 @@ New Week Opening Gap
 
 
 -->
+
+
+## Journal
+
+### NQ 2024-06-10
+![](./journal/NQ1!_2024-06-10_10-33-12_bf3b2.png)
