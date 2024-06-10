@@ -837,13 +837,23 @@ New Week Opening Gap
 * If Market open 9:30am price will be lower than Friday close 16:14pm price then **Opening Range Settlement** becomes
   **Opening Range High**
 
-
-
-
 -->
-
 
 ## Journal
 
-### NQ 2024-06-10
-![](./journal/NQ1!_2024-06-10_10-33-12_bf3b2.png)
+### 2024-06-101
+
+NY AM NQ:
+![NY AM NQ](./journal/NQ1!_2024-06-10_10-33-12_bf3b2.png)
+
+NY AM NQ:
+![NY AM NQ](./journal/NQ1!_2024-06-10_10-46-34_9842e.png)
+
+NY AM NQ:
+![NY AM NQ](./journal/NQ1!_2024-06-10_10-51-37_8acc2.png)
+
+NY AM NQ:
+![NY AM NQ](./journal/NQ1!_2024-06-10_12-01-35_916b1.png)
+
+NY Lunch ES:
+![NY Lunch ES](./journal/ES1!_2024-06-10_12-19-48_d34f0.png)
