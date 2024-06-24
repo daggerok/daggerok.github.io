@@ -426,8 +426,10 @@ should know and always follow rules along with that: NY.Lunch can run against st
 profitable for NY.AM, so Market knock them out and then can continue a trend...
 
 When should we enter into trade? Only if framework potentially offering us at least 10 handles, then we can trade with
-proper risk and try to get our 5 handles. Why 10 handles? Because it allowing you a lot of forgiveness to enter a
-little bit early or a little bit late.
+proper risk and try to get our 5 handles.
+Why 10 handles?
+a) because it allowing you a lot of forgiveness to enter a little bit early or a little bit late;
+b) and because it will filter bad trades where you probably will loose
 
 ## 2024
 
