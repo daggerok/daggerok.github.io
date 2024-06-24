@@ -420,6 +420,11 @@ b) or eventually it will cross VI with candle body and price is moved away for i
 We should respect higher TF where VI was form, if it was 5m TF then we should ignore any candles bodies crosses and
 closes that VI on lower TFs, we should wait for confirmation on higher TF where VI was form.
 
+Let's try to find bread and butter 5 handles setups first and get confidence with them.
+Next step is that we can try to trade outside on Killzones. For example, we can even try to trade NY.Lunch hour, but we
+should know and always follow rules along with that: NY.Lunch can run against stops and those individuals who are
+profitable for NY.AM, so Market knock them out and then can continue a trend...
+
 ## 2024
 
 ### Lecture On ICT Order Blocks & Tape Reading April 18, 2024
