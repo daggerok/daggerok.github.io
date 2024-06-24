@@ -408,6 +408,15 @@ close that trade and get less loses
 Inter-market relationship - its important to observe all Markets: ES, NQ, YM, DXY, EURUSD, GBPUSD, ZB, ZN, ZF to have
 complete view on what to expect and it should suggest where price is should go, lower or higher...
 
+### [April 11, 2023 Live Tape Reading - Emini S&P AM Session](https://www.youtube.com/watch?v=VLis0LcbUaQ&list=PLVgHx4Z63pabpjlduWBaEsn8VMtALhjGV&index=46&ab_channel=TheInnerCircleTrader)
+
+Volume Imbalance is influencing unless it hasn't been crossed with a candle body and then was closed.
+When candle with a body has go through it, closed nd moved away - we can forget about it like about mitigated FVG.
+Otherwise, we watch on how price will react on it:
+a) will it respect VI and cross it only with wicks and then price might come back into this VI couple of times;
+b) or eventually it will cross VI with candle body and price is moved away for it, so we can forget about that
+   particular VI...
+
 ## 2024
 
 ### Lecture On ICT Order Blocks & Tape Reading April 18, 2024
