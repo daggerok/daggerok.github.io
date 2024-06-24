@@ -429,7 +429,12 @@ When should we enter into trade? Only if framework potentially offering us at le
 proper risk and try to get our 5 handles.
 Why 10 handles?
 a) because it allowing you a lot of forgiveness to enter a little bit early or a little bit late;
-b) and because it will filter bad trades where you probably will loose
+b) and because it will filter bad trades where you probably will lose...
+
+ES, NQ and YM.
+Easier more high probability setups can be found when all 3 Markets are moving in tandem.
+For example: easily moving higher E, easily moving higher NQ and easily moving higher for YM.
+If Markets doing different things (NQ moving lower, ES sideways, YM higher) then trade can be much difficult
 
 ## 2024
 
