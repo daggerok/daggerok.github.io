@@ -425,6 +425,9 @@ Next step is that we can try to trade outside on Killzones. For example, we can 
 should know and always follow rules along with that: NY.Lunch can run against stops and those individuals who are
 profitable for NY.AM, so Market knock them out and then can continue a trend...
 
+When should we enter into trade? Only if framework potentially offering us at least 10 handles, then we can trade with
+proper risk and try to get our 5 handles.
+
 ## 2024
 
 ### Lecture On ICT Order Blocks & Tape Reading April 18, 2024
