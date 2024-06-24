@@ -405,36 +405,47 @@ So if we are in Short trade and we placed our Stop tick above left high, and can
 a resistance then its a warning for us that our stop is not safe and Market ca revisite it, so we have possibility to
 close that trade and get less loses
 
-Inter-market relationship - its important to observe all Markets: ES, NQ, YM, DXY, EURUSD, GBPUSD, ZB, ZN, ZF to have
+Inter-market relationship - it's important to observe all Markets: ES, NQ, YM, DXY, EURUSD, GBPUSD, ZB, ZN, ZF to have
 complete view on what to expect and it should suggest where price is should go, lower or higher...
 
 ### [April 11, 2023 Live Tape Reading - Emini S&P AM Session](https://www.youtube.com/watch?v=VLis0LcbUaQ&list=PLVgHx4Z63pabpjlduWBaEsn8VMtALhjGV&index=46&ab_channel=TheInnerCircleTrader)
 
-Volume Imbalance is influencing unless it hasn't been crossed with a candle body and then was closed.
+**Volume Imbalance** is influencing unless it hasn't been crossed with a candle body and then was closed.
 When candle with a body has go through it, closed nd moved away - we can forget about it like about mitigated FVG.
 Otherwise, we watch on how price will react on it:
 a) will it respect VI and cross it only with wicks and then price might come back into this VI couple of times;
 b) or eventually it will cross VI with candle body and price is moved away for it, so we can forget about that
    particular VI...
 
+**Top-Down Analysis.**
 We should respect higher TF where VI was form, if it was 5m TF then we should ignore any candles bodies crosses and
 closes that VI on lower TFs, we should wait for confirmation on higher TF where VI was form.
 
+**Bred and butter setup.**
 Let's try to find bread and butter 5 handles setups first and get confidence with them.
 Next step is that we can try to trade outside on Killzones. For example, we can even try to trade NY.Lunch hour, but we
 should know and always follow rules along with that: NY.Lunch can run against stops and those individuals who are
 profitable for NY.AM, so Market knock them out and then can continue a trend...
 
-When should we enter into trade? Only if framework potentially offering us at least 10 handles, then we can trade with
+**When should we enter into trade?** Only if framework potentially offering us at least 10 handles, then we can trade with
 proper risk and try to get our 5 handles.
 Why 10 handles?
 a) because it allowing you a lot of forgiveness to enter a little bit early or a little bit late;
 b) and because it will filter bad trades where you probably will lose...
 
-ES, NQ and YM.
+**Inter-market relationship** ES, NQ and YM.
 Easier more high probability setups can be found when all 3 Markets are moving in tandem.
 For example: easily moving higher E, easily moving higher NQ and easily moving higher for YM.
 If Markets doing different things (NQ moving lower, ES sideways, YM higher) then trade can be much difficult
+
+**Balance Price Range.**
+Once price moved into BiSi FVG lower and closed lower, once it did when that BiSi becomes balanced price range, that
+means it's going to stop price up-moves like a brick wall stand in a way of price action: not allowing price to go
+higher
+
+Also for high probability trades it's very good to see how Dollar Index (DXY) supporting your idea with directional bias
+
+
 
 ## 2024
 
