@@ -417,6 +417,9 @@ a) will it respect VI and cross it only with wicks and then price might come bac
 b) or eventually it will cross VI with candle body and price is moved away for it, so we can forget about that
    particular VI...
 
+We should respect higher TF where VI was form, if it was 5m TF then we should ignore any candles bodies crosses and
+closes that VI on lower TFs, we should wait for confirmation on higher TF where VI was form.
+
 ## 2024
 
 ### Lecture On ICT Order Blocks & Tape Reading April 18, 2024
