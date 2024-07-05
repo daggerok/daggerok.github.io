@@ -445,7 +445,24 @@ higher
 
 Also for high probability trades it's very good to see how Dollar Index (DXY) supporting your idea with directional bias
 
+How many partials to take? 50% or more if ES, NQ and YM are decoupled (not in tandem). Not the lowest part, but the
+highest or half.
 
+**How to trade NY Lunch?**
+During lunchtime 12:00-13:30 price typically (not always, but typically) run against those individuals who where
+profitable from this morning, meaning it can go against profitable traders stops. Where was the move? If move eas lower
+during NY AM from A-high down to B-low. So ask yourself where algorithm will reprice to introduce that liquidity to the
+marketplace? It's old short-, intermediate- and long-term highs. So we wanna annotate our chart with these liquidity
+levels.
+We have NY Lunch Macro: 11:50-12:10. Usually there will be a price run that runs the liquidity that goes against the
+daily range. Price will run to the liquidity that will be used to protection purposes what was utilized in delivery of
+the morning session. In layman's terms (from non-professional point of view) that was happened in the market since the
+morning: 1) At 9:30am-10:40am price dropped, so Short was profitable. 2) At 11:50-12:10 starts Macro (short list of
+directions that the algorithm itself will start operating under) it's runs on Stops, it offers Liquidity to the 
+Marketplace
+
+When Market price reaches Liquidity levels we want to see speed and distance, if it were to do that we want to see how
+price will reach next Liquidity Level / PD Arrays
 
 ## 2024
 
