@@ -464,6 +464,31 @@ Marketplace
 When Market price reaches Liquidity levels we want to see speed and distance, if it were to do that we want to see how
 price will reach next Liquidity Level / PD Arrays
 
+### [April 13, 2023 Live Tape Reading - Emini S&P AM Session](https://www.youtube.com/watch?v=gGxVE8zUIRQ&list=PLVgHx4Z63pabpjlduWBaEsn8VMtALhjGV&index=48&ab_channel=TheInnerCircleTrader)
+
+Narrative is the understanding:
+* What will the algorithm do next?
+* Why will it do so?
+* And when it will do that?
+
+We would like to try to find initial FVG on (OR) opening range (1st 30 minutes of trading).
+This OR will provide us initial resistance or support, so we will wait when ES/NQ/YM gets in sync:
+* If DXY goes lower, then ES/NQ/YM could easily go higher
+* If that's not happened, then we find that DXY is consolidating
+* When DXY is consolidating then we can go long ES/NQ/YM
+* Consolidating DXY is not Bullish DXY, so if DXY goes higher we definitely don't want to go long on ES/NQ/YM
+
+Classic Weekly Bullish Profile would be:
+* Tue is a Low of the week in London
+* If we are in Seasonal Tendency for ES when it's going Higher for the next couple of weeks
+* We should be trying to do our analysis with mostly trying to look for the Longs
+* And we are trading on Mon, Tue and if that Low really hasn't materialized in stunning fashion by Wed NY.AM SB,
+  then the tendency for us to capture a huge move is by using that Weekly Profile
+
+Those 👆 SB trades would be a phenomenon. Because what we are doing, we are participating in HTF price run on a weekly
+expectation inside a Seasonal Tendency that is in alignment with a side of the trade we are taking (by HTF trend).
+Whenever it's **Bullish Seasonal Tendency** or **Bearish Seasonal Tendency**
+
 ## 2024
 
 ### Lecture On ICT Order Blocks & Tape Reading April 18, 2024
