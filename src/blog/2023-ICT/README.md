@@ -489,6 +489,48 @@ Those 👆 SB trades would be a phenomenon. Because what we are doing, we are pa
 expectation inside a Seasonal Tendency that is in alignment with a side of the trade we are taking (by HTF trend).
 Whenever it's **Bullish Seasonal Tendency** or **Bearish Seasonal Tendency**
 
+### [ES Review & ICT Funded Challenge Discussion 05/04/2023](https://youtu.be/F509lJRrYIM?si=ieuKnhXXFLSVlpIy&t=170)
+
+Sell in May and go away.
+
+Usually in May to 1st/2nd week of Jun we are Bearish in Stock Index Futures.
+In spring (not always) Stock Index intended to go Lower.
+
+The Same way we are Bullish from fall months going into the end of the year, the for st week of February
+
+But we have to add some technicals to it, so let's talk a little bit about it...
+
+We should not use all ICT tools we know, we should use not many within our model.
+
+So we shouldn't trade on Thursday and Friday of Non-Farm Payroll week, like in Friday (May 5th, 2023); typically it's
+the first Friday of the month.
+
+### [NWOG - New Week Opening Gap Part 2](https://youtu.be/BM1mqQv-ypk?si=v_tuVvIigq2SDSHd&t=639)
+
+NWOG signatures:
+* It can consolidate
+* It can trend
+
+If price is move away sharply down or up we can expect big movement
+
+If price is bounce up and down between NWOGs then its consolidation...
+
+There are Current NWOG, it will always be referred to previous week close Fri at 16:00 price and previous week open Sun
+at 18:00 price
+
+If price has unwillingness to move away and just keeps coming right back to that Current NWOG. Then we will probably
+consolidate, so we have to be a scalper and nimble on our trade and to not expect to be trending...
+
+By themselves, we should not expect that price will go into these NWOGs. We just should use it in our analysis and
+incorporate it with other ICT tools (Code content or 2022 model) to make Trade decision
+
+Algorithm will use NWOG as a magnate for a price
+
+If we have two NWOGs and let's say we are Bullish, and we think the price will go higher. As soon as Price reaches
+mid-point between these twp NWOGs we can assume with high probability that price will reaches NWOG which is higher...
+
+How many NWOGs to keep on the charts? In the beginning 5 or 6, but according to IPDA data ranges: for the last 60 days
+
 ## 2024
 
 ### Lecture On ICT Order Blocks & Tape Reading April 18, 2024
