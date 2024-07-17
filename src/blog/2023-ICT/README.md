@@ -507,6 +507,8 @@ the first Friday of the month.
 
 ### [NWOG - New Week Opening Gap Part 2](https://youtu.be/BM1mqQv-ypk?si=v_tuVvIigq2SDSHd&t=639)
 
+NWOG are not random
+
 NWOG signatures:
 * It can consolidate
 * It can trend
@@ -530,6 +532,16 @@ If we have two NWOGs and let's say we are Bullish, and we think the price will g
 mid-point between these twp NWOGs we can assume with high probability that price will reaches NWOG which is higher...
 
 How many NWOGs to keep on the charts? In the beginning 5 or 6, but according to IPDA data ranges: for the last 60 days
+
+### [NDOG - New Day Opening Gap - Part 1](https://youtu.be/Sh-bDHWNpsk?si=jkxw4EjZ186wP2_l&t=18)
+
+NDOGs are also not random
+
+Minimal len is 1 handle for ES (4 handles for NQ)
+
+We aren't interested in any previous weeks NDOGs, only on current week NDOG is interesting, as soon new week started we
+should find the Current NDOG and extend it to entire week. We do so to see how this Gap will use our idea of Support or
+Resistance for market price.
 
 ## 2024
 
