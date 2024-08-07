@@ -31,3 +31,7 @@ jobs:
       - run: bun run clear
       - run: bun install -E
       - run: bun run build
+      - run: bunx serve src/.vuepress/dist &
+      - run: curl http://localhost:3000/blog/2024-ICT/
+      - run: curl http://localhost:3000/blog/2023-ICT/
+      - run: curl http://localhost:3000/blog/2022-ICT/

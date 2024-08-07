@@ -2,7 +2,7 @@
 lang: ru-RU
 ---
 
-# ICT (ru)
+# ICT Mentorship 2023 (ru)
 Это мои ICT заметки.
 
 [[toc]]
