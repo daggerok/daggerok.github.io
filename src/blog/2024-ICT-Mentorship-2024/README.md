@@ -8,16 +8,28 @@ ICT said that hist students should make a notes because it's not realistic to ke
 ### ICT 2024 Mentorship \ Lecture #3 August 7, 2024
 [ICT 2024 Mentorship \ Lecture #3 August 7, 2024](https://www.youtube.com/live/ZkLc4-adodg?si=6nb_dMhwttGK9iHU)
 
-Mark NDOG (H, L, and C.E.) its where market stopped trade yesterday at 5pm and started trade yesterday at 6pm.
+Mark NDOG (H, L, and C.E.) It's where the market stopped trade yesterday at 5pm and started trade yesterday at 6pm.
 The NDOG is influential up to 5 trading days.
 The older NDOG, the lower influence it will have.
 
-The Mark NWOG (H, L, and C.E.) its where market stopped trade on Fri at 5pm and started trade on Sun at 6pm.
+The Mark NWOG (H, L, and C.E.) It's where the market stopped trade on Fri at 5pm and started trade on Sun at 6pm.
 NWOG is influential up to 5 trading weeks.
 The older NWOG, the lower influence it will have.
 
 if NDOG or NWOG is lacking one of any sides of delivery (Sellside or Buyside), then later market will react on these
 levels.
+
+If there is no data in NYam, try to trade NYpm session.
+In this case, be in front of the charts at 13:30 to wait NYpm SB at 14:00.
+If nothing is happened, then we wait for 15:00
+
+First, our task is study price action, collect old data and journaling.
+Next, stage is tape read and assume what price can do.
+Next, we can start do entries and executions to lost feeling that we can do wrong entry.
+
+Tomorrow (2024-08-08) ICT is 52.
+
+TODO: Watch this lecture again.
 
 ### ICT 2024 Mentorship \ Lecture #2 August 6, 2024
 [ICT 2024 Mentorship \ Lecture #2 August 6, 2024](https://www.youtube.com/watch?v=pkI4AgC4OPI&ab_channel=TheInnerCircleTrader)
