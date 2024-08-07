@@ -220,6 +220,13 @@ At 7:00 we start a hunt, and if we see shark and jagged price action, then it pr
 
 We are never annotate our charts in negative manner.
 
+If in the first 30 minutes after 7:00 / 8:00 / 9:00 there are some rel.eq.H was form when market moving in the opposite 
+direction, then we want to see if market will drop. If there are rel.eq.L, then we want to see that market to go higher
+after these 30 minutes
+
+After 7:00 if we have stop runs H, we take a fib from that H to the low of the first candle at 7:00 to measure STDVs.
+Same for 8:00 and 9:00
+
 ## 2023
 
 ### February 15, 2023 ES Live Commentary AM Opening Session
