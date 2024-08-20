@@ -5,8 +5,238 @@ ICT said that hist students should make a notes because it's not realistic to ke
 
 ## 2024
 
+###
+
+### ICT 2024 Mentorship \ Lecture #12 August 19, 2024
+[ICT 2024 Mentorship \ Lecture #12 August 19, 2024](https://www.youtube.com/watch?v=EQfTD6ntB4A&list=PLVgHx4Z63paaM41aubnHOmqfeNjSAoBCV&index=12&t=1632s)
+
+Assume "Jackson Hole Symposium" days as a "Non-Farm Payroll" days.
+
+Around 11:30 during Lunch macro algorith is gonna seek a First Low, which has form after 10:00 butt first to left side
+of already printed candles from 11:30... Why? Because it's a Low that has been created after SB. TODO: Study that part!
+
+Lunch macro is in between 11:30 and 13:30
+
+Macros for last hour:
+- at 15:15 and took 30 minutes until 15:45 (last hour macro) to spool a price
+- at 15:45 and took 15 minutes to retrace before close daily candle
+- during earnings: at 16:00 and took 15 minutes 
+
+So we should hold at least up to 15:45
+
+### ICT 2024 Mentorship \ Lecture #11 August 19, 2024 Begins 9:15am ET
+[ICT 2024 Mentorship \ Lecture #11 August 19, 2024 Begins 9:15am ET](https://www.youtube.com/watch?v=aONkyy-HTqE&list=PLVgHx4Z63paaM41aubnHOmqfeNjSAoBCV&index=11&t=667s)
+
+OR != ORG
+
+OR: from 9:30am to 10:00am
+ORG: Gap between 5:59 and 9:30am
+
+### ICT 2024 Mentorship \ Lecture #6 August 14, 2024 Begins 9:25am ET
+[ICT 2024 Mentorship \ Lecture #6 August 14, 2024 Begins 9:25am ET](https://www.youtube.com/live/zU7iAqg4sSA?si=gsWHSEggbeab56Bt)
+
+Wick it is like FVG, so if it can't go below then it is probably going to go higher.
+
+If there are 2 FVGs, we're always looking for first (closer), but allowing from our risk that the price can go into
+second.
+
+We should study all timeframes and find proofs be ourselves. When we are looking on a wicks, we should find how price
+and candle bodies are respecting wicks, or how price can stop at wick c.e.
+
+### ICT 2024 Mentorship \ Lecture #7
+
+Main takeaway from this lecture:
+We should not trade on tending days when we have CPI, PPI, FOMC, Non-Farm Payroll, because it is extremely manipulated.
+Abd because it usually once-sided directional run we should try to have any concern right before CPI/PPI numbers report,
+because no one have no idea what market is going to do. There is a low probability to set proper target or stop-loss.
+
+We should not trade initial liquidity raid on a morning right before a PPI/CPI/FOMC numbers report, ever!
+We are just waiting for news and doing nothing. 
+In the morning we're just waiting to see rel.eq.H or rel.eq.L.
+
+TGIF is when the market did retracement from 20% to 30% on a weekly candle.
+If TGIF didn't form on the previous Friday.
+TODO: Check it once again today and yesterday streams about that.
+
+We are chasing the price.
+
+TODO: Check 3 drive (Indians) pattern and this complete video.
+
+### ICT 2024 Mentorship \ Lecture #6 August 12, 2024 Begins 9:15am ET
+[ICT 2024 Mentorship \ Lecture #6 August 12, 2024 Begins 9:15am ET](https://www.youtube.com/live/woAQ1XJeD7Y?si=8vbIL3sjFElKoyEM&t=550)
+
+We do expect a volatility (and this volatility will be until reports come out) if:
+* On Mon and we pretty much no high impact news
+* On Tuesday–Wednesday: CPI and/or PPI
+
+We do not care about numbers itself. There is no way to find which way to trade (long or short) 
+
+We do not trade this news.
+We're just sitting and waiting for more data to come after that market is moving because of manual intervention...
+
+Seek and destroy is when the market is going up to get Buyside Liquidity and then go down to get Sellside Liquidity and
+then back and furth, back and furth...
+
+Our bias that the market can gravitate lower can be expected when:
+* We had previous NWOG below the price
+* And we have previous NDOG below previous NWOG
+* And the market is jagged
+* And we have inefficiencies which where respected before an opening bell 
+
+At 7am-8am we are waiting for rel.eq.H or rel.eq.L to form.
+We define our initial liquidity after 7am, not at 7am, meaning we wait to rel.eq.H or rel.eq.H to form and then mark it
+as initial liquidity. 
+And then we will expect that these rel.eq.H or rel.eq.L will be raided.
+
+Same thing if we trade after 8am
+
+If we trade after at 9am there are some additional nuances:
+
+It's important to not spend our mental capital. If we spend every single day / every single hour of the day what the
+market is doing, then we will be unhappy, because its not healthy. Do something once a day and stop. If you positive,
+but if not, it's also okay, because now you have an opportunity to study what you have done incorrectly, where you where
+wrong.
+
+For example, day before PPI/CPI the market will be choppy, go back and furth, back and furth. So if we go into trade, 
+we should not be mad if our SL has been hit. To avoid this negativity, we should reduce risk, take partials or do not
+trade at all.
+
+If we have events before impactful events, then we will try to take trades early.
+
+ICT Bearish OB doesn't require price trade below a wick before we get into trade based on that -OB.
+
+### ICT 2024 Mentorship \ Lecture #5 August 9, 2024
+[ICT 2024 Mentorship \ Lecture #5 August 9, 2024](https://www.youtube.com/watch?v=ul6x6BwOg6M&t=457s)
+
+Asia session: we should start to look at the market at 6pm and expect some kind of volatility from 7pm to 9pm.
+We should use NWOG theory at that time of day
+
+Price signatures? For example, if we see that price go up into bearish VFG, and it's failed to touch C.E, then it,
+that is indicative of weakness, because if it cannot touch midpoint of FVG or inefficiency, then it is decidedly weak.
+So we can be confident that if next we take the bearish OB as an entry if we get a FVG after that one, if we on the
+15s chart, it's gonna probably a winner... Because everything is indicating that price is going to move decisively
+lower... Because it can't even trade up to PD Array. So the PD Array is failing when I'm already looking for the short
+and price can't even trade in or get back to the midpoint of it — that's wonderful inside that this is gonna be a nice
+run... So we should look for inefficiency below an old low or rel.eq.L to trade Sellside Liquidity
+
+The Primary factors of determining bias are: NWOGs and NDOGs. Bias itself can be reduced to the session we are trading,
+or down to Silver-Bullet hour. So we can have models that has been built on next questions, for example:
+* What's the bias for that hour? (model where we're determining bias for hour when we started trade) 
+* What's the bias for the next three hours? (that's typically like a session bias)
+* What's the bias for the entire morning before noon lunchtime? (NY.am session bias)
+* What's the entire daily range bias?
+
+We just gonna be:
+1) Looking for a starting point (for Asia we gonna be waiting for 6pm)
+2) And then annotate where we open in defence where we close at 5 o'clock. So that hour gap in indices (or forex 
+   currencies) we annotate for a NDOG.
+3) If that gap is over 80 ticks (20 handles for NQ), then we should also annotate its c.e.
+
+Our goal is do what ICT is telling us and never go and watch the same vide once again.
+Our goal should be once we go throw that Mentorship, we shouldn't ever look at what ICT is posted about the Market.
+We should become independent and have our own ideas, depends on our own analysis...
+Because if we want to take it seriously, we don't want my tethering between us and ICT, meaning we shouldn't be
+dependent on ICT at all.  
+
+There is a framework we gonna pull today for Daily charts, because it's silent to the discussion, but we did not refer
+to anything above 15-minute charts except for a session on Monday (Lecture #1) where ICT showed big gap on a Daily
+chart, which happened to be a NWOG. We will talk about it also today. And how it fits into the equation of how we're
+using the clustering of inefficiencies on NDOGs and NWOGs.
+
+The session is started at 18:00.
+If we closed above and opened lower, then we have a Discount lower opening.
+If gap is at least 80 ticks (20 handles for NQ), then we can annotate C.E.
+By having in mind these NWOGs and NDOGs we will have understanding where we think price will go to gravitate to, or
+jagged around based on for example economic calendar (like today).
+If we notice that today, there are no high impact or medium news events (and / or it's Friday also). If we've had a
+large weekly range (TGIF) then we wait for market to create a motion (movement) around that NWOG / NDOG.
+
+Do not trade that gap initially as soon as we just have it annotated. Why? Because there are should be a most important
+element - time, that has to be referred first. Because markets will not move until it's time for them to move (which is
+algorithmic). Yes, the price can gyrate, and it may have meaningless aimless movement that we're not interested in.
+But when time will be introduced as a factor, that's the greatest importance. That means that from 19:00 to 21:00 that
+is our Asia session and we can use that NDOG now and build it around element of liquidity.
+
+So for Asia, we can look back on previous NY.pm session highs/lows and compare them with Asia session highs/lows to
+identify rel.eq.Hs/rel.eq.Ls. As they form, we should annotate them and expect that later above highs or below lows will
+be a liquidity which Market is going to take right after its engineering. And we're doing screenshots of that in our
+journal. After it happens. We don't try to predict them. We don't try to put them to work right now and see if it works
+right now, no! We do type reading. Months before we will try even demo trade them. We studying it after that happened,
+and then we do walk forward when we're watching price without any button pushing, without any kind of hard opinion.
+But we are doing it with expectation of collecting experience watching it.
+Also, any kind of previous/current session STHs/STLs also can be annotated like a minor Buyside/Sellside Liquidity pool
+right after it happened.
+
+But what we really waiting for is we wanna see two things:
+* Price should leave NDOG
+* Price should cross below or above it
+* When Price goes below NDOG, we wanna see that STL has been taken
+* When Price goes above NDOG, we wanna see that STH has been taken
+* And as soon Price will do that (cross below or above NDOG and take STL or STH), then it sets the initial range to
+  build and engineer liquidity.
+
+So, as soon as price (after opening) made a STL (or STH) and then cross above (or below) NDOG to create STH (or STL),
+we now have an initial range, which is in between first session STL and STH.
+Initial Buystops will be sitting above that range and Initial Sellstops will be below it.
+Why "Initial"? Because we open a new trading Day and these two are first what algorithm has been engineered.
+
+There will be a days when price doesn't take any initial Short-Term Buyside/Sellside, sideways around NDOG and do
+nothing, won't even bump above or below... If it doesn't do anything described, don't worry about it, its typically
+telling us that Asia is going to be dull. It probably won't do anything where we can make money, and it's probably
+just go and do something else (watch the movie with spouse, do exersises and then go to bed early and rest for your
+workday tomorrow)
+
+But we want to be doing things with a purpose of knowing that it's gonna fit these characteristics that are synonymous
+with the market making a sizable predictable move. And if its really lethargic and lackluster at 6 o'clock, and if it
+doesn't really do anything going into 7 o'clock (because that is our key time, at 19:00 starts the Asian session), just
+being done for today and go away.
+
+So after initial pools of liquidity and initial range was formed, we should look to the left. Where are larger pools of
+liquidity sitting (other Short-Term Highs or Lows, ITH, ITL)?
+
+Once the price traded away from NDOG right after opening, take initial ST liquidity, then cross NDOG to the opposite
+side, also take ST liquidity, and it crosses back into NDOG... Once it does that, we have now set initial liquidity pool
+for Buyside and Sellside. Now we're gonna wait. What we are waiting for? Time. We are waiting for Asia session at 7pm.
+
+If ahead of 7 pm, the market moved towards upper, did displacement and/or retested NDOG, we can expect some small
+retracement lower, maybe touch NDOG and to challenge old highs, ST Buyside liquidity, ITH, rel.eq.H, etc... 
+
+This is a guide of "How to trade Asia?" every single day. If we cannot see these signatures, then we don't trade.
+Algorithm should show us sell-program and/or buy-program right at 7mp or a little bit later, but we only interested
+until 9pm, because it's our Asian session.
+
+Even if we're not going to trade Asia, it's beneficial to log that in our journal. Because we gonna see these things,
+which will further prove that the market is algorithmic. And it operates at a specific time of day. Every day...
+
+If we kind of go higher and make higher highs and lows, and if we have BiSi with displacement, big green candle,
+then the market is tipping his hand and proving us that it's not interesting to go lower. So because it's doing big
+green BiSi, we would not expect price comes back into it. It should be a Breakaway Gap.
+
+It doesn't mean that we should trade Asia, but it's the same thing when we trade NY.am session and studying price on
+pre-market at 7am.
+
+### ICT 2024 Mentorship \ Lecture #4 August 8, 2024
+[ICT 2024 Mentorship \ Lecture #4 August 8, 2024](https://www.youtube.com/live/hdSscxZgE58?si=2YGxOaXyOBBvd_Ms)
+
+Where should market price go?
+We're sitting and looking where is inefficiency (NDOGs and NWOGs, if we in discount and the market is below, then we
+expect the price to go higher)
+
+iFVG is when the market created FVG and rallies up into significant level, then we can expect that price will come back
+and go down throw that FVG which will make it iFVG
+
 ### ICT 2024 Mentorship \ Lecture #3 August 7, 2024
 [ICT 2024 Mentorship \ Lecture #3 August 7, 2024](https://www.youtube.com/live/ZkLc4-adodg?si=6nb_dMhwttGK9iHU)
+
+At 7am, 8am or 9am we're sitting, relaxing and observing.
+We don't care what happened in the previous session or trading day yet.
+We want to see the design and engineering of
+the liquidity. What does that mean? When price creates these smooth relative equals lows / highs after the session
+changeover:
+* At midnight NY local time, that's the beginning of a real true day in financial markets, so the algorithm likes to
+  refer back to that time.
+  And then everything since that time will be referred in the purposes of liquidity and inefficiency
+* We have NWOG or NDOG.
 
 Mark NDOG (H, L, and C.E.) It's where the market stopped trade yesterday at 5pm and started trade yesterday at 6pm.
 The NDOG is influential up to 5 trading days.
@@ -28,8 +258,6 @@ Next, stage is tape read and assume what price can do.
 Next, we can start do entries and executions to lost feeling that we can do wrong entry.
 
 Tomorrow (2024-08-08) ICT is 52.
-
-TODO: Watch this lecture again.
 
 ### ICT 2024 Mentorship \ Lecture #2 August 6, 2024
 [ICT 2024 Mentorship \ Lecture #2 August 6, 2024](https://www.youtube.com/watch?v=pkI4AgC4OPI&ab_channel=TheInnerCircleTrader)
@@ -67,6 +295,8 @@ Same for 8:00 and 9:00
 
 ### ICT 2024 Mentorship \ Lecture #1 August 5, 2024
 [ICT 2024 Mentorship \ Lecture #1 August 5, 2024](https://www.youtube.com/watch?v=GKeLVR3dPuI&list=PLVgHx4Z63paaM41aubnHOmqfeNjSAoBCV&index=1&ab_channel=TheInnerCircleTrader)
+
+Time is the most important part.
 
 Our Task: studying price at specific time of the day
 
