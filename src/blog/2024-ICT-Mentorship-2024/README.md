@@ -5,7 +5,96 @@ ICT said that hist students should make a notes because it's not realistic to ke
 
 ## 2024
 
-###
+### ICT 2024 Mentorship \ Lecture #18 August 27, 2024
+[ICT 2024 Mentorship \ Lecture #18 August 27, 2024](https://www.youtube.com/live/yOZHawAE8QI?si=m-wo9AK7xreZ9Yab)
+
+If +Breaker has a long wick lower, we aim to use candle upper portion starts from candle open price:
+
+```
+  |   ------ B
+*-+-*        r
+|   |        e
+|   |        a
+|   |        k
+|   |        e
+*-+-* ------ r
+  |
+  |
+  |
+  |
+  |
+```
+
+---
+
+At NY Lunch (11:30–13:30), we can expect deeper retracement to take out profitable traders after NY AM.
+
+### ICT 2024 Mentorship \ Lecture #14 August 22, 2024 Begins 9:00am ET
+[ICT 2024 Mentorship \ Lecture #14 August 22, 2024 Begins 9:00am ET](https://www.youtube.com/watch?v=WiMVPc4cvG8)
+
+---
+
+One of 81 concepts:
+
+Opening Range (OR: 9:30am-10:00am, first 30 minutes)
+
+The first probable level where price can go is ORG C.E. (Vertical mid. point of the price in between close at 4:59pm
+and open at 9:30am).
+
+Premium ORG is when we gap higher (yesterday's price at 4:59pm was lower than today's open price at 9:30).
+Discount ORG is when we gap lower (yesterday's price at 4:59pm was higher than today's open price at 9:30).
+
+In 70% of time for Premium ORG, the price will go lower and hit Discount ORG.C.E before 10:00am.
+In 70% of time for Discount ORG, the price will go higher and hit Discount ORG.C.E before 10:00am. 
+We MUST study this! TODO: Back-test this...
+
+---
+
+Weeks like this (Jackson Hole Symposium week) always invites seak and destroy profile in price action. 
+
+---
+
+Go to core content playlist, 2016, Month 4, and listen to the rejection block (RB) topic. RB can be used as a reversal.
+If we cannot go up to C.E its Bearish sign.
+If we go lower and then back up a little bit upper to sweep ORG.H, then
+it can be used as a Turtle Soup entry to go below prev.L
+If we make a Turtle Soup and go lower (below ORG.H) then it's a Bearish sign to sweep prev.L and go below prev.L
+
+---
+
+Every first FVG happened in the Opening Range (OR: 9:30am-10:00am, first 30 minutes) is very influential.
+We want to see at that time what's been doing. And first FVG inefficiency needs to be extended for the end until of the
+day.
+
+---
+
+Mentorship: 2016-2017
+Started in Sep 2016
+To learn PD Arrays matrix in this Mentorship 
+
+---
+
+When we've done three times price taken Sellside or Buyside, there are an opportunity now that price can do short-term
+or intermediate term retracement, or even complete reversal. So be content with what have been done and do not expect
+hard that price will continue...
+
+---
+
+Let's say we enter into wrong trade by +FVG, price stop us and lower... Then it comes back up, how to know if it will
+be a valid iFVG? 
+In valid iFVG, price will fail to completely close it, so some portion should not be closed. 
+
+---
+
+Do not trade on Monday!
+Trade from Tue to Thu
+Trade once a day! ???? =\
+
+---
+
+Valid -OB: as soon price go lower then first ope
+
+---
 
 ### ICT 2024 Mentorship \ Lecture #12 August 19, 2024
 [ICT 2024 Mentorship \ Lecture #12 August 19, 2024](https://www.youtube.com/watch?v=EQfTD6ntB4A&list=PLVgHx4Z63paaM41aubnHOmqfeNjSAoBCV&index=12&t=1632s)
