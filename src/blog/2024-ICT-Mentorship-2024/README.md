@@ -29,6 +29,45 @@ If +Breaker has a long wick lower, we aim to use candle upper portion starts fro
 
 At NY Lunch (11:30–13:30), we can expect deeper retracement to take out profitable traders after NY AM.
 
+---
+
+For now, use last 5 NWOGs and lsat 5 NDOGs.
+ICT uses NWOG formed in prev 60 trading days, but students should focus ONLY on the LAST 5 NWOGs and on the LAST 5 NDOGs 
+
+---
+
+Mohawk is when wick has go just above or below, that was perfect if we speak about FVG or FVG.C.E.
+
+---
+
+If we have VI and FVG we should merge them and use them together
+
+---
+
+We should always have on our Charts:
+* -1.D.H if it's not Sunday
+* -1.D.L if it's not Sunday
+* -2.D.H if it's not Sunday
+* -2.D.L if it's not Sunday
+* -3.D.H if it's not Sunday
+* -3.D.L if it's not Sunday
+
+The Market will gravitate to those levels of liquidity...
+
+It will help us trust that The Market is not going to reverse on us unless take these levels.
+
+Order flow:
+We should find an Order Block
+
+---
+
+If we open in a lower half of prev.Day range, we should look at prev.Day.L, because we can expect price will expand
+lower towards prev.D.L
+
+---
+ 
+Watch this lecture many more times!
+
 ### ICT 2024 Mentorship \ Lecture #14 August 22, 2024 Begins 9:00am ET
 [ICT 2024 Mentorship \ Lecture #14 August 22, 2024 Begins 9:00am ET](https://www.youtube.com/watch?v=WiMVPc4cvG8)
 
