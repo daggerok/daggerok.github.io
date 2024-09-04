@@ -428,11 +428,16 @@ Tomorrow (2024-08-08) ICT is 52.
 * In our Journal, we're learning how to avoid fear of what price is going to do.
 * In our Journal, we're learning how to understand where the Market is going to go and what time?
 
-We start mark relative-equal highs and lows only after 7:00 on Pre-Market session in between 7:00am and 7:30am 
+15s TF chart is good to be used if we are missed an entry, so we can be late but still buy/sell on retracement.
 
-FVGs should be marked together with VIs
+Depends on time when we can trade:
+* We start mark rel.eq.Hs and rel.eq.Ls only after 7:00 on Pre-Market session in between 7:00am and 7:30am.
+* Or we start mark rel.eq.Hs and rel.eq.Ls only after 8:00 on Pre-Market session in between 8:00am and 8:30am.
+* Or we start mark rel.eq.Hs and rel.eq.Ls only after 9:00 on Pre-Market session in between 9:00am and 9:30am.
 
-High-probability rel.eq.Hs are: left high one is lower than right high.
+FVGs should be marked together with VIs.
+
+High-probability rel.eq.Hs are: high on the left is higher than high on the right.
 
 Breaker idea: waiting for stop run and then back into the range and then retrace to Breaker
 iFVG: the highest form of precession, if we have a Gap post 7:00 that runs after rel.eq.H has been taken and makes a new
