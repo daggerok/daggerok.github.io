@@ -5,6 +5,15 @@ ICT said that hist students should make a notes because it's not realistic to ke
 
 ## 2024
 
+### ICT 2024 Mentorship \ September 04, 2024
+[ICT 2024 Mentorship \ September 04, 2024](https://www.youtube.com/live/Ipjk9S8HTbA?si=nIY2Lrnu8DHaHyrL)
+
+Do not trade after days when the Market moved a lot, because usually next day after that in NYam price is fickle and
+choppy. Morning session can be with distortion on days after large range days. Better is to trade NYpm session.
+
+ORG: 70% of the time, if we're opened lower than the previous settled price (Discount ORG), then the price with 70% of
+the time (70% chance) will go to ORG.C.E. after the Market 9:30am
+
 ### Top Down Trade Review September 01, 2024
 [Top Down Trade Review September 01, 2024](https://youtu.be/krdRxohMI3g?si=SFpc1YoGfKUbcPCB)
 
