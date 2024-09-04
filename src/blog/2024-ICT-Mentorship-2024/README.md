@@ -420,11 +420,19 @@ Tomorrow (2024-08-08) ICT is 52.
 ### ICT 2024 Mentorship \ Lecture #2 August 6, 2024
 [ICT 2024 Mentorship \ Lecture #2 August 6, 2024](https://www.youtube.com/watch?v=pkI4AgC4OPI&ab_channel=TheInnerCircleTrader)
 
-We start mark relative-equal highs / lows only after 7:00
+* In our Journal, we're avoiding all negative aspects or our analysis, any toxicity, any negativity when we were wrong.
+* In our Journal, we're doing screenshots of expected Market behavior.
+* In our Journal, we're learning how to do tape read, study charts and get familiar of reading Price Action.
+* In our Journal, we're learning how understand Market and ICT language.
+* In our Journal, we're learning how to wait for the setup.
+* In our Journal, we're learning how to avoid fear of what price is going to do.
+* In our Journal, we're learning how to understand where the Market is going to go and what time?
 
-FVG should be marked together with VI
+We start mark relative-equal highs and lows only after 7:00 on Pre-Market session in between 7:00am and 7:30am 
 
-High-probability rel.eq.highs are: left high one is lower than right high.
+FVGs should be marked together with VIs
+
+High-probability rel.eq.Hs are: left high one is lower than right high.
 
 Breaker idea: waiting for stop run and then back into the range and then retrace to Breaker
 iFVG: the highest form of precession, if we have a Gap post 7:00 that runs after rel.eq.H has been taken and makes a new
