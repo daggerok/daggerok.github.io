@@ -5,6 +5,36 @@ ICT said that hist students should make a notes because it's not realistic to ke
 
 ## 2024
 
+### Top Down Trade Review September 01, 2024
+[Top Down Trade Review September 01, 2024](https://youtu.be/krdRxohMI3g?si=SFpc1YoGfKUbcPCB)
+
+If we are Bullish, and we see how price retrace in bottom of inefficiency, which is permissible. However, we want to
+see immediate reaction on a price for high-probable ideas, otherwise potential trade we want to participate might be
+not as we wanted, without low resistance liquidity runs, or it may go against us.
+
+Because on Monday is Labor Day holiday in the US, this weekend is going to be bigger than usual, so it will have an
+impact on the volume. That is why it's better to trade not on Tue, but on Wed. We don't care if we miss a move on Tue.
+
+If we have a position in +20 handles, we should never let it turn in loosing trade, we should always either take
+partials or trail stop.
+
+Or little signatures that price is going to go higher:
+* When we see if +FVG hasn't been fully closed, we can expect that it's algorithmic and price can go higher
+* Same when we see that price retraces a little bit into +OB and didn't go lower than Mean Threshold 
+
+TODO:
+* Study how often we could buy or sell during 1:50pm-2:10pm macro before price could quickly go towards our targets
+* Study (back test) how ofter market will spool and run for the liquidity (reach stops) during 2:50pm-3:10pm macro
+* Study how market would provide us potential trades (OTE, Turtle Soup, etc) during 3:15pm-3:45pm macro
+* Study MOC (Market On Close) macro: 3:45pm-4:00pm
+* Study SET (Settlement) macro: 3:50pm-4:00pm
+
+Price delivery continuum theory: using the order flow from the higher timeframes (TFs) to lower TFs:
+* Everything should support itself
+* Discount Arrays should send the price higher
+* Discount Arrays should be breaking through Premium Arrays
+* Premium Arrays should not be offering any resistance when we are Bullish
+
 ### ICT 2024 Mentorship \ Lecture #18 August 27, 2024
 [ICT 2024 Mentorship \ Lecture #18 August 27, 2024](https://www.youtube.com/live/yOZHawAE8QI?si=m-wo9AK7xreZ9Yab)
 
