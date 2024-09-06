@@ -5,6 +5,49 @@ ICT said that hist students should make a notes because it's not realistic to ke
 
 ## 2024
 
+### ICT 2024 Mentorship \ NonFarm Payroll September 06, 2024
+[ICT 2024 Mentorship \ NonFarm Payroll September 06, 2024](https://www.youtube.com/live/MxaJD1WIzos?si=kT5pHTKLRkMXphkR)
+
+If we have a dropping week, we can expect that price will come back in some short / intermediate term high
+
+What is good about big news events like FOMC, PPI, CPI, NonFarm Payroll is that it can show where price might go, it
+doesn't mean that we should trade it, but we should observe on 15m TF. We should look at where to Market can go, for
+obvious and clean pools of liquidity.
+
+At the beginning of the day, we should annotate and frame where daily liquidity pools levels are.
+
+Why not trade Forex?
+The Forex market now is screwed. Different brokers will have different Highs and Lows.
+Future's it's professional gentleman's Market, it's always having the same Highs and Lows.
+Forex currencies will crash.
+
+If prior to 9:30am:
+* Price taken Sellside first and go and taken Buyside, then we can expect that price will not come back in that session
+  or day
+* Price hasn't taken Sellside and go and taken Buyside, then we can expect that after Buyside price will come back and
+  take Sellside, and maybe fail to go Lower. It will force gambling retail to enter in Short trade. After that price
+  can go Higher...
+
+15m TF defines Primary Liquidity Pools.
+After 15m TF we're going down to 5m TF, which contains Minor Pools of Liquidity.
+We are looking for rel.eq.L / rel.eq.H
+
+How to enter in FVG?
+* +FVG: As soon as the price hits C.E. and starts go Higher, we can enter in trade and put Stop Loss below Inefficiency
+  candle and wait either for price will hit our targets with profit or for Stop Loss.
+* -FVG: As soon as the price hits C.E. and starts go Lower, we can enter in trade and put Stop Loss above Inefficiency
+  candle and wait either for price will hit our targets with profit or for Stop Loss.
+
+How to exit from a trade on FVG?
+* If we're trading Short and there are +FVG inefficiency Lower, then best of the best level to exit is Low of that +FVG
+* If we're trading Long and there are -FVG inefficiency Higher, then best of the best level to exit is High of that -FVG
+
+TODO: Study if NY Lunch is doing that:
+What NY Lunch macro is doing? It's only retrace where profitable traders have their Stop Loss from morning NY AM
+session
+
+First FVG, first VI, if they form, then this is what we need, same as first FVG in between 9:30am and 10:00am.
+
 ### ICT 2024 Mentorship \ September 04, 2024
 [ICT 2024 Mentorship \ September 04, 2024](https://www.youtube.com/live/Ipjk9S8HTbA?si=nIY2Lrnu8DHaHyrL)
 
