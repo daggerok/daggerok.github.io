@@ -5,8 +5,47 @@ ICT said that hist students should make a notes because it's not realistic to ke
 
 ## 2024
 
+### ICT Tutelage Friday September 6, 2024 NQ Entry Log
+[ICT Tutelage Friday September 6, 2024 NQ Entry Log](https://youtu.be/qDI80zbTYrA?si=62qMWu4JcpQpbFm5)
+
+On immediate re-balance, we are not expecting that price will retrace more than C.E.
+
+```
+  |
++-+-+
+|   |
+|   |   |
+|   | +-+-+
++-+-+ |   |
+  |   |   |
+  |   |   |      /---- Immidiate
+      |   |   |  \---- Rebalance
+      |   |   |          /---- Stop
+      |   |   |          \---- Loss
+      +-+-+   |     |
+        |   +-+-+   |
+        |   |   |   |
+            |   | +-+-+
+            |   | |   |
+            |   | |   |
+            +-+-+ |   |
+              |   |   |
+              |   |   |
+                  |   |
+                  +-+-+
+                    |
+```
+
+
 ### ICT 2024 Mentorship \ NonFarm Payroll September 06, 2024
 [ICT 2024 Mentorship \ NonFarm Payroll September 06, 2024](https://www.youtube.com/live/MxaJD1WIzos?si=kT5pHTKLRkMXphkR)
+
+Never trade ahead of FOMC, PPI, CPI, NonFarm Payroll...
+If we want to position ourselves for trade, we should wait for initial manual intervention, initial shock, wait after
+that to see where price has come or if it comes back and after that see what is left. Where is smooth edges, because
+that is going to be taken next... See if we have any trade ideas...
+
+At the beginning of 9:30am we should have our charts annotated where 15-minute TF pulls of are?
 
 If we have a dropping week, we can expect that price will come back in some short / intermediate term high
 
@@ -14,7 +53,8 @@ What is good about big news events like FOMC, PPI, CPI, NonFarm Payroll is that 
 doesn't mean that we should trade it, but we should observe on 15m TF. We should look at where to Market can go, for
 obvious and clean pools of liquidity.
 
-At the beginning of the day, we should annotate and frame where daily liquidity pools levels are.
+At the beginning of the day, we should annotate and frame where daily liquidity pools levels are on 15-minute TF.
+After th at, we go deeper into 5-minute TF, where we are going to look for Minor Sellside/Buyside Liquidity
 
 Why not trade Forex?
 The Forex market now is screwed. Different brokers will have different Highs and Lows.
