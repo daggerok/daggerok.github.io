@@ -36,6 +36,14 @@ On immediate re-balance, we are not expecting that price will retrace more than 
                     |
 ```
 
+Best Shorts when we are Bearish will form on Premium of previous Daily Range.
+Best Longs when we are Bullish will form on Discount of previous Daily Range.
+
+We should always annotate first FVG on OG (1st Presentation FVG) on 5m TF chart and 1m TF chart, we will use first was
+formed.
+
+We should always look at the bodies after candle close and how do they act: do they respect FVG or not? If they respect,
+then its validation of that PDArray, and we can try to trade them in a case of high-probability setup will form.
 
 ### ICT 2024 Mentorship \ NonFarm Payroll September 06, 2024
 [ICT 2024 Mentorship \ NonFarm Payroll September 06, 2024](https://www.youtube.com/live/MxaJD1WIzos?si=kT5pHTKLRkMXphkR)
