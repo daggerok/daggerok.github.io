@@ -5,6 +5,13 @@ ICT said that hist students should make a notes because it's not realistic to ke
 
 ## 2024
 
+### ICT 2024 Mentorship \ September 09, 2024
+[ICT 2024 Mentorship \ September 09, 2024](https://www.youtube.com/live/Onca4KgfQB4?si=LQ5XCClyBomDqYdv)
+
+1) Check news
+2) Mark ORG
+3) 
+
 ### ICT Tutelage Friday September 6, 2024 NQ Entry Log
 [ICT Tutelage Friday September 6, 2024 NQ Entry Log](https://youtu.be/qDI80zbTYrA?si=62qMWu4JcpQpbFm5)
 
