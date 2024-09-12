@@ -5,6 +5,12 @@ ICT said that hist students should make a notes because it's not realistic to ke
 
 ## 2024
 
+### ICT 2024 Mentorship \ September 12, 2024
+[ICT 2024 Mentorship \ September 12, 2024](https://www.youtube.com/live/DRuEMX4RhMw?si=9SZLNmDA83km7XPh)
+
+If we are Bullish, and price is dropping into =FVG, then we would like to see that price should not close that
+inefficiency completely, we would likw to see reaction from the upper part of +FVG.
+
 ### ICT 2024 Mentorship \ September 09, 2024
 [ICT 2024 Mentorship \ September 09, 2024](https://www.youtube.com/live/Onca4KgfQB4?si=LQ5XCClyBomDqYdv)
 
@@ -705,6 +711,11 @@ island reversal. We can trade is as iFVG
 ### How To Read Price With Or Without A Bias - April 29, 2024
 [How To Read Price With Or Without A Bias - April 29, 2024](https://www.youtube.com/watch?v=LpdFdIckXqo)
 
+In this lecture, ICT wanted to talk about an introduction over discussion of type reading.
+Goal is to teach how to determine a Bias.
+
+---
+
 First think to keep in mind is a Seasonal Tendency.
 
 We should understand in general on a high level where the Market is moving.
@@ -728,11 +739,34 @@ straightforward Long positions opportunities to see the Market rally, and maybe 
 But trading in Sep, Oct, and the first two weeks of Nov being a Long holder, looking for Longs, that is like some
 easiest stuff that you ever do as a trader.
 
-In this lecture, ICT wanted to talk about an introduction over discussion of type reading.
-Goal is to teach how to determine a Bias.
+We want to see all tendency variants directions in sync go Higher for best Longs and Lower bor best Shorts in specific
+part of the year.
+
+---
+
+After Seasonal Tendency, we should look at the economic calendar.
+We want to easily see the big triggers for the Market for whole week.
+These height and medium impact news drivers, they are excitements and these excitements we call manipulations.
+Newbie traders see these events and hear like someone is telling, that there will be a lot of movements, so they
+think that they can make a lot of money...
+
+We will look at these events, and we will expect some measure of manipulation.
+ICT like to see what price has done right before these scheduled time events, where economic calendar will produce the
+data and present it to the public.
+
+Many times, economic reports will be Judas Swings (Fake run, big and sudden and explosive), it runs directly into
+pool of liquidity:
+* Above a High or rel.eq.Hs for Buyside, or it reaches up into FVG SiBi if we are Bearish
+* Below a Low or rel.eq.Ls for Sellside, or its dropping down into FVG BiSi if we are Bullish
+* If there are no inefficiencies (FVGs, VIs, etc...) then it's going to run for a high or a group of highs before drop
+  lower if we are Bearish (same, but opposite if we are Bullish...)
+
+---
 
 ICT said that it's not possible to learn Price Action if we are not looking on a real Price Action, but when it's
 already happened. We should see how candles be forming.
+
+---
 
 ICT will tell us what he is doing:
 * every single day
