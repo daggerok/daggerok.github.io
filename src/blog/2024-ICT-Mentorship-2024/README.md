@@ -36,6 +36,16 @@ When we will come back to the charts at 1:30pm:
 * The chance that both will be taken is low, so we should see which will be taken and write it down into our Journal
 * The same thing can be done for London session
 
+NY PM trading protocol:
+* Be near the charts at 1:15pm-1:30pm
+* On 15m TF mark Daily H and Daily L
+* On 5m TF mark Short-Term Hs and Ls which are inside the Daily range you market previously. If we can't see obviously
+  on that TF, we can drop down into 1m chart
+* So we will have two layers (Minor and Major) of our Buyside and Sellside, and at 2:00pm we will see how some of these
+  levels will be taken
+* We are looking for a Market Structure and opportunities, and it will be clear. If we will see something we like, then
+  we can put money on. 
+
 ### ICT 2024 Mentorship \ September 09, 2024
 [ICT 2024 Mentorship \ September 09, 2024](https://www.youtube.com/live/Onca4KgfQB4?si=LQ5XCClyBomDqYdv)
 
