@@ -43,8 +43,13 @@ NY PM trading protocol:
   on that TF, we can drop down into 1m chart
 * So we will have two layers (Minor and Major) of our Buyside and Sellside, and at 2:00pm we will see how some of these
   levels will be taken
-* We are looking for a Market Structure and opportunities, and it will be clear. If we will see something we like, then
-  we can put money on. 
+* We are looking for a Market Structure and opportunities, and it will be clear. If we see something we like, then
+  we can put money on.
+* We will look if Lower H than Daily H was formed to find an opportunity for Long. And we will look if Higher Low was
+  formed, which is Higher than Daily L to find an opportunity for Short
+* In addition to it, what can happen in the last hour or 45 minutes, or macros in that last hour... There can be
+  opportunity for the Market to expand. So if we are on the right side of the Market and we have some partials left,
+  we can catch something additionally 
 
 ### ICT 2024 Mentorship \ September 09, 2024
 [ICT 2024 Mentorship \ September 09, 2024](https://www.youtube.com/live/Onca4KgfQB4?si=LQ5XCClyBomDqYdv)
