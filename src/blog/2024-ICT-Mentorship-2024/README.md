@@ -705,13 +705,49 @@ island reversal. We can trade is as iFVG
 ### How To Read Price With Or Without A Bias - April 29, 2024
 [How To Read Price With Or Without A Bias - April 29, 2024](https://www.youtube.com/watch?v=LpdFdIckXqo)
 
-Wicks == Gaps. Our focus on C.E. or upper quadrants if bullish (lower quadrants when bearish).
+First think to keep in mind is a Seasonal Tendency.
 
-When we have high impact news, we are wait for damage and manipulation. Only then, after all retail
-traders will be stopped out from their seats we are looking for turtle sups or other setups.
+We should understand in general on a high level where the Market is moving.
 
-If there are no high impact news, then we can relay on macros (every single trading hour 20 minutes
-macros): 9:50am-10:10am, 10:50am-11:10am, 1:50pm-2:10pm, 2:50pm-3:10pm and 3:15-3:45 last hour macro
+Usually the Market is moving from a Spring H to Fall L.
+
+In Spring (Apr to May) there is transition, which is sending the Market lower and going dow into the late Summer into
+Sep or Oct and as late as the first week of Nov. Usually turning point will be in between last week of Aug and the
+second week of Oct, and it's usually the low of the year...
+
+Or, what happens if we are in very strong bull market conditions?
+Like we've been for several years now...
+Spring H can be quick and sudden initially, and then it can go and consolidate a little bit and then slowly drift
+down...
+Or (because now its presidential election year in the US), those Spring Highs down the Fall Lows don't tend to be as
+crisp or pristine in price. It's a little bit muddy. And sometimes it can be all rejected, and there is just a
+short-term drop in the Spring months and then when we get to mid-May or first week of June, boom: we take of, and we
+start going higher! And we don't even try to do anything going lower extremes summer months and/or making a Low in the
+fall... There will be likely Low that forms in the fall, but it's just very strong tendency for the Market to create
+straightforward Long positions opportunities to see the Market rally, and maybe short-lived.
+But trading in Sep, Oct, and the first two weeks of Nov being a Long holder, looking for Longs, that is like some
+easiest stuff that you ever do as a trader.
+
+In this lecture, ICT wanted to talk about an introduction over discussion of type reading.
+Goal is to teach how to determine a Bias.
+
+ICT said that it's not possible to learn Price Action if we are not looking on a real Price Action, but when it's
+already happened. We should see how candles be forming.
+
+ICT will tell us what he is doing:
+* every single day
+* on weekends
+* before 8:30am
+* between 8:30a and 9:30am when the equity Market opens
+* 
+
+Wicks are Gaps. Our focus on C.E. or upper quadrants if Bullish (Lower quadrants when Bearish).
+
+When we have high impact news, we are wait for damage and manipulation. Only then, after all, retail
+traders will be stopped out from their seats, we are looking for turtle sups or other setups.
+
+If there is no high impact news, then we can relay on macros (every single trading hour 20 minutes
+macro): 9:50am-10:10am, 10:50am-11:10am, 1:50pm-2:10pm, 2:50pm-3:10pm and 3:15-3:45 last hour macro
 
 If bullish and want to use +OB, then there should be only few down closed candles that we should use
 only as opportunity to buy. If there are a lot of down closed candles, then we either on
