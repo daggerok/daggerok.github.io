@@ -9,7 +9,32 @@ ICT said that hist students should make a notes because it's not realistic to ke
 [ICT 2024 Mentorship \ September 12, 2024](https://www.youtube.com/live/DRuEMX4RhMw?si=9SZLNmDA83km7XPh)
 
 If we are Bullish, and price is dropping into =FVG, then we would like to see that price should not close that
-inefficiency completely, we would likw to see reaction from the upper part of +FVG.
+inefficiency completely, we would like to see reaction from the upper part of +FVG.
+
+We are looking in pre-market (before opening) to see in price is support ORG.
+
+We are looking for initial price Action after Opening Bell to have an idea about SB trade.
+
+Keep in mind, that everybody saw rally yesterday, so everybody wants to do what? They want to chase a Bull run.
+Smart Money in these cases can even not provide PO3 manipulation, and they might want to push price lower.
+Because large ranges yesterday can bring excitement in retail mind.
+If we see a large daily candle yesterday, then protocol is: We don't trade next day morning session.
+We can go back to the charts after Lunch at 1:30pm and see if we will have the opportunity to trade in last hour macro
+
+We should not expect a lot if we have such tiny ORG like today.
+
+Whatever initial Low or High was formed, we should always see it as a suspicious trap.
+We might want to trade an opposite direction towards to it, or trade Turtle Soup expecting that this L/H will be
+traded in.
+
+When we will come back to the charts at 1:30pm:
+* We should see what H/L on the Day
+* We should see what H/L was formed in a morning session
+* We should see what H/L was formed in a NY Lunch session
+* We should find Hs/Ls was formed in between prev three (D, NY AM, NY Lunch) or prev two (D, NY Lunch), there will be 
+  Sellside and Buyside, which we can expect price will take
+* The chance that both will be taken is low, so we should see which will be taken and write it down into our Journal
+* The same thing can be done for London session
 
 ### ICT 2024 Mentorship \ September 09, 2024
 [ICT 2024 Mentorship \ September 09, 2024](https://www.youtube.com/live/Onca4KgfQB4?si=LQ5XCClyBomDqYdv)
