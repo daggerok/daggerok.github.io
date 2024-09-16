@@ -5,6 +5,87 @@ ICT said that hist students should make a notes because it's not realistic to ke
 
 ## 2024
 
+### ICT 2024 Mentorship \ September 13, 2024
+[ICT 2024 Mentorship \ September 13, 2024](https://www.youtube.com/live/wEBlRM7whoI?si=N9oIkOOZUTvWi5GR)
+
+Tags: #[NY.pm](), #[Friday]()
+
+When it's before or during 2:50pm macro, ICT expects that:
+* if STH or nearest Minor Buyside Liquidity is taken during that macro, then price might go higher up to rel.eq.Hs and
+  it means that the Market is under big manipulation
+* if STL or nearest Minor Sellside Liquidity is taken during that macro, then the same kind of continuation there is
+  also possible
+* of course, it can be sideways, so there is always possibility for what we are not expecting
+
+When we 50%/50%, then we either should not to trade, or we require these conditions with macro when the Market tips its
+hand to us.
+
+---
+
+Normally on Fri we have a large range of close weekly candle forming.
+Also on Fri ICT likes to see from 20% to 30% retracement (TGIF). But it's not expected for this week, which is enormous
+and was highly manipulated by going higher, higher, higher...
+But it should move with displacement and all formed FVGs should stay open on half of it
+
+Or we can stay inside NY.pm KZ range... If it happens, then ICT would really like to see the Gap Opening Higher on Sun,
+meaning Premium NWOG. And then come down, work into that Gap as a closure... And then slowly bleeding into higher prices
+
+Before NY.pm we should look at a range of NY.Lunch sessions, because it's giving us a context for trading NY.pm session.
+
+---
+
+When price is inside inefficiencies (like FVGs or VIs), ICT don't want to see price is stay in them.
+If we notice that the Market is staying inside inefficiencies, we have to take a step back... Because what we're seeing
+is time distortion. That Means that algorithm is in holding pattern (mode), and it's not going to move fast. It's not
+going to do something crazy, it's just simply going to go sideways. And then people seeing this, they really don't know
+what the Market is doing...
+
+But ICT teaches us to take a step back and say: okay, where are inefficiencies? If there are no inefficiencies and
+price is staying inside the only inefficiency that around price ride now during this time...
+Meaning the Market is in a holding pattern, the Market is simply being controlled and held in time distortion...
+Meaning it's just market time... It's not meant to make a new range high which would take a STH or take STL, until it
+did it. Once it did it, ask yourself, what time of day is it happening? Macro? If it happens during the Macro...
+Then, if it took Sellside first, and we are in a consolidating market, what it's going to do? It's going to explore
+another side of that inefficiency, which is Buyside (prev. STH).
+If it took Buyside first, then it's reasonable to expect that next is going to be taken Sellside (STL)
+And when it will be hit, again check the time of the day... Is it Macro? :)
+
+So the main takeaway from this is that time is the most important part of trading.
+As soon as we see how price is reacting, we have a high probability that the Market is going to spool the Price to take
+opposing liquidity.
+
+---
+
+How to use that strategy in our own Trading Model?
+We're simply looking at Price Action and marking PD Arrays, inefficiencies, STLs and STHs...
+When Price is taking liquidity during some Macro, it means that now it is very highly likely that Price will go and
+take opposing Liquidity.
+So basically we can either be more aggressive and enter into trade with Turtle Soup, or we can get not a best entry,
+but have a sweet and short "Bread and butter" setup with target on opposing liquidity.
+And we can do it all day long... Because every single hour there is a 20-minute macro... But during certain hours
+of the day are not going to be all energetic because they are not designed to be energetic. But they're going to be
+checks and balances that disrupt or entice a little bit sentiment of purpose of bringing liquidity, that's all...
+Meaning the role of the Macro is to get retail engaged and took liquidity, so after that Smart Money could reprice
+where its needed.
+
+---
+
+If we have PD Array (let's say +FVG), and price is failed to touch its C.E, this fact can tell us that we are really
+Bullish. So we can expect that Price is highly likely to try to get opposing liquidity...
+
+---
+
+If we want to trade Asian session, we should never open charts at 6pm and trade. We should always wait around 7pm
+and see if Price will overlap/overtop NDOG... But when we get into 8pm (that means 7:50pm to 8:10pm), that's a nice
+little area to anticipate that 8 o'clock macro. And then you have it again from 8:50pm to 9:10pm. Those two macros are
+really nice.
+
+During the Asian session we can trade next Forex currencies: Aussie Dollar, New Zealand Dollar, Yen and Swiss Frank.
+We should use 6:50 to 7:10 macro, 7:50 pm to 8:10 pm macro and also 8:50pm to 9:10 macro.
+
+9:50pm to 10:10pm and 10:50pm to 11:10pm macros are not so good, but...
+11:50pm to 12:10am it's a dynamite macro, because it real / true new day macro
+
 ### ICT 2024 Mentorship \ September 12, 2024
 [ICT 2024 Mentorship \ September 12, 2024](https://www.youtube.com/live/DRuEMX4RhMw?si=9SZLNmDA83km7XPh)
 
