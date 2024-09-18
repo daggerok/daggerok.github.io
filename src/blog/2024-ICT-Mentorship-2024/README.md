@@ -5,6 +5,30 @@ ICT said that hist students should make a notes because it's not realistic to ke
 
 ## 2024
 
+### ICT 2024 Mentorship \ How To Manage Missed Entries \ September 17, 2024
+[ICT 2024 Mentorship \ How To Manage Missed Entries \ September 17, 2024]()
+
+This lecture is about how to participate if we are missed the entry and how to participate in these kind of trades...
+
+---
+
+If we are going to trade a day before FOMC, we should trade it in the morning.
+Why not trade on FOMC? This day is highly manipulated as before and after. 
+
+TODO: To check if on FOMC at 2pm price will start go in one direction (higher or lower). At 2:30 pm it may go in
+the opposite direction
+
+---
+
+High frequency trading with FVG and without Bias. The only we need to see is 5-minute TF charts for pools of liquidity.
+
+### ICT 2024 Mentorship \ September 16, 2024
+[ICT 2024 Mentorship \ September 16, 2024](https://www.youtube.com/watch?v=HhgWGduQZQY)
+
+Important note on FVG:
+* For Bullish +FVG 2nd candle stick should go higher, meaning 2nd candle shouldn't open with Gap on premium and go
+  lower even if it's going to stay higher than first candle of +FVG
+
 ### ICT 2024 Mentorship \ September 13, 2024
 [ICT 2024 Mentorship \ September 13, 2024](https://www.youtube.com/live/wEBlRM7whoI?si=N9oIkOOZUTvWi5GR)
 
@@ -83,11 +107,13 @@ really nice.
 During the Asian session we can trade next Forex currencies: Aussie Dollar, New Zealand Dollar, Yen and Swiss Frank.
 We should use 6:50 to 7:10 macro, 7:50 pm to 8:10 pm macro and also 8:50pm to 9:10 macro.
 
-9:50pm to 10:10pm and 10:50pm to 11:10pm macros are not so good, but...
-11:50pm to 12:10am it's a dynamite macro, because it real / true new day macro
+From 9:50pm to 10:10pm and from 10:50pm to 11:10pm macros are not so good, but...
+From 11:50pm to 12:10am it's a dynamite macro, because it real / true new day macro
 
 ### ICT 2024 Mentorship \ September 12, 2024
 [ICT 2024 Mentorship \ September 12, 2024](https://www.youtube.com/live/DRuEMX4RhMw?si=9SZLNmDA83km7XPh)
+
+Opening Bell protocol: We mark ORG (4:59pm to 9:30am) and wait for it 50% fill in the fir st 30 minutes of trading.
 
 If we are Bullish, and price is dropping into =FVG, then we would like to see that price should not close that
 inefficiency completely, we would like to see reaction from the upper part of +FVG.
