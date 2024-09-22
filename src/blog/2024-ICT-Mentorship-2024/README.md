@@ -5,8 +5,50 @@ ICT said that hist students should make a notes because it's not realistic to ke
 
 ## 2024
 
+### ICT 2024 Mentorship \ CFDs Vs. Futures \ September 20, 2024
+[ICT 2024 Mentorship \ CFDs Vs. Futures \ September 20, 2024](https://www.youtube.com/watch?v=Vo8WKYKtzIU)
+
+Tags: #[ORG](), #[OR](), #[FistPresentedFVG](), #[Macro](), #[Macro0950]()
+
+Since Today's Opening Price is Lower than Yesterday's Settlement Price (where we closed yesterday at 4:14pm), that
+means we have Discount ORG
+
+The First Present FVG it's the first FVG that appears during OR (between 9:30am and 10:00am)
+
+We should extend First Presentation FVGs to the right for future trading, similarly like we do for NWOG/NDOG.
+These FVGs will be influential at least 3 days.
+Sometimes we will see how they can have an impact on price after 1 week or more, but at the moment we should use then
+at least 3 trading days...
+
+The Opening Range (OR) is a time interval in between 9:30am and 10:00am
+
+0950 Macro is time in between 9:50am and 10:10am when the Market can start spool price lower or higher
+
+If ORG is small (less than 40 handles on NQ), it means that this Gap is Limp (not so influencing).
+Especially if yesterday was a large range day.
+Also plus if its Friday and we had big range week...
+
+If we have big volatility, then we might not require waiting for Macro
+
+---
+
+When the Market is chopped during opening on OR, usually it's just time distortion.
+What is time distortion? It's waiting for specific time (Macro)
+
+---
+
+With days like yesterday when price hasn't been even touched a huge ORG C.E, meaning we have a big Discount void that
+hasn't been traded yet...
+
+---
+
+With weeks like that, when price goes higher and its Friday, then we might expect TGIF when price can retrace 20%-30%
+of the total weekly range was
+
 ### ICT 2024 Mentorship \ How To Manage Missed Entries \ September 17, 2024
 [ICT 2024 Mentorship \ How To Manage Missed Entries \ September 17, 2024]()
+
+Tags: #[ORG](), #[FistPresentedFVG](), #[Micro]()
 
 This lecture is about how to participate if we are missed the entry and how to participate in these kind of trades...
 
