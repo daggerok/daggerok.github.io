@@ -18,7 +18,7 @@ The First Present FVG it's the first FVG that appears during OR (between 9:30am 
 We should extend First Presentation FVGs to the right for future trading, similarly like we do for NWOG/NDOG.
 These FVGs will be influential at least 3 days.
 Sometimes we will see how they can have an impact on price after 1 week or more, but at the moment we should use then
-at least 3 trading days...
+at least 3 trading days especially if the price is raging around of that.
 
 The Opening Range (OR) is a time interval in between 9:30am and 10:00am
 
@@ -44,6 +44,14 @@ hasn't been traded yet...
 
 With weeks like that, when price goes higher and its Friday, then we might expect TGIF when price can retrace 20%-30%
 of the total weekly range was
+
+---
+
+Summary:
+* If we have quite a big ORG (at least 40 handles for NQ), then we can trade 70% probability of the fact that price
+  will trade to C.E. in the first 30 minutes
+* Else if we have not a wide ORG, then we can trade something like yesterday's First Presented FVG
+* Otherwise, we can wait for NY SB and trade that
 
 ### ICT 2024 Mentorship \ How To Manage Missed Entries \ September 17, 2024
 [ICT 2024 Mentorship \ How To Manage Missed Entries \ September 17, 2024]()
