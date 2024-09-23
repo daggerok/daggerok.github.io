@@ -5,6 +5,14 @@ ICT said that hist students should make a notes because it's not realistic to ke
 
 ## 2024
 
+### ICT 2024 Mentorship \ Tape Reading \ September 23, 2024
+[ICT 2024 Mentorship \ Tape Reading \ September 23, 2024](https://www.youtube.com/watch?v=Qg3O1GkJDeQ)
+
+Mondays, we don't trade them in the morning. Better to come back and trade NYpm session, its SB or LHM
+
+#### Questions
+* What do you mean when you're saying "the way how it delivers, I don't want to see it trades higher"?
+
 ### ICT 2024 Mentorship \ CFDs Vs. Futures \ September 20, 2024
 [ICT 2024 Mentorship \ CFDs Vs. Futures \ September 20, 2024](https://www.youtube.com/watch?v=Vo8WKYKtzIU)
 
@@ -47,7 +55,7 @@ of the total weekly range was
 
 ---
 
-Summary:
+Summary, as a trading conditions:
 * If we have quite a big ORG (at least 40 handles for NQ), then we can trade 70% probability of the fact that price
   will trade to C.E. in the first 30 minutes
 * Else if we have not a wide ORG, then we can trade something like yesterday's First Presented FVG
