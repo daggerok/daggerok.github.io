@@ -5,6 +5,26 @@ ICT said that hist students should make a notes because it's not realistic to ke
 
 ## 2024
 
+### ICT 2024 Mentorship \ How To Identify High Resistance Liquidity Conditions \ September 27, 2024
+[ICT 2024 Mentorship \ How To Identify High Resistance Liquidity Conditions \ September 27, 2024]()
+
+Difference between Bias and Narrative:
+* Bias is: Are you Bullish or you Bearish?
+* The Narrative is when we think where price might go and why... For example, Today is Friday, and we had a Bullish
+  week, so it's reasonable to think that price might take old lows (TGIF) even if its going to go higher later
+
+ORG:
+* if there is a big/large ORG (75+ handles), then we can expect good movement
+* if we have small ORG, then we can expect back-and-forth movement...
+
+When not to take trades? On HRL days.
+When we have small ORG, then we might face with HRL
+
+On a LRL days our stop can be a few ticks above FVG where we're entered.
+On a HRL days out stop should be above twice of FVGs
+
+If the price is spending a lot of time in inefficiencies, then we are in a HRL conditions
+
 ### ICT 2024 Mentorship \ Tape Reading \ September 23, 2024
 [ICT 2024 Mentorship \ Tape Reading \ September 23, 2024](https://www.youtube.com/watch?v=Qg3O1GkJDeQ)
 
