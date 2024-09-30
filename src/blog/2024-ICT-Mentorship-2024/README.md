@@ -23,7 +23,21 @@ When we have small ORG, then we might face with HRL
 On a LRL days our stop can be a few ticks above FVG where we're entered.
 On a HRL days out stop should be above twice of FVGs
 
-If the price is spending a lot of time in inefficiencies, then we are in a HRL conditions
+If the price is spending a lot of time in inefficiencies, then we are in a HRL conditions.
+It's not a chop, it's not a seek and destroy...
+These conditions create Turtle Soup setups
+
+ICT tells that its easy to miss-think Seek and Destroy day with HRL days.
+It cannot be 2 Seek and Destroy days in a week, it can be one Seek and Destroy and another HRL day...
+
+The easiest way to identify that we are on HRL conditions is when we can see how price spend a lot of time in FVG.
+We shouldn't revisit inefficiencies multiple times.
+Inefficiencies shouldn't be seen with multiple candles laying inside them, over and over and over again...
+
+In HRL conditions, we can study price to see how many Turtle Soups can be created...
+Its all doing is coming back to get any trial stops, that is what it's doing...
+That is the nature of what is happening behind the scenes of HRL conditions, it's running stops, because SM is building
+and accumulating their positions for the next move
 
 ### ICT 2024 Mentorship \ Tape Reading \ September 23, 2024
 [ICT 2024 Mentorship \ Tape Reading \ September 23, 2024](https://www.youtube.com/watch?v=Qg3O1GkJDeQ)
