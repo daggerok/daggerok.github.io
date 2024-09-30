@@ -27,7 +27,7 @@ If the price is spending a lot of time in inefficiencies, then we are in a HRL c
 It's not a chop, it's not a seek and destroy...
 These conditions create Turtle Soup setups
 
-ICT tells that its easy to miss-think Seek and Destroy day with HRL days.
+ICT tells that it's easy to miss-think Seek and Destroy day with HRL days.
 It cannot be 2 Seek and Destroy days in a week, it can be one Seek and Destroy and another HRL day...
 
 The easiest way to identify that we are on HRL conditions is when we can see how price spend a lot of time in FVG.
