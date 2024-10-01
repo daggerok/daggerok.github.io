@@ -5,8 +5,38 @@ ICT said that hist students should make a notes because it's not realistic to ke
 
 ## 2024
 
+### ICT 2024 Mentorship \ Limit Orders & Volatility Pinball Drills \ October 01, 2024
+[ICT 2024 Mentorship \ Limit Orders & Volatility Pinball Drills \ October 01, 2024](https://www.youtube.com/live/DnuCB5Stk-0?si=Sbw3k1LUsk8nYpRs)
+
+Indigo Entry Model:
+* Run on Sellside Stops (Purge of Liquidity, Bullish or Bearish)
+* Order Block
+* Volume Imbalance above the OB when we are Bullish, or below the OB if we are Bearish
+
+Indigo Entry Model it's an OR inside of Liquidity
+
+---
+
+There should be only 3 key points in our module:
+
+* Time: Why Price should move / why price has Moved? It should go up/down to take Liquidity or up/down to reprice
+inefficiency
+* TBD...
+
+---
+
+When we're treading iFVGs, we want to price leave it, and when it will come back (retrace) to it, bodies should respect
+that iFVG C.E.
+
+### ICT 2024 Mentorship \ Premarket Concepts \ September 30, 2024
+[ICT 2024 Mentorship \ Premarket Concepts \ September 30, 2024]()
+
+Before FOMC and other high impact news, we should trade pre-market like from 6am till before news release...
+
+Rule: wait for news release + 15 minutes after for high and medium impact news
+
 ### ICT 2024 Mentorship \ How To Identify High Resistance Liquidity Conditions \ September 27, 2024
-[ICT 2024 Mentorship \ How To Identify High Resistance Liquidity Conditions \ September 27, 2024]()
+[ICT 2024 Mentorship \ How To Identify High Resistance Liquidity Conditions \ September 27, 2024](https://www.youtube.com/live/l7eu9yvUUtg?si=JS7BUDgMYzSm8m8C)
 
 Difference between Bias and Narrative:
 * Bias is: Are you Bullish or you Bearish?
