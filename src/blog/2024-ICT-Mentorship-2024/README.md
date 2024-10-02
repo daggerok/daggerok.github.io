@@ -5,6 +5,75 @@ ICT said that hist students should make a notes because it's not realistic to ke
 
 ## 2024
 
+### ICT 2024 Mentorship \ Tape Reading NQ \ October 02, 2024
+[ICT 2024 Mentorship \ Tape Reading NQ \ October 02, 2024](https://www.youtube.com/live/YxpHUwZhu80?si=A9zKA_VM_epsbZ01)
+
+TODO: Look at that stream once again!
+
+This week is Non-Farm Payroll Protocol week.
+This means that price action will be less favorable.
+We can see this by looking at on London session:
+![London Session: Pre Non-Farm Payroll News](./images/MNQZ2024-2024-10-02-08-04-32-0771b-pre-Non-Farm-Payroll-market-London.png)
+
+SM will be using Non-Far Payroll as excuses for volatility.
+Do not trade on Wed, Thu, Fri in NFP weeks, we want to find setups on Mon and Tue, when the Market is clean
+
+We can trade on Fri if we want, but we should wait for 8:30am to see OR, but we should never be in the Trade before
+that
+
+---
+
+The Long-term trend in election year is usually Bullish
+
+---
+
+If we have BiSi with less portion not taken and then MSS we would like to see Stops Raided before the Price will go
+higher...
+
+---
+
+Identify pools of Liquidity and expect to look at rage trading...
+Meaning Turtle Soup can be used or expect that.
+Opposite liquidity pools, it's better to be taken before every significant price run, because it will be easier to
+trust that the price can go and take the opposite side of liquidity.
+
+---
+
+Before 9:00am, we were not looking at Primary Liquidity Polls. Why? We want to see what the Market will do in
+the first 15 minutes. Instead, we're looking at higher TF, because the Market is already moving somewhere...
+At 9:00 we will identify our primary pools of liquidity on 5m or on 15m TFs.
+We don't care which pools of liquidity will be attacked, but we will be using it as catalysis for the next price run.
+
+---
+
+We can trade on Fri if we want, but we should wait for 8:30am to see OR, but we should never be in the Trade before
+that
+
+---
+
+We should identify problem areas (days and/or specific time of the day) and do not trade to not blown an account
+
+---
+
+Minimum 15 minutes is the time we need to wait and see what will happen to news drivers
+
+---
+
+The Middle of FVG is crucial. If CE is respected, we should see this.
+If it's not respected, we should sit still.
+We can go in only if we see that CE is respected to the tick
+
+---
+
+We do not do enter on iFVGs, we wait to see if it will stop price and act as a resistance, and we enter on next
+forming FVG...
+
+---
+
+OG its initial Bias. Meaning if it opened lower, the first 30 minutes, we are focus on longs.
+Or at that point of time we've already identfied liquidity pools, so we can use that 50% mid-level of ORG as a turning
+point to identified pools of liquidity
+
 ### ICT 2024 Mentorship \ Limit Orders & Volatility Pinball Drills \ October 01, 2024
 [ICT 2024 Mentorship \ Limit Orders & Volatility Pinball Drills \ October 01, 2024](https://www.youtube.com/live/DnuCB5Stk-0?si=Sbw3k1LUsk8nYpRs)
 
@@ -27,6 +96,13 @@ inefficiency
 
 When we're treading iFVGs, we want to price leave it, and when it will come back (retrace) to it, bodies should respect
 that iFVG C.E.
+
+---
+
+We don't trade before: FOMC, CPI, PPI, Non-Farm Payroll. All they at 8:30am delivery. Those are destroyers.
+If they on Fri, then we can trade from Mon to Thu.
+If its NFP week, we can trade on Mon and Tue. Last night London was terrible because of war in the Middle East.
+Trading after high impact driver news it's okay and easy, but we should never trade before their release
 
 ### ICT 2024 Mentorship \ Premarket Concepts \ September 30, 2024
 [ICT 2024 Mentorship \ Premarket Concepts \ September 30, 2024]()
