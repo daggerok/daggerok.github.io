@@ -5,6 +5,50 @@ ICT said that hist students should make a notes because it's not realistic to ke
 
 ## 2024
 
+### ICT 2024 Mentorship \ Premarket Tape Reading NQ Futures \ October 21, 2024
+[ICT 2024 Mentorship \ Premarket Tape Reading NQ Futures \ October 21, 2024](https://www.youtube.com/live/CQk-5lAirn0?si=XylTo0e5W50fvSay)
+
+When its day like a Mon without volatility injections (news) we always should mark previous days / sessions highs and
+lows
+
+### ICT 2024 Mentorship \ NQ Tape Reading \ October 15, 2024
+[ICT 2024 Mentorship \ NQ Tape Reading \ October 15, 2024](https://www.youtube.com/live/HMn46vLjKvY?si=Sl3stZB3vFnlkTav)
+
+When we are in consolidation, meaning we are inside yesterday's range, we should mark quadrants with a Higher High and
+Lower Low in between 12:01am and 4:59am. This is called Overnight Range. This will help us approximately predict where
+PD Arrays may form.
+
+When we see tiny ORG (less than 75 handles), its signal for us that price will be choppy and hard to trade...
+So we have to wait for 10am for SB. We are wait for FVG form and liquidity.
+If it doesn't have a clear bias, then we sit still and wait for the next opportunity:
+* either on NY Lunch macro
+* or MYpm SB
+* or Last Hour Macro (LHM)
+
+When we are looking for liquidity of the previous day, we should look at prev NYpm high and low, but also we are looking
+for liquidity at between 1:30pm and 2pm
+
+We should mark every single last week day highs and lows
+
+### ICT X (Formerly Twitter) Space | Romancing The Uncertainty | October 5, 2024
+[ICT X (Formerly Twitter) Space | Romancing The Uncertainty | October 5, 2024](https://youtu.be/Nk34ayXn1mw?si=UbmBtJm4cjdD8KSX&t=6113)
+
+Model:
+* Start trading day at 9:30am
+* If ORG is opening higher than the first 30-minutes bias is Bearish, otherwise if ORG is opening lower, then first
+  30-minutes bias is Bullish
+* Wait for the First Presented FVG and ise is as an entry
+* For profit, targets focus on NWOGs and NDOGs or cluster of them, above Old High or REH when Bullish, and below Old Low
+  or REL when Bearish as Draw On Liquidity
+* Trade must be closed before 11:00am
+
+### ICT 2024 Mentorship \ October NFP NQ \ October 04, 2024
+[ICT 2024 Mentorship \ October NFP NQ \ October 04, 2024](https://www.youtube.com/live/qcYYm1iNCIM?si=EgmudceeCgakU3SH)
+
+On high impact news, first 15 minutes we are not looking for inefficiency, we are looking for Liquidity, we want to see
+which stops raided.
+After 15 minutes, we can start looking at inefficiencies.
+
 ### ICT 2024 Mentorship \ Tape Reading NQ \ October 02, 2024
 [ICT 2024 Mentorship \ Tape Reading NQ \ October 02, 2024](https://www.youtube.com/live/YxpHUwZhu80?si=A9zKA_VM_epsbZ01)
 
