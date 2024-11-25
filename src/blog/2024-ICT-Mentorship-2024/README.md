@@ -1022,8 +1022,8 @@ high after a long prior run in London. It might be a reversal. If there was a st
 then we can use Model 2022, OTE and Breaker trade, but most important is to trade internal FVG in Breaker if it's
 available!
 
-Best iFVG is forming when we have, for example, stop hunt with breaker and there is inefficiency was formed in breaker
-range. That inefficiency is a very strong candidate for high probability iFVG.
+Best iFVG is forming when we have, for example, stop hunt or REH/REL post-7 o'clock with breaker and there is
+inefficiency was formed in breaker range. That inefficiency is a very strong candidate for high probability iFVG.
 
 The very first FVG prior to stop run (reversal) because it's a change in the state of delivery.
 If there is no that FVG, then we are trading Breaker.
