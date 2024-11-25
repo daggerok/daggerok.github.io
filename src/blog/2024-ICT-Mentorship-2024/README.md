@@ -1012,7 +1012,7 @@ Depends on time when we can trade:
 
 Do not lead with a chart annotations before it was form
 
-FVGs should be marked together with VIs.
+FVGs should be marked together with VIs (if wick is nor cross C.E).
 
 High-probability rel.eq.Hs are: high on the left is higher than high on the right.
 
@@ -1021,6 +1021,9 @@ iFVG: the highest form of precession, if we have a Gap post 7:00 that runs after
 high after a long prior run in London. It might be a reversal. If there was a stop run and Breaker and FVG was form,
 then we can use Model 2022, OTE and Breaker trade, but most important is to trade internal FVG in Breaker if it's
 available!
+
+Best iFVG is forming when we have, for example, stop hunt with breaker and there is inefficiency was formed in breaker
+range. That inefficiency is a very strong candidate for high probability iFVG.
 
 The very first FVG prior to stop run (reversal) because it's a change in the state of delivery.
 If there is no that FVG, then we are trading Breaker.
