@@ -1010,6 +1010,8 @@ Depends on time when we can trade:
 * Or we start mark rel.eq.Hs and rel.eq.Ls only after 8:00 on Pre-Market session in between 8:00am and 8:30am.
 * Or we start mark rel.eq.Hs and rel.eq.Ls only after 9:00 on Pre-Market session in between 9:00am and 9:30am.
 
+Do not lead with a chart annotations before it was form
+
 FVGs should be marked together with VIs.
 
 High-probability rel.eq.Hs are: high on the left is higher than high on the right.
