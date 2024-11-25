@@ -1025,6 +1025,8 @@ available!
 Best iFVG is forming when we have, for example, stop hunt or REH/REL post-7 o'clock with breaker and there is
 inefficiency was formed in breaker range. That inefficiency is a very strong candidate for high probability iFVG.
 
+NY am session characteristic is to retrace back into London (whenever the highest high or the lowest low of 2ap-5am)
+
 The very first FVG prior to stop run (reversal) because it's a change in the state of delivery.
 If there is no that FVG, then we are trading Breaker.
 
