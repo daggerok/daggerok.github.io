@@ -984,11 +984,14 @@ Tomorrow (2024-08-08) ICT is 52.
 ### ICT 2024 Mentorship \ Lecture #2 August 6, 2024
 [ICT 2024 Mentorship \ Lecture #2 August 6, 2024](https://www.youtube.com/watch?v=pkI4AgC4OPI&ab_channel=TheInnerCircleTrader)
 
+TODO: Learn Daily Range
+
 TODO: Learn Market profiles on ICT private mentorship:
 - Is it making a high or a low of the day in a London session?
 - Is it setting up a consolidation to expansion of the trend day?
 - Is it going to be just a trending day?
 - Is it a seek and destroy?
+- Is it going to be a NY session Market Reversal profile (price will go back throw the hole london session)?
 
 [So, let's go into the business](https://www.youtube.com/live/pkI4AgC4OPI?feature=shared&t=2895)
 
