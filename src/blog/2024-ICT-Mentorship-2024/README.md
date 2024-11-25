@@ -30,6 +30,68 @@ for liquidity at between 1:30pm and 2pm
 
 We should mark every single last week day highs and lows
 
+### ICT X (Formerly Twitter) Space | The Trump Card & 2025 Trading Education Landscape | Nov, 09 2024
+[ICT X (Formerly Twitter) Space | The Trump Card & 2025 Trading Education Landscape | Nov, 09 2024](https://youtu.be/8Dk7qQh5qrg?si=7TYp2GuYN4-p9BGS&t=8804)
+
+Important: Not apply every ICT concept, it's wors what we can do
+
+Try this ICT model approach for my trading: We should understand current Market conditions when trading can be
+straightforward (to know when to trade) and when trading is might be no so favorable (to determine when not to trade)
+* 80%
+  * Knowing when it will be High Resistance Liquidity Run
+  * Knowing when it will be Low Resistance Liquidity Run
+  * Knowing a Bias
+* 20% is Time (Macros)
+
+Most of the ICT teachings is all about this determination: when to trade and when not to trade.
+
+1. High Resistance Liquidity run market conditions: [2:35:43](https://youtu.be/8Dk7qQh5qrg?si=Z68MdpkEI_Y7xUjr&t=9343)
+   * When we are trading on a day, where no high or medium impact news drivers, because there is no manipulation, which
+     is likely occurring (doesn't mean it's always like that, but most time that's going to happen)
+   * When we see every FVG gets closed in and we spend a lot of time in those FVGs (more than just one time and leaving
+     it): One down, then spend maybe two candles in it, then leave it and then come down and touch the upper half or
+     touch just a top of it and spring away...
+2. Low Resistance Liquidity run market conditions: [2:27:50](https://youtu.be/8Dk7qQh5qrg?si=qVLqnXR2lMAIqdwl&t=8870),
+   [2:36:03](https://youtu.be/8Dk7qQh5qrg?si=Q7oNmHIPAtkVD3l8&t=9363)
+   * So we should look for the conditions when the Market leaves open FVGs
+   * We want to see imbalances to stay open (imbalanced), that means we can have faster price runs and fewer
+     retracements 
+   * There is high or medium impact news which means we will have some kind of manipulation, judas swing, or fake run in
+     an opposite to a weekly bias direction
+3. Bias: [2:29:12](https://youtu.be/8Dk7qQh5qrg?si=u5KFtGJL2obKeXN1&t=8951)
+   * Bullish:
+     * On a weekly chart the price just recently takes a Sellside Liquidity
+     * And/or last week was down-closed week
+     * And it looks like moving higher up to an imbalance and/or to short-term high (if both are existed, that's the
+       strongest draw on liquidity)
+     * So our Bias on a higher timeframe is Bullish — Don't fight that
+   * Bearish: On a weekly chart
+     * On a weekly chart it looks like run lower to an imbalance after Market Structure Shift
+     * Where it just recently takes a Buyside Liquidity
+     * And there is Sellside Liquidity below... Well, what It's likely to do? — Reach down
+     * So our Bias on a higher timeframe is Bearish — Don't fight that
+
+When price is opening and going down and our Bias is Bullish, we try to buy that drop down, and it's scary in the
+beginning, but the only way to get comfortable with it is watching price, studying it, practicing with it:
+Not trade or even demo this, only tape read, hypothetically say: I think it's going to stop here, and it shouldn't go
+any further than this level here... And we are watching how price gets delivered inside those macros.
+During that macro, there is going to be run on price that either going right into inefficiency or to take a Liquidity.
+Macros designed to start that spooling process, it doesn't complete it, it doesn't mean that only move in those 20
+minutes.
+
+Knowing, when to trade [2:42:04](https://youtu.be/8Dk7qQh5qrg?si=lViS9ER8cqrdZE_A&t=9724), we want to trade in Low
+Resistance, if we can filter out High Resistance conditions, we will be better equipped to staying in that business long
+enough
+
+So we want to predict Low Resistance conditions by economic calendar.
+
+The Bias is going to be determined from a weekly chart, it is going to go for stops, or it is going to go into
+inefficiency. And where was the most recent rejection because stops where hit there? And if we cannot determine it,
+that means we don't have bias on a weekly chart... that means that we are either going to trade intraday volatility or
+do nothing. That is better than losses, it's a good medicine for us to be patient and sit still
+
+
+
 ### ICT X (Formerly Twitter) Space | Romancing The Uncertainty | October 5, 2024
 [ICT X (Formerly Twitter) Space | Romancing The Uncertainty | October 5, 2024](https://youtu.be/Nk34ayXn1mw?si=UbmBtJm4cjdD8KSX&t=6113)
 
@@ -921,6 +983,8 @@ Tomorrow (2024-08-08) ICT is 52.
 
 ### ICT 2024 Mentorship \ Lecture #2 August 6, 2024
 [ICT 2024 Mentorship \ Lecture #2 August 6, 2024](https://www.youtube.com/watch?v=pkI4AgC4OPI&ab_channel=TheInnerCircleTrader)
+
+[So, let's go into the business](https://www.youtube.com/live/pkI4AgC4OPI?feature=shared&t=2895)
 
 * In our Journal, we're avoiding all negative aspects or our analysis, any toxicity, any negativity when we were wrong.
 * In our Journal, we're doing screenshots of expected Market behavior.
