@@ -940,6 +940,14 @@ pre-market at 7am.
 ### ICT 2024 Mentorship \ Lecture #4 August 8, 2024
 [ICT 2024 Mentorship \ Lecture #4 August 8, 2024](https://www.youtube.com/live/hdSscxZgE58?si=2YGxOaXyOBBvd_Ms)
 
+---
+#### Important points
+
+TBD
+---
+
+ICT Birthday.
+
 Where should market price go?
 We're sitting and looking where is inefficiency (NDOGs and NWOGs, if we in discount and the market is below, then we
 expect the price to go higher)
