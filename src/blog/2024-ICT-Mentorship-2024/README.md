@@ -950,6 +950,65 @@ and go down throw that FVG which will make it iFVG
 ### ICT 2024 Mentorship \ Lecture #3 August 7, 2024
 [ICT 2024 Mentorship \ Lecture #3 August 7, 2024](https://www.youtube.com/live/ZkLc4-adodg?si=6nb_dMhwttGK9iHU)
 
+---
+#### Important points
+
+Keep separately at least last 5 NWOGs and last 5 NDOGs.
+We can keep them longer, but we can mark oler with light colors.
+
+If Gap hasn't been fully closed, it's a Breakaway Gap, and if price start stooling, we can expect that it will run fast!
+
+If we have a cluster of these NWOG/NDOG, price will gravitate to place where we have more these gaps.
+Similarly, with differences between NWOG and NDOG, NWOG has more weight than NDOG.
+
+If price is only touches NWOG/NDOG once, this means that these gaps are very hot and sensitive (even if these gaps are
+old).
+
+If price has moved a lot er can mark them with light colors.
+
+If we see that there are a cluster of N(W/D)OGs above, and we are Bearish, we should wait if price can quickly go into
+these gaps and only then wait for bearish PDArrays...
+
+We can build our narrative with these N(W/D)OGs. If we see a big cluster of these, we can look for trade where price
+will gravitate into them.
+
+Now regarding news...
+If there are no high impact news drivers, try to trade NYpm session, because price can be clearer in between 1:30pm and
+2:30pm.
+
+Same, if this is a day when we don't have high impact news drivers, no data to manipulate a price in a morning session,
+but later we have Bond-Auction... Try to trade NYpm session because cleaner price action will be after NY.lunch,
+time: 13:30-14:30
+
+If there are no move (it's sideways) in between 1:30pm and 2:30pm we can wait for a Silver Bullet.
+
+If SB is also moving sideways, we can wait for 3pm to a close, for example Last Hour Macro (3:15pm-3:45pm)
+
+In general we are waiting for some fuel for run (like medium/light impact news, for example, Bond Auction)
+
+Our regular goal is to learn how to be consistent by making:
+- 5 handles on ES
+- 10 handles on NQ
+
+How to hold for longer trade 100+ handles?
+- We should know where the Market is should go
+- If we determined a 10 handles run, we can start looking for trade with 15-20 handles run
+- As far we will trade outside just rel.eq.Hs/Ls, we should expect prev. session lows or highs. But we also can find
+  rel.eq.Hs/Ls for prev. session, like London
+- Low/Medium impact news drivers probably will continue with an already started direction?
+- Do not see on rel.eq.Hs if the Market is moving lower
+- If we have displacement and 2 Bearish FVGs, and next green candle even cannot touch C.E, its weak signature. So if
+  some next candle after this goes lower and then touches prev green candle low, its high probability Bearish OB.
+- Otherwise, if we have 2 Bearish FVGs and the very next green candle is going into C.E or above... We wait for the
+  next candle to go short into the  upper portion of our FVG and stop loss (SL) should be placed above upper FVG C.E.
+
+Inefficiencies is less important than:
+- rel.eq.Hs/Ls, NWOGs/NDOGs
+
+If we are Bearish, we don't want to see that Buyside is offered (price is fully closing it or even going into the upper 
+half) in our Bearish FVGf
+---
+
 At 7am, 8am or 9am we're sitting, relaxing and observing.
 We don't care what happened in the previous session or trading day yet.
 We want to see the design and engineering of
