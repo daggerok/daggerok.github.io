@@ -988,18 +988,22 @@ Same, if this is a day when we don't have high impact news drivers, no data to m
 but later we have Bond-Auction... Try to trade NYpm session because cleaner price action will be after NY.lunch,
 time: 13:30-14:30
 
-If there are no move (it's sideways) in between 1:30pm and 2:30pm we can wait for a Silver Bullet.
+If there is no move (it's sideways) in between 1:30pm and 2:30pm we can wait for a Silver Bullet.
 
 If SB is also moving sideways, we can wait for 3pm to a close, for example Last Hour Macro (3:15pm-3:45pm)
 
-In general we are waiting for some fuel for run (like medium/light impact news, for example, Bond Auction)
+In general, we are waiting for some fuel for run (like medium/light impact news, for example, Bond Auction)
 
 Our regular goal is to learn how to be consistent by making:
 - 5 handles on ES
 - 10 handles on NQ
 
+If we can see a drop lower with displacement and the very next bullish candle has traded upper but hasn't touched C.E
+of formed SiBi, then we can expect that this bullish candle is the bearish Order Block. So when the next candle will be
+moving higher into that -OB, we can sell short.
+
 How to hold for longer trade 100+ handles?
-- We should know where the Market is should go
+- We should know where the Market should go
 - If we determined a 10 handles run, we can start looking for trade with 15-20 handles run
 - As far we will trade outside just rel.eq.Hs/Ls, we should expect prev. session lows or highs. But we also can find
   rel.eq.Hs/Ls for prev. session, like London
@@ -1008,7 +1012,7 @@ How to hold for longer trade 100+ handles?
 - If we have displacement and 2 Bearish FVGs, and next green candle even cannot touch C.E, its weak signature. So if
   some next candle after this goes lower and then touches prev green candle low, its high probability Bearish OB.
 - Otherwise, if we have 2 Bearish FVGs and the very next green candle is going into C.E or above... We wait for the
-  next candle to go short into the  upper portion of our FVG and stop loss (SL) should be placed above upper FVG C.E.
+  next candle to go short into the upper portion of our FVG and stop loss (SL) should be placed above upper FVG C.E.
 
 Inefficiencies is less important than:
 - rel.eq.Hs/Ls, NWOGs/NDOGs
