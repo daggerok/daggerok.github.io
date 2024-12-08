@@ -998,11 +998,18 @@ Our regular goal is to learn how to be consistent by making:
 - 5 handles on ES
 - 10 handles on NQ
 
-If we can see a drop lower with displacement and the very next bullish candle has traded upper but hasn't touched C.E
-of formed SiBi, then we can expect that this bullish candle is the bearish Order Block. So when the next candle will be
-moving higher into that -OB, we can sell short.
+##### -OB
+If we can see a drop lower with displacement. And the very next bullish candle has traded up, but hasn't touched C.E
+of formed SiBi, closed lower SiBi and next candle move lower from it... Then we can expect that this bullish candle
+will act as a bearish Order Block.
 
-How to hold for longer trade 100+ handles?
+So after that, when some next candle will be moving higher into that -OB low, we
+can sell short.
+
+If bullish OB candle touched C.E, we should wait for next candle which is going to trade a little bit higher than C.E
+and then sell short...
+
+##### How to hold for longer trade 100+ handles?
 - We should know where the Market should go
 - If we determined a 10 handles run, we can start looking for trade with 15-20 handles run
 - As far we will trade outside just rel.eq.Hs/Ls, we should expect prev. session lows or highs. But we also can find
