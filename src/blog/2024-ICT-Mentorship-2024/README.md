@@ -1182,7 +1182,7 @@ At 9:00-9:30 EST, prior to the NY Open:
     * record or screenshot honestly, what it felt for us physically (anxiety, impatient, excited, etc...)
 * we should trade only one micro contract, at least 1 year of studying... we can start thinking of pyramiding, but we
   can't do pyramiding at least 1 year! This is how we study ICT. This is the only thing we can do to remove greed and
-  fear. We can't blow the account by trading one micro contract and we only take one trade a day
+  fear. We can't blow the account by trading one micro contract, and we only take one trade a day
 
 Every single-day algorithm will always do this: run on liquidity (orders sitting inside inefficiencies, or above old
 highs or below old lows) where the market needs to offer fair value to the marketplace.
@@ -1197,11 +1197,11 @@ long enough, where we completely desensitized to get comfortable with and antici
 with to not knowing what it's going to do next (this candle, next candle, five candles from now and so on...) but when
 we are thinking that its going to draw on to this specific price levels, we have marked on 8:00-8:30
 
-As soon as we pushed the button, we've entered the jungle; yours is mine or mine is yours. Are we a liquidity? If we are
-a liquidity, we are the lunch. We should go in, and we are looking for lunch, for liquidity, we are looking that market
+As soon as we pushed the button, we've entered the jungle; yours is mine or mine is yours. Are we liquidity? If we are
+ liquidity, we are the lunch. We should go in, and we are looking for lunch, for liquidity, we are looking that market
 can go into specified levels at 8:00-8:30 EST. It can draw on Liquidity in directional movement. It may not draw on that
 liquidity, but the market is probably going to move until it hits that level. It doesn't mean that it can't have
-a replacement lower or it doesn't mean that it can't make a lower low (new low of the day), highly unlikely but not
+a replacement lower, or it doesn't mean that it can't make a lower low (new low of the day), highly unlikely but not
 impossible.
 
 Anyway, we should still have an initial idea and follow the rules. So when we are first trying to learn how to read
@@ -1253,7 +1253,7 @@ Prior to pre-market ranges we are looking for relative-equal highs or relative-e
 that's our bias, it's going to draw on that...
 
 How do we know if we have both sides relative-equal lows and highs? We wait for draw on first and get disrupted...
-Because once that happens then we work to the other. That's our bias! So we have to defer and wait
+Because once that happens, then we work to the other. That's our bias! So we have to defer and wait
 
 ### Keynotes & Observations - May 01, 2024
 [Keynotes & Observations - May 01, 2024]()
@@ -1261,34 +1261,32 @@ Because once that happens then we work to the other. That's our bias! So we have
 In FOMC day is 2 stage event: 1) Move start on 14:00 and complete at 14:30 2) At 14:35
 I can do either reversal or continue
 
-Non-Farm Payroll is also nopt possible for trading - algorithm is turn off and manual
-intervention will be turned on
+Non-Farm Payroll is also nopt possible for trading—algorithm is turned off, and manual intervention will be turned on
 
 How to detect time when LRL in place? If there are no news drivers.
 
 Session bias can be built for 4h and 1h charts: were we are? where are we going from?
-where are we going to (block, inefficiency, C.E, draw on liquidity etc...)?
+Where are we going to (block, inefficiency, C.E, draw on liquidity etc...)?
 
-Why we don't want Opening Range Gap fill completely if we are Bearish? Because if it
-cannot fill that Gap it means that it Very Bearish.
+Why don't we want Opening Range Gap fill completely if we are Bearish? Because if it cannot fill that Gap, it means
+that it is Very Bearish.
 
-We can expect as retail traders want to go short after big down day, so smart money
-wants to trap them. Takeaway from this is: when retail public crowd want to sell,
-smart money want to move markets higher to get everybody else Byu stops.
+We can expect as retail traders want to go short after big down day, so smart money wants to trap them. Takeaway from
+this is: when a retail public crowd wants to sell, smart money wants to move markets higher to get everybody else
+Byu stops.
 
 ### Reading Price Without A Bias - April 30, 2024
 [Reading Price Without A Bias - April 30, 2024](https://www.youtube.com/watch?v=joqM_Z96vtM)
 
 Do not trade on non-farm payroll week from after lunch Wed till Fri.
-If we want we can trade 15-30 minutes after non-farm payroll numbers report.
+If we want, we can trade 15–30 minutes after a non-farm payroll numbers report.
 
-Reclaimed FVG / Reclaimed OB is when initial expectations is used at later time.
+Reclaimed FVG / Reclaimed OB is when initial expectations are used at later time.
 IFGV / Mitigation block is when its reverse the role.
 
-Bounce price range is when you have 2 inefficiencies (BiSi and SiBi) in opposing
-directions in a same general area in terms of price. Best is with 1 candle in a
-middle because it would be sudden and more impactful. Or it could be pattern called
-island reversal. We can trade is as iFVG
+Bounce price range is when you have 2 inefficiencies (BiSi and SiBi) in opposing directions in the same general area in
+terms of price. Best is with one candle in the middle because it would be sudden and more impactful. Or it could be a
+pattern called island reversal. We can trade as iFVG
 
 ### How To Read Price With Or Without A Bias - April 29, 2024
 [How To Read Price With Or Without A Bias - April 29, 2024](https://www.youtube.com/watch?v=LpdFdIckXqo)
@@ -1305,7 +1303,7 @@ We should understand in general on a high level where the Market is moving.
 Usually the Market is moving from a Spring H to Fall L.
 
 In Spring (Apr to May) there is transition, which is sending the Market lower and going dow into the late Summer into
-Sep or Oct and as late as the first week of Nov. Usually turning point will be in between last week of Aug and the
+Sep or Oct and as late as the first week of Nov. Usually turning point will be in between the last week of Aug and the
 second week of Oct, and it's usually the low of the year...
 
 Or, what happens if we are in very strong bull market conditions?
@@ -1314,9 +1312,9 @@ Spring H can be quick and sudden initially, and then it can go and consolidate a
 down...
 Or (because now its presidential election year in the US), those Spring Highs down the Fall Lows don't tend to be as
 crisp or pristine in price. It's a little bit muddy. And sometimes it can be all rejected, and there is just a
-short-term drop in the Spring months and then when we get to mid-May or first week of June, boom: we take of, and we
+short-term drop in the Spring months, and then when we get to mid-May or first week of June, boom: we take of, and we
 start going higher! And we don't even try to do anything going lower extremes summer months and/or making a Low in the
-fall... There will be likely Low that forms in the fall, but it's just very strong tendency for the Market to create
+fall... There will be likely Low that forms in the fall, but it's just a very strong tendency for the Market to create
 straightforward Long positions opportunities to see the Market rally, and maybe short-lived.
 But trading in Sep, Oct, and the first two weeks of Nov being a Long holder, looking for Longs, that is like some
 easiest stuff that you ever do as a trader.
@@ -1359,25 +1357,25 @@ ICT will tell us what he is doing:
 
 Wicks are Gaps. Our focus on C.E. or upper quadrants if Bullish (Lower quadrants when Bearish).
 
-When we have high impact news, we are wait for damage and manipulation. Only then, after all, retail
-traders will be stopped out from their seats, we are looking for turtle sups or other setups.
+When we have high impact news, we are wait for damage and manipulation. Only then, after all, retail traders will be
+stopped out from their seats, we are looking for turtle sups or other setups.
 
-If there is no high impact news, then we can relay on macros (every single trading hour 20 minutes
-macro): 9:50am-10:10am, 10:50am-11:10am, 1:50pm-2:10pm, 2:50pm-3:10pm and 3:15-3:45 last hour macro
+If there is no high impact news, then we can relay on macros (every single trading hour 20 minutes macro):
+9:50am-10:10am, 10:50am-11:10am, 1:50pm-2:10pm, 2:50pm-3:10pm and 3:15-3:45 last hour macro.
 
-If bullish and want to use +OB, then there should be only few down closed candles that we should use
-only as opportunity to buy. If there are a lot of down closed candles, then we either on
-consolidation or near to high, but definitely not in up move.
+If bullish and want to use +OB, then there should be only few down closed candles that we should use only as
+the opportunity to buy. If there are a lot of down closed candles, then we either on consolidation or near to high,
+but definitely not in up move.
 
-Same thing in relation to FVG, we don't want to see every FVG was fully rebalanced, we do want to
-see price left some inefficiency stay opened, not fully closed, otherwise we maybe on end of the run
+Same thing in relation to FVG, we don't want to see every FVG was fully rebalanced, we do want to see price left some
+inefficiency stay opened, not fully closed, otherwise we maybe on end of the run
 
-To capture nice day trades we need to look at 15m charts or 1h charts.
-To capture nice swing trades we need to look at 1h charts or 4h charts.
-To capture nice position trades we need to look at 1D charts or 1W charts.
+To capture nice day trades, we need to look at 15m charts or 1h-charts.
+To capture nice swing trades, we need to look at 1h charts or 4h-charts.
+To capture nice position trades, we need to look at 1D charts or 1W-charts.
 
-Change in a state of delivery it's always opening price of OB. Delivery it's
-directional price run, so it's going to be a change in the direction of price.
+Change in the state of delivery it is always opening price of the OB. Delivery it's a directional price run, so it's
+going to be a change in the direction of price.
 
 ### Lecture On ICT Order Blocks & Tape Reading April 18, 2024
 [Lecture On ICT Order Blocks & Tape Reading April 18, 2024](https://www.youtube.com/watch?v=BxR3tVRS_FI)
@@ -1385,30 +1383,26 @@ directional price run, so it's going to be a change in the direction of price.
 Bias must be found based on weekly and daily charts.
 Don't build bias based on anything what less than 1 hour.
 
-SM doing stop runs only to kick out everyone who can be profitable and
-to catch traders who created limit orders for breakouts.
+SM doing stop runs only to kick out everyone who can be profitable and to catch traders who created limit orders for
+breakouts.
 
 Seasonal tendency take price down into the spring decline.
 
-In days when we have high impacted news we should use 5 minutes
-timeframe to reduce choppiness and spottiness of price fluctuation.
-In all other "normal" trading days we can use 1 minute and sub-minute
-timeframes.
-On high impact news drivers we should wait and use 5 minutes charts at
-least 15-20-30 minutes and only then we can start dropping down below
-5 minutes charts for looking for inefficiencies because we won't
-probably pick a right one...
+In days when we have high impacted news, we shouldn't use 5-minute timeframe to reduce choppiness and spottiness of
+price fluctuation.
+In all other "normal" trading days, we can use 1-minute and sub-minute timeframes.
+On high impact news drivers, we should wait and use 5-minute charts at least 15-20-30 minutes, and only then we can
+start dropping down below 5-minute charts for looking for inefficiencies because we won't probably pick the right one.
 
 When I'm bullish, my stop loss should have 3 PD arrays above it or
 3 PD arrays below it when I'm bearish.
 
 Dealer range is high that was engaged buyside and low that was engaged sellside.
-And it must be on a timeframe we are looking for analysis (5 minutes on high
-impact driver news during 15-30 minutes after release). Best moves starts from \
-running stops, so if we are bearish - we want to see that market take buy stops
+And it must be on a timeframe we are looking for analysis (5 minutes on high impact driver news during 15–30 minutes
+after release). Best moves start from running stops, so if we are bearish - we want to see that market take buy stops
 first.
 
-Algorithm is designed to range wide to seek liquidity.
+The Algorithm is designed to range wide to seek liquidity.
 
 Important to keep in mind quadrants and remember that best entries when we are:
 * bullish: in between 50%-100% of +OB or +FVG
