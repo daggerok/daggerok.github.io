@@ -830,6 +830,34 @@ ICT Bearish OB doesn't require price trade below a wick before we get into trade
 ### ICT 2024 Mentorship \ Lecture #5 August 9, 2024
 [ICT 2024 Mentorship \ Lecture #5 August 9, 2024](https://www.youtube.com/watch?v=ul6x6BwOg6M&t=457s)
 
+---
+#### Important points
+
+It's important to have at least one chart without annotations
+
+Indicative of weakness or strong market is when the price cant even trade inside C.E. of PDArray and rapidly moving
+towards REL/REH or Liquidity
+
+Asia session trading protocol:
+- Wait for session start at 18:00 and annotate NDOG:
+  - If it's above is NDOG H
+  - If it's below, then is NDOG L
+  - C.E. can be annotated in if it's above 20 handles on NQ
+- We are waiting the market will create a motion around our NDOG. If it doesn't, we have no trade
+- Do not trade initially that NDOG, because of time, wait for 19:00 to 21:00
+- But initially, we can look at prior 18:00 for REL/REL as SSL/BSL, which has been formed prior Asia session 
+- Also, we can annotate Minor Short-Term (ST) SSL and BSL, which has been formed prior Asia session
+- But what we are waiting for? We want to see the price do these things:
+  1. The price should leave NDOG and create STH or STL...
+  2. The price should cross over NDOG...
+  3. The price should take STL or STH... After that, the price will set initial range. For annotation purposes: when we
+     are taking Minor ST SSL, that STL will be creating Initial SSL; and when we are taking Minor ST BSL - it should
+     be annotated as Initial BSL
+- Then before 19:00 we should have an idea where the market is going to move, up or down...
+- When we are waiting, the market displacement and buy or sell and keep holding until the price will take BSL or SSL
+- Even if we are not going to trade Asian session, it's beneficial for us to study it and log it
+---
+
 Asia session: we should start to look at the market at 6pm and expect some kind of volatility from 7pm to 9pm.
 We should use NWOG theory at that time of day
 
@@ -943,7 +971,14 @@ pre-market at 7am.
 ---
 #### Important points
 
-TBD
+On other monitors, we can observe:
+- TFs: 15S, 1, 5, 15, 1H, 1D, 1W, 1M
+- Matrix for SMT Divergence:
+  - NQ: 1, 2, 3, 4, 5
+  - ES: 1, 2, 3, 4, 5
+  - YM: 1, 2, 3, 4, 5
+Any divergence on YM in comparison to ES and NQ is not so important as Divergence in between ES and NQ, which is more
+valid
 ---
 
 ICT Birthday.
