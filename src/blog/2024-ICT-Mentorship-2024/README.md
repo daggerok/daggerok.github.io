@@ -787,7 +787,100 @@ TODO: Check 3 drive (Indians) pattern and this complete video.
 ### ICT 2024 Mentorship \ Lecture #6 August 12, 2024 Begins 9:15am ET
 [ICT 2024 Mentorship \ Lecture #6 August 12, 2024 Begins 9:15am ET](https://www.youtube.com/live/woAQ1XJeD7Y?si=8vbIL3sjFElKoyEM&t=550)
 
-We do expect a volatility (and this volatility will be until reports come out) if:
+---
+#### Important points
+
+- From 7/8/9 we are wait for REL or REH to be created
+- Marking Initial SSL/BSL
+- Wait for Stop hunt in opposing move where we think the market should gravitate towards NWOGs/NDOGs
+- And when we think it started moving, looking for the inefficiency to get into trade
+- Set SL/TP and wait until one or another will be hit (SL can be moved once to reduce risk and commissions)
+
+Do not try to make more than you need.
+Get a trade and stop.
+Do trade once a day:
+- if it's positive - cool
+- if it's not - then you have what to work on and study
+
+In a day when we have quite a red economic calendar (meaning we will have a high impact on news like CPI/PPI, etc. on
+the following days). For example on Mon, when PPI and CPI news are coming on Tue and Wed...
+We want to trade earlier, before 9:30 opening bell...
+Because everyone will try to do somethin on the opening bell and there will be a lot of volatility.
+
+So:
+- We're annotating the initial price range
+- Knowing where our NWOGs and NDOGs, we are looking for market signatures when it will sweep one liquidity side and
+  then we are expecting that price will eventually go towards a magnet on the opposite side of liquidity
+- In other words, we are waiting when market will be a jagged on an opposing side where NWOGs/NDOGs are
+
+If TGIF didn't form last Friday, on Monday we can expect some kind of run lower (TGIM).
+Meaning, if last Fri the market didn't retrace from 20 to 30 percent of prev. Week range if it was an up-close week.
+So, we are preparing for our day at 7:00:
+- We know that TGIF(M) potentially could happen this Monday (20%-30% or prev. week range)
+- And we're preparing ourselves for a short
+- We determine where our initial high and low, and we wait when it will be taken
+- And if we have NWOGs/NDOGs, which is currently lower... All that can help us determine some kind of directional bias
+- Bias doesn't have to be based on Daily range, when we are predicting the price close below or above the opening price
+- It can be session bias too: In a morning session I want to know where a run could form that is measurable, it's
+  something what I'm able to participate in, and it's one-sided.
+- If we can see that we are above NWOG, and we see that NDOG is below now (at 7:00 or 8:00 or 9:00) at the opening bell,
+  then you know that the weight of the market is going to be pressed downside
+- So the market is going to discover probe into discount arrays; and/or seek inefficiencies that are deeply retracing
+  into prev. week's range; or just taking out STLs that can be determined on a 15-minute TF
+
+The good Bearish OB, is the OB that has been formed when REH has been taken and then down-closed candle has been closed
+below the OB opening price (that closing price on a down-close candle validates our Bearish OB).
+Bearish OB Opening price, it's change in a state of delivery. 
+Then we want to see the next candle is opened below our Bearish OB opening price as well.
+All we need to do is wait for trade on an uptick:
+We can place our limit order on that Bearish OB opening price.
+Stop loss (SL) goes to Rejection Block (RB): Bearish OB closing price.
+
+We want to see out PDArrays (half of them) is not respected, if price only can touch C.E and rejecting lower: this is
+what we really want to see.
+Sometimes price can fully close PDArray and them go lower, and this is a low probability. We want to see at least some
+part of PDArray stay open, sometimes it might be even betterr to close our trade if we see inefficiencies are fully
+closing. 
+
+If we get into trade, and then we realized that we did something we not understand, it's better to close the trade and
+then see: all right, this is how I would manage and see if it harmed us to learn how to do in future in similar
+situations. We shouldn't have to wait, we don't have to be right, it hasn't to pan and out in our favor, but we don't
+need to harm us and stress out...
+
+The signatures we are looking for (that's how do we know the algorythm is respecting our narrative):
+- The upper half of PD Arrays are stay open
+- Inversion FVG should act as a resistance
+- Reclaimed FVG: Premium Array similarly to FVG, upper half should stay open
+- We also should see measurable displacements in our favor
+
+Price continuum theory:
+How do we know which PD Array is not going to be filled?
+Well, we do want that any of them shouldn't be filled.
+If we go to the last one, we want to see immediate response and price rejection from it, and then it has to displace.
+And it should give us another FVG on same TF or lower, and we will use smaller TF to enter because we missed that price
+rejection...
+
+Very often, at the end of the down-move on reversals, the market is forming "jagged" and invites people to sell shorts:
+```
+                /
+\              /
+ \    /\      /
+  \  /  \    /
+   \/    \  /
+          \/
+```
+As it down it its work (if it runs lower inside NWOG/NDOG), it can reverse up, so we shouldn't see any shorts in such
+situations.
+
+If at 7:00, 8:00, 9:00 we are in premium (NWOG, NDOGs are below the market) we should be expecting how algorythm will
+go lower
+
+If we hadn't TGIF previous Friday and last week was bullish, and if price is in premium (NWOD, last Fri NDOG and/or
+cluster of previous NDOGs), we can expect that TFIG is going to be happening on Monday
+
+---
+
+We do expect volatility (and this volatility will be until reports come out) if:
 * On Mon and we pretty much no high impact news
 * On Tuesday–Wednesday: CPI and/or PPI
 
@@ -812,7 +905,7 @@ And then we will expect that these rel.eq.H or rel.eq.L will be raided.
 
 Same thing if we trade after 8am
 
-If we trade after at 9am there are some additional nuances:
+If we trade after at 9am, there are some additional nuances:
 
 It's important to not spend our mental capital. If we spend every single day / every single hour of the day what the
 market is doing, then we will be unhappy, because its not healthy. Do something once a day and stop. If you positive,
@@ -1407,3 +1500,4 @@ The Algorithm is designed to range wide to seek liquidity.
 Important to keep in mind quadrants and remember that best entries when we are:
 * bullish: in between 50%-100% of +OB or +FVG
 * bearish: in between 0%-50% of -OB or -FVG
+ 
