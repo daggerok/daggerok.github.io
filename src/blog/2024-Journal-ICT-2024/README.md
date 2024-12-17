@@ -1,6 +1,20 @@
 # Journal
 This page will be my ICT journaling notes.
 
+### 2024-12-17
+
+Asia:
+![Asia](./journal/MNQZ2024_2024-12-17_17-13-10_aa303.png)
+
+London:
+![](./journal/MNQZ2024_2024-12-17_17-28-47_52b3d.png)
+
+NY am:
+![](./journal/MNQZ2024_2024-12-17_17-28-47_52b3d.png)
+
+Whole trading day:
+![](./journal/MNQZ2024_2024-12-17_17-31-45_4aba2.png)
+
 ### 2024-06-101
 
 NY AM NQ:
