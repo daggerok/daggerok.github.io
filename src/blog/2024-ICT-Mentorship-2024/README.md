@@ -1089,6 +1089,9 @@ and go down throw that FVG which will make it iFVG
 ---
 #### Important points
 
+Do not trade on high impact news.
+If we really want to trade, we should wait for SB for Non-Farm Payroll days (7:30).
+
 Keep separately at least last 5 NWOGs and last 5 NDOGs.
 We can keep them longer, but we can mark oler with light colors.
 
