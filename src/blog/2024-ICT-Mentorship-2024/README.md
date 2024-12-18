@@ -769,18 +769,18 @@ and candle bodies are respecting wicks, or how price can stop at wick c.e.
 
 Main takeaway from this lecture:
 We should not trade on tending days when we have CPI, PPI, FOMC, Non-Farm Payroll, because it is extremely manipulated.
-Abd because it usually once-sided directional run we should try to have any concern right before CPI/PPI numbers report,
-because no one have no idea what market is going to do. There is a low probability to set proper target or stop-loss.
+And because it usually once-sided directional run, we should try to have any concern right before CPI/PPI numbers
+report, because no one knows what the market is going to do. There is a low probability to set a proper target (TP) or
+stop-loss (SL).
 
 We should not trade initial liquidity raid on a morning right before a PPI/CPI/FOMC numbers report, ever!
 We are just waiting for news and doing nothing. 
-In the morning we're just waiting to see rel.eq.H or rel.eq.L.
+In the morning we're just waiting to see REH or REL.
 
 TGIF is when the market did retracement from 20% to 30% on a weekly candle.
 If TGIF didn't form on the previous Friday.
-TODO: Check it once again today and yesterday streams about that.
 
-We are chasing the price.
+TODO: Check it once again today and yesterday streams about that.
 
 TODO: Check 3 drive (Indians) pattern and this complete video.
 
@@ -1117,7 +1117,7 @@ If there are no high impact news drivers, try to trade NYpm session, because pri
 
 Same, if this is a day when we don't have high impact news drivers, no data to manipulate a price in a morning session,
 but later we have Bond-Auction... Try to trade NYpm session because cleaner price action will be after NY.lunch,
-time: 13:30-14:30
+time: from 13:30 to 14:30
 
 If there is no move (it's sideways) in between 1:30pm and 2:30pm we can wait for a Silver Bullet.
 
