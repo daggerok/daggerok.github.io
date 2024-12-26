@@ -754,10 +754,22 @@ OR != ORG
 OR: from 9:30am to 10:00am
 ORG: Gap between 5:59 and 9:30am
 
-### ICT 2024 Mentorship \ Lecture #6 August 14, 2024 Begins 9:25am ET
-[ICT 2024 Mentorship \ Lecture #6 August 14, 2024 Begins 9:25am ET](https://www.youtube.com/live/zU7iAqg4sSA?si=gsWHSEggbeab56Bt)
+### ICT 2024 Mentorship \ Lecture #8 August 14, 2024
+[ICT 2024 Mentorship \ Lecture #6 August 14, 2024 Begins 9:25am ET](https://www.youtube.com/live/zU7iAqg4sSA?feature=shared&t=3107)
 
-Wick it is like FVG, so if it can't go below then it is probably going to go higher.
+---
+#### Important points
+Every time we see wicks, we should measure them. All timeframes
+
+If we look at turning points: STH, ITH, LTH / STL, ITL, LTL where we could reasonably to forecast where is market
+will try to go to
+
+If the price moved lower, and we have the wick above... when it retraced into C.E. of that wick - it's a premium array.
+We don't care of wick lows/highs - we are interested only in wick C.E. and/or wick UQ, LQ (upper and lower quadrants)
+
+---
+
+Wick it is like FVG, so if it can't go below, then it is probably going to go higher.
 
 If there are 2 FVGs, we're always looking for first (closer), but allowing from our risk that the price can go into
 second.
@@ -765,24 +777,77 @@ second.
 We should study all timeframes and find proofs be ourselves. When we are looking on a wicks, we should find how price
 and candle bodies are respecting wicks, or how price can stop at wick c.e.
 
-### ICT 2024 Mentorship \ Lecture #7
+### ICT 2024 Mentorship \ Lecture #7 August 13, 2024
 
 Main takeaway from this lecture:
-We should not trade on tending days when we have CPI, PPI, FOMC, Non-Farm Payroll, because it is extremely manipulated.
+We should not trade on days when we have CPI, PPI, FOMC, Non-Farm Payroll, because it is extremely manipulated.
 And because it usually once-sided directional run, we should try to have any concern right before CPI/PPI numbers
 report, because no one knows what the market is going to do. There is a low probability to set a proper target (TP) or
 stop-loss (SL).
+If we really want to trade on days like PPI, CPI or Non-Farm Payroll, we should wait for Silver-Bullet (SB)
 
+If we see price moving lower, and we have wicks near to prev or next candle body, then its BPR (balanced price range),
+so we can expect that price will not go higher a lot... There should be stiff opposition to any run higher
+
+On a day with PPI/CPI/FOMC/NFP we don't want to annotate our charts with initial BSL/SSL, because they are extremely
+manipulated and usually one-sided directional runs, we just wait for opening bell and then we can mark initials.
 We should not trade initial liquidity raid on a morning right before a PPI/CPI/FOMC numbers report, ever!
 We are just waiting for news and doing nothing. 
 In the morning we're just waiting to see REH or REL.
 
 TGIF is when the market did retracement from 20% to 30% on a weekly candle.
-If TGIF didn't form on the previous Friday.
+If TGIF didn't form on the previous Friday, then we can expect that behavior on Mon. All we need to do is measure TGIF
+including Monday
 
 TODO: Check it once again today and yesterday streams about that.
 
 TODO: Check 3 drive (Indians) pattern and this complete video.
+
+FVG:
+- we want to see them stay open (act as Breakaway) IOFED if we expect price to go higher on bullish FVG
+- we want them to fail (become inversion) if we expect reversal / breaker
+
+TODO: Backtest this and look at the old charts:
+Question: When we may expect Breakaway Gap will be form (+FVG will stay open)?
+Answer: If we were in consolidation, then run sell stops, and then leave consolidation higher with +FVG and with
+potential targets higher. That +FVG tends to be open...
+
+The most sensitive area of Breakaway Gap will be upper half (from mid-point to high of it)
+
+Question: How to enter a trade on IOFED?
+Answer: Put limit order right on a +FVG high. SL should be placed below 1st candle high or below middle FVG candle low
+
+And remember about Macro, like 10:50–11:10...
+If the market is going to move, it should move towards to something on a daily chart, or higher TF premise (key
+reference points):
+- prev. day H/L
+- last 3 prev. days Hs/Ls
+- last week H/L
+- C.E, upper/lower quadrant of that range...
+
+Question: What makes consecutive candles +OB?
+Answer: We have momentum shifted higher; We have a Breakaway Gap; We have consecutive candles traded into FVG and
+then the price moved away from its highest consecutive candle opening, which is validating +OB.
+
+We can see how price will respect +OB:
+Wicks are allowed to do damage, but bodies should stay in upper half o PDArray, for +OB its highest open down to the
+lowest close. If this is +OB, these things should be present
+
+Question: Macros
+Answer: Every hour from 50 minutes to 10 minutes of next hour, market will do one of two things:
+- take STL or STH
+- trade into inefficiency to invite smart money to capitalize on an entry right before price spools to liquidity
+- if there is no +FVG, then we wait for retracement lower to form +OB and its validation
+
+Set alarm for 5 minutes before macro, for example, 10:45
+Some macros are better than another. TODO: Learn which and why/when
+
+FOMC: Both, at 14:00 and 14:30, its always manual intervention, destruction if we are on a wrong side. It will not
+allow getting in / get out, it will run away, period.
+
+Other macros:
+- from 00:00 to 01:00
+- from 15:15 to 15:45, from 15:45 to 16:00, from 16:00 to 16:14
 
 ### ICT 2024 Mentorship \ Lecture #6 August 12, 2024 Begins 9:15am ET
 [ICT 2024 Mentorship \ Lecture #6 August 12, 2024 Begins 9:15am ET](https://www.youtube.com/live/woAQ1XJeD7Y?si=8vbIL3sjFElKoyEM&t=550)
