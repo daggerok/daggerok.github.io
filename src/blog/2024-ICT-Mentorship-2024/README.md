@@ -765,7 +765,99 @@ If we look at turning points: STH, ITH, LTH / STL, ITL, LTL where we could reaso
 will try to go to
 
 If the price moved lower, and we have the wick above... when it retraced into C.E. of that wick - it's a premium array.
-We don't care of wick lows/highs - we are interested only in wick C.E. and/or wick UQ, LQ (upper and lower quadrants)
+We don't care of wick lows/highs - we are interested only in wick C.E. and/or wick UQ, LQ (upper and lower quadrants).
+And we want to see: does price stop on these levels (C.E, UQ, LQ)?
+Or if price pierced C.E, does a body stop at or below C.E if bearish (above C.E if bullish)?
+Because these are signatures.
+
+Price will spool when it's time for it:
+- At session starts
+- At session endings
+- During macro periods
+
+Every swing high and swing low that has a wick... How useful can be information if we start to measure them: finding
+where is C.E... If we start doing that, then we can start forecasting price action.
+
+The idea around Turtle Soup, which is reversal prediction:
+- Run on liquidity
+- But it's not always running above an old high
+- And it's not always running below of old low :)
+
+[1:16:06 Let's talk about wicks](https://www.youtube.com/live/zU7iAqg4sSA?feature=shared&t=4566)
+
+It doesn't matter how log wick. Wick and its C.E are crucial.
+
+[1:18:14 Trade below STL, -OB validation, MSS, Change in the state of delivery, Model 2022](https://www.youtube.com/live/zU7iAqg4sSA?feature=shared&t=4694)
+
+[1:21:28 Reversals](https://www.youtube.com/live/zU7iAqg4sSA?feature=shared&t=4888)
+- Reversals in sake of changing buy or sell program
+- Turtle Soup entry mechanism. How far it can go higher before reverse lower? That is why we want to have 5 NDOGs and
+  5 NWOGs on our charts. Any STH/STL pierced, not just by the wicks, the bodies
+
+[1:27:28 Change in the state of delivery measurement](https://www.youtube.com/live/zU7iAqg4sSA?feature=shared&t=5248)
+Algorythm is changing its state of delivery from buyside delivery to sellside delivery.
+This is means that price can come back and retrace a little bit... how much?: mean-threshold from opening price to
+down close price of last candle (we are using consecutive candles). We are measure candles bodies.
+
+So when price crossed opening price, we want to see how price is gravitating lower.
+
+If there is no NWOG or NDOG, we can annotate it as a single line of the opening 18:00 price formed it, because it
+still will be influential.
+
+If I'm bearish and I see -FVG above a price, I want to see that -FVG will stay open.
+
+If we see the OB and FVG and if FVG is inside the OB, then we should label the OB (from candle max to min if wicks are
+small).
+
+iFVGs:
+- Not every FVG can be iFVG
+- If we see iFVG, and now it should act as a resistance, we want to see some portion of its upper half will stay open
+- iFVGs is something we can use in market maker sell/buy models. As soon as price stop respect it, we can assume that
+  it's time to reverse
+
+TODO: Find and watch lecture called "trading inside the range"
+
+Reversal characteristics:
+- We can come back and identify a range;
+- Then we should be looking where prise has support;
+- And then (after its reverse) we should see how old support is failing, and price starts seeking lower;
+- When price is falling after reversal, we should see how old bullish inefficiencies (now inversions) are in agreement
+  with newly created bearish inefficiencies. When ICT is saying: "I want to see magnitude, distance and large ranged
+  candles"... ICT is doing that with these agreements in mind: inefficiency was bullish, and now after reversal it
+  became inversion and didn't allow bodies to close above...
+
+TODO: Go and find Market Maker Buy/Sell models in Mentorship 2017
+
+We can be profitable with less than 50% win
+
+Turtle Soup is when we expect reversal after run on stops and liquidity, not just by the wicks, but bodies!
+Turtle Soup entry mechanism is always happening when we do trade FVGs with IOFED.
+Every time ICT is getting into the trade in FVG, he thinks of it as a Turtle Soup.
+Breaker is essentially Turtle Soup as well
+
+How to trade -FVGs:
+- ICT enter a trade right at the beginning of the inefficiency: 6 contracts
+- If the price moving to C.E. he will add more (pyramid): 4 contracts
+- SL for -FVGs should be above candle #2 (candle with inefficiency)
+- In general, we want to see how -FVG will stay open, then we can expect price moving lower with fast speed
+  * If -FVG was fully closed, we absolutely want an immediate response, we want to see a price drop quickly
+  * If price is not moving as we expected, it's better to move SL at break even or close trade early with lower risk...
+- If candle #1 of -FVG has a wick, then its premium array, because it's above FVG... So we can use its C.E. to reduce
+  risk and use aggressive SL placement 2 ticks above candle #1 lower wick C.E. of our -FVG... Why do we have no fear
+  that price may go higher? Because together: candle #1 lower wick and candle #2 with inefficiency makes BPR (balanced
+  price range) on a whole candle #1 lower wick, so price can meet resistance on BPRs, that's why or SL os above C.E.
+
+How to trade an -OB:
+- The OB is a whole candle with wicks
+- Bearish OB entry should be the same as with FVG: 6 contracts on an OB low, 4 contracts at the Mean Threshold
+- SL for the OB should be 2 ticks above OB high if there are no top wicks from other candles near the OB
+- If there is another candle with higher wick than the OB, then SL should be two ticks above that candle higher wick
+  C.E
+- OBs are not protected from mohawks
+
+If we're starting a trading day and we don't know what to do, then we wait for more information.
+We should not trade just because we want to see what will happen. We may have 80% change to lose.
+
 
 ---
 
@@ -774,7 +866,7 @@ Wick it is like FVG, so if it can't go below, then it is probably going to go hi
 If there are 2 FVGs, we're always looking for first (closer), but allowing from our risk that the price can go into
 second.
 
-We should study all timeframes and find proofs be ourselves. When we are looking on a wicks, we should find how price
+We should study all timeframes and find proofs be ourselves. When we are looking at wicks, we should find how price
 and candle bodies are respecting wicks, or how price can stop at wick c.e.
 
 ### ICT 2024 Mentorship \ Lecture #7 August 13, 2024
