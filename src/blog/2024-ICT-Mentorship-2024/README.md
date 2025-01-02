@@ -754,6 +754,142 @@ OR != ORG
 OR: from 9:30am to 10:00am
 ORG: Gap between 5:59 and 9:30am
 
+TODO: To check
+On FOMC at 14:30pm usually should run opposite of 14:00pm run.
+We can check what if we will hold the opposite trade to 14:00pm until 15:15... Usually it's a win. But we should get
+out about 15 minutes after 3pm
+
+Why? Because there are multiple (4) macros on the last hour treading:
+- Last hour macro from 15:15pm to 15:45pm
+- Market on close macro from 15:45pm to 16:00pm
+- Settlement macro from 16:00pm to 16:14pm
+- Correct? 4th?
+
+We don't want to trade or hold long runs on Jackson Hole Symposium
+
+Every FVG which we think can support our idea run towards liquidity, we want it to stay open.
+For example, if we have multiple FVGs on a quick price rally, we can expect that the lowest FVG of that run will be a
+Breakaway Gap and the highest will be a FVG with potential IOFED. So that highest FVH with IOFED, we want it to stay
+open. If that happens, then it will support our idea of price running higher
+
+The Session draws on liquidity above and below.
+All we need to do is wait for them to do damage at the time window: 9:30am-10:00am because there is an OR:
+- Where are the initial legs of liquidity starting from 7:00am?
+- After we annotated Initial BSL and Initial SSL we wait when price will trade in one of them first
+- AS soon as one side was pierced, we can see if price will go to the opposite
+
+### ICT 2024 Mentorship \ Lecture #10 August 16, 2024
+[ICT 2024 Mentorship \ Lecture #10 August 16, 2024](https://www.youtube.com/live/qoNQfVzVXZQ?feature=shared&t=1357)
+
+We want to keep on a separate chart ORs (opening ranges) for the last three days to refer on them in price action:
+- today's OR
+- previous day's OR
+- day before previous day's OR
+
+We also want to keep ORGs similarly:
+- today's OR
+- previous day's OR
+- day before previous day's OR
+
+On Fri we want to also check TGIF.
+If TGIF wasn't formed on Friday, we want to use it on Monday
+
+---
+#### Important points
+
+How to trade NY Lunch (it's a 2 - hour period: from 11:30am to 13:30pm):
+- Whenever there is run higher:
+  - If it's protracted with one big move with no or little retracement
+  - Or if it's staggered (goes up and then comes down a little bit, goes up and comes down...)
+  ...and keep going up at 13:30pm... it's reasonable to expect a measure of retracement
+- We should identify the easiest REL or single low in that run up AFTER 10:00am or later... in
+  many cases NY Lunch macro will reprice into it, even if it goes higher
+- At 11:30 we should start hunt setups that will take STL or REL that formed after 10:00am
+- Vise versa with the same logic, but in reverse if the market is dropping: at 11:30am we can start
+  hunt setups when REH or single STH was formed after 10:00am will be taken during retracement
+- NY Lunch is going to make a run against what has already been in play, kind like a midday retracement. However,
+  these midday retracements sometimes can be midday reversals for the whole day or week (a specially on Fri when it
+  was a bullish week)
+
+TO CHECK the next strategy (Market Maker Buy Model:
+- When the market is dropping from yesterday
+- To see if ORG lower stays open when price is dropping lower to the second stage of re-accumulation
+- Then reversal should be formed with a low risk buy
+- And then the market starts moving higher towards of REH
+
+What setups should we be focusing on a beginning?
+- On ES, we want to see at least 5 handles, but better 6 handles from where we think it's going to react to where it's
+  going to draw on to
+- On NQ, we want to see from 10 (TP1) to 15 (TP2) handles, but better 20 handles from where we think it's going to
+  react to where it's going to draw on to
+- We're not trying to be right, we want to recognize a pattern, which can be a basis for our potential setup
+
+If we focus on a small 5–10 handles trades, we can have them 8–10 per trading day, and it wouldn't be an over
+trading. We can have 100 handles per trade when the price range is less than 100 handles.
+
+We can have a low win rate and still will be in profit. We don't have to have a high strike rate...
+
+We should find our one model that we are trust the most.
+We should be able to see it forming every day.
+What is that trade setup for life? For example:
+- The market has made a very clear run to a key level we are expect
+- And then it starts a break-down
+- And there is a very clear inefficiency or REL
+- And its time of the day that affords the market to perform and deliver price
+- We can find that model on a 1-minute chart, 30s chart or less, so there is an opportunity to find and trade that
+  model every single day, but opportunity is not what we should be doing every single day! we should be able to see it,
+  but not trade. We should trade on the right days, and at the right time if you are a new trader.
+  First, we should trust ourselves and have our model. But in the beginning we should learn and find our model, which
+  later we will be using with a real money account.
+
+If we cannot see price dynamic movements from one inefficiency to another, then it's probably a day when we should not
+to trade...
+
+We should always see and measure how price is reactive on an inefficiencies:
+- it can be likely to keep going into the direction of that gap, or:
+- no! I'm going into that gap just to fade it, and now it will go into another direction
+
+When not to trade?:
+- There are times when ICT doesn't want to trade on Mondays just because he wants to see how price will form a
+  directional run for the week.
+- And there are times when ICT doesn't want to trade on Friday that has had a huge weekly run-up, and price has from
+  20% to 30% retracement of the weekly range on Thursday before close. TGIF retracement should be done after Thursday
+  RTH close
+- After TGIF 20% retracement, the market can be very chop (back and forth)
+- Whenever we expect TGIF, and TGIF can form at 13:00pm on Thursday, and then from 13:00pm on Thursday throughout
+  Friday till Fridays close, we can always expect from 20% to 30% retracement
+- Whenever the market has done expected 20% retracement at any time from 13:00pm of Thursday till Fridays close, we
+  should not trade because with high probability, we will see thickle market conditions (back and forth choppiness).
+  The market is fulfilled its goals and objectives, and then it's retraced. Think of it as a Daily range of Power Of 3...
+  It's already done its movement, and in the end, the price is going to close somewhere near where it's now... And we
+  don't know where it's going to close, higher or lower... We should not trade in uncertainty. No one knows how and
+  where price will close
+
+Power of 3: Usually, close will be in upper 3rd if we are bullish
+
+---
+
+### ICT 2024 Mentorship \ Lecture #9 August 15, 2024
+[ICT 2024 Mentorship \ Lecture #9 August 15, 2024](https://www.youtube.com/live/pg5XBNkpotM?feature=shared)
+
+Main takeaway from a lecture: Do not chase a price which is going high-high-high...
+Wait for the opportunity to go into trade according to the bias.
+If we are bearish, but the Market is going higher, we should wait and go short only after-MSS
+
+How to trade NY Lunch (it's a 2 - hour period: from 11:30am to 13:30pm):
+- Whenever there is run higher:
+  - If it's protracted with one big move with no or little retracement
+  - Or if it's staggered (goes up and then comes down a little bit, goes up and comes down...)
+    ...and keep going up at 13:30pm... it's reasonable to expect a measure of retracement
+- We should identify the easiest REL or single low in that run up AFTER 10:00am or later... in
+  many cases NY Lunch macro will reprice into it, even if it goes higher
+- At 11:30 we should start hunt setups that will take STL or REL that formed after 10:00am
+- Vise versa with the same logic, but in reverse if the market is dropping: at 11:30am we can start
+  hunt setups when REH or single STH was formed after 10:00am will be taken during retracement
+- NY Lunch is going to make a run against what has already been in play, kind like a midday retracement. However,
+  these midday retracements sometimes can be midday reversals for the whole day or week (a specially on Fri when it
+  was a bullish week)
+
 ### ICT 2024 Mentorship \ Lecture #8 August 14, 2024
 [ICT 2024 Mentorship \ Lecture #6 August 14, 2024 Begins 9:25am ET](https://www.youtube.com/live/zU7iAqg4sSA?feature=shared&t=3107)
 
@@ -857,7 +993,6 @@ How to trade an -OB:
 
 If we're starting a trading day and we don't know what to do, then we wait for more information.
 We should not trade just because we want to see what will happen. We may have 80% change to lose.
-
 
 ---
 
