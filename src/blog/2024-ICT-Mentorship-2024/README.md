@@ -732,10 +732,32 @@ Valid -OB: as soon price go lower then first ope
 ### ICT 2024 Mentorship \ Lecture #12 August 19, 2024
 [ICT 2024 Mentorship \ Lecture #12 August 19, 2024](https://www.youtube.com/watch?v=EQfTD6ntB4A&list=PLVgHx4Z63paaM41aubnHOmqfeNjSAoBCV&index=12&t=1632s)
 
-Assume "Jackson Hole Symposium" days as a "Non-Farm Payroll" days.
+---
+#### Important points
 
-Around 11:30 during Lunch macro algorith is gonna seek a First Low, which has form after 10:00 butt first to left side
-of already printed candles from 11:30... Why? Because it's a Low that has been created after SB. TODO: Study that part!
+We should always have annotated sessions SSL and BSL: as soon as any of it has been taken, usually we will go opposite
+
+Bias:
+- Initially, when we come to charts, we want to annotate BSL and SSL
+- Also, we should always start from higher TF: where is the market going?
+
+Combine these👆 two and start frame your trade by looking and expecting when the market is completed it opposing
+liquidity run and get in sync with orderflow and higher TF analysis on 1W and 1D. Its 90% accuracy.
+But it's not the only way to trade: we can also trade retracements against that long-term higher TF bias
+
+Study how NY Luch macro will take out profitable traders:
+- If we are Bullish on a day, at 11:30am go back on the chart to find the nearest STL to the left which was formed
+  after 10:00am. Study how often this low will be taken during NY Lunch
+- Similarly, study when we are Bearish how ofter STH formed in between 10:00am and 11:30am was taken during NY Lunch
+- It also can agreed with NWOGs
+
+---
+
+Assume "Jackson Hole Symposium" days as a "Non-Farm Payroll" days, where We have to trade on Monday
+
+Around 11:30 during Lunch macro algorith is going to seek a First Low, which has form after 10:00 butt first to the
+left side of already printed candles from 11:30... Why? Because it's a Low that has been created after SB.
+TODO: Study that part!
 
 Lunch macro is in between 11:30 and 13:30
 
@@ -745,6 +767,9 @@ Macros for last hour:
 - during earnings: at 16:00 and took 15 minutes 
 
 So we should hold at least up to 15:45
+
+NWOG/NDOG will react, but price can go through them, like your kid making a picture and missed lines, but it's okay and
+permissible
 
 ### ICT 2024 Mentorship \ Lecture #11 August 19, 2024 Begins 9:15am ET
 [ICT 2024 Mentorship \ Lecture #11 August 19, 2024 Begins 9:15am ET](https://www.youtube.com/watch?v=aONkyy-HTqE&list=PLVgHx4Z63paaM41aubnHOmqfeNjSAoBCV&index=11&t=667s)
