@@ -727,7 +727,38 @@ Trade once a day! ???? =\
 
 Valid -OB: as soon price go lower then first ope
 
----
+### ICT 2024 Mentorship \ Lecture #13 August 20, 2024 Begins 9:15am ET
+[ICT 2024 Mentorship \ Lecture #13 August 20, 2024 Begins 9:15am ET](https://www.youtube.com/live/LMi_mO3AP08)
+
+TODO: Learn if we can find "bred and butter setups" when we are bullish, and we have bullish weick lower, and price
+trades down into its C.E before run higher right towards inefficiencies and/or NWOGs/NDOGs
+
+ORG ii it was traded through, we want to see if it can be support/resistance to price with will retrace into its
+high/low
+
+TODO: Check on a lower TFs how price will be offered in both directions inside volume imbalances annotated on a dail
+chart. It's not important to us if price goes higher or lower, but it's important to see how price was offered in both
+directions to make inefficiency efficient... to offer traders to exit their long positions or enter shorts higher
+
+FVG can be closed, and we still can hold same directional Bias, because its permissible... But how down it can go if
+FVG is bullish BiSi?
+
+When the price is moving higher as we're expecting, every time when it creates STH and then trades above it, if we have
+ability to take partials, we should do it. So it's important to know, how to run down equity when the market is
+moving in our favor
+
+When the price is dropping after run higher, we don't know when it's done, we have to wait and watch. and we have to
+log that time
+
+Every time the market is taking STH when we are bullish or taking STL when we are bearish, WE MUST take a partials
+instead of moving SL
+
+Model 1:
+On dayd when we are bullish, we want to see ORG open lower to force retail traders short, and after the initial fake
+run lower, we want to see price go higher to close ORG and use it as a support.
+
+Model 2:
+If we have no bias, we can also trade price from an opening to ORG C.E.
 
 ### ICT 2024 Mentorship \ Lecture #12 August 19, 2024
 [ICT 2024 Mentorship \ Lecture #12 August 19, 2024](https://www.youtube.com/watch?v=EQfTD6ntB4A&list=PLVgHx4Z63paaM41aubnHOmqfeNjSAoBCV&index=12&t=1632s)
