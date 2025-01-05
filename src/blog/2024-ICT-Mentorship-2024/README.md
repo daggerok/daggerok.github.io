@@ -727,10 +727,33 @@ Trade once a day! ???? =\
 
 Valid -OB: as soon price go lower then first ope
 
+### ICT 2024 Mentorship \ Lecture #14 August 22, 2024 Begins 9:00am ET
+[ICT 2024 Mentorship \ Lecture #14 August 22, 2024 Begins 9:00am ET](https://www.youtube.com/live/WiMVPc4cvG8)
+
+Before we can understand where the market can go, we have to have higher TF analysis done.
+Whole 2024 Mentorship has been started from a point of showing intraday volatility: where is STHs/STLs, REHs/RELs,
+BSL/SSL... We are doing one of this (but we have to have that idea before to get into a trade):
+- Are we traders that are influenced by inefficiencies? Meaning we want to go into a trade into them or target them as
+  TP
+- Or we are traders that see the H/REHs, and we want to draw on to that H/REHs to get to the BSL just above it?
+- Or we are looking for a Ls that are RELs or singular L and using that as a basis to expectations where the market is
+  going to drop down just to engage SSL?
+- We're maybe trading inside the range and small STL or STH it's a catalyst for us to get into the trade with IOFED
+- When? Macros, after liquidity has been taken
+- Always take partials and move SL to cover commissions and wait to see if an idea has been profitable
+
+On a daily we can use Settlement option on or off in TradingView, we taggling it to get bigger inefficiency on a daily
+chart
+
+Inefficiencies can have inflation after its full closure. Not forget about it as soon it was used. Gaps are not
+onc and done, or filled and forgotten
+
+Different PDArrays can be annotated with and without Settlement enabled
+
 ### ICT 2024 Mentorship \ Lecture #13 August 20, 2024 Begins 9:15am ET
 [ICT 2024 Mentorship \ Lecture #13 August 20, 2024 Begins 9:15am ET](https://www.youtube.com/live/LMi_mO3AP08)
 
-TODO: Learn if we can find "bred and butter setups" when we are bullish, and we have bullish weick lower, and price
+TODO: Learn if we can find "bred and butter setups" when we are bullish, and we have bullish wick lower, and price
 trades down into its C.E before run higher right towards inefficiencies and/or NWOGs/NDOGs
 
 ORG ii it was traded through, we want to see if it can be support/resistance to price with will retrace into its
@@ -754,11 +777,37 @@ Every time the market is taking STH when we are bullish or taking STL when we ar
 instead of moving SL
 
 Model 1:
-On dayd when we are bullish, we want to see ORG open lower to force retail traders short, and after the initial fake
+On days when we are bullish, we want to see ORG open lower to force retail traders short, and after the initial fake
 run lower, we want to see price go higher to close ORG and use it as a support.
 
+Repetition provides a recognition. So to make able to see profitable setups, we should get experience by observing
+our charts. This will train our eyes to see price action which is forming these setups
+
 Model 2:
-If we have no bias, we can also trade price from an opening to ORG C.E.
+If we have no bias, we can also trade price from an opening to ORG C.E:
+- If prise is going lower, it can take C.E or a little bit higher but failed to close ORG, or it may go a little bit
+lower and then drop
+- But if we are bullish and if prise is going to go higher, then price will go up, fully close the gap and go beyond,
+  then it may retrace to H of ORG and find support to go higher...
+
+On high resistance liquidity runs day or seak and destroy days, we can get one trade and beed done as soon as we
+recognized it
+
+On days with good volatility, we can trade a lot and have 3-digits handles/pips in profit with only three loosing
+trades even if the daily range is less than 3-digits... Because we can trade intraday volatility with no bias, back
+and forth:
+- One in the morning, one in the afternoon and one in PM session and been done
+- Or maybe one in the morning, one in the NY Lunch macro after reversal and then been done
+
+Ability to trade intraday volatility without bias it's the highest level of trading, when we can make a lot of money
+
+We should train our eyes to see / calculate quickly 20–30 handles run for MNQ, this means we can get into that trade
+and each time take 10–15 handles profit if that trade is profitable. It's not a guarantee, but we at least can take
+that trade and been either stopped out or bee in profit. All we do is:
+
+Model:
+Look for inefficiencies gravitating towards NDOGs/NWOGs, and ringing in higher TF, so it's not just simply the intraday
+charts, but we are looking at the elements we found on the weekly and the daily charts (see next lectures)
 
 ### ICT 2024 Mentorship \ Lecture #12 August 19, 2024
 [ICT 2024 Mentorship \ Lecture #12 August 19, 2024](https://www.youtube.com/watch?v=EQfTD6ntB4A&list=PLVgHx4Z63paaM41aubnHOmqfeNjSAoBCV&index=12&t=1632s)
