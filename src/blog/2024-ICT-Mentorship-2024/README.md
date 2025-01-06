@@ -753,8 +753,18 @@ Different PDArrays can be annotated with and without Settlement enabled
 ### ICT 2024 Mentorship \ Lecture #13 August 20, 2024 Begins 9:15am ET
 [ICT 2024 Mentorship \ Lecture #13 August 20, 2024 Begins 9:15am ET](https://www.youtube.com/live/LMi_mO3AP08)
 
-TODO: Learn if we can find "bred and butter setups" when we are bullish, and we have bullish wick lower, and price
-trades down into its C.E before run higher right towards inefficiencies and/or NWOGs/NDOGs
+TODO: Calub (ICTs son) Bullish Model: Learn if we can find "bred and butter setups" when:
+- We are bullish, and we have bullish wick lower
+- And price trades down into its C.E before run higher right towards inefficiencies and/or NWOGs/NDOGs
+- And it has to have something like REH or just below it or right at it (NWOG/NDOG) which will be targeted as TP like
+  a magnet draw on liquidity
+
+TODO: Calub's Bearish model:
+- When we are Bearish and we see -FVG
+- And we expect that price should trade lower into NWOG/NDOG
+- And we have something like REL or any other draw on liquidity lower right before REL
+- And price run is 20–30 handles on MNQ
+- Then we can get into the trade to try to get our 10–15 handles profit
 
 ORG ii it was traded through, we want to see if it can be support/resistance to price with will retrace into its
 high/low
@@ -763,18 +773,21 @@ TODO: Check on a lower TFs how price will be offered in both directions inside v
 chart. It's not important to us if price goes higher or lower, but it's important to see how price was offered in both
 directions to make inefficiency efficient... to offer traders to exit their long positions or enter shorts higher
 
-FVG can be closed, and we still can hold same directional Bias, because its permissible... But how down it can go if
-FVG is bullish BiSi?
+If FVG stays open (not fully closed) its strong indication that price is moving in our direction.
+TODO: Try to see when we have FVG on 1-minute chart, and on 15-second chart FVG formed with upper half when it's bullish
+or with lower half when it's bearish. This can support our directional run idea in the short term.
+FVG can be closed, and we still can hold the same directional Bias because its permissible... But how down it can go if
+FVG is bullish BiSi? We need to find mid-point of prior inefficiency and place our SL somewhere to blow it
 
-When the price is moving higher as we're expecting, every time when it creates STH and then trades above it, if we have
-ability to take partials, we should do it. So it's important to know, how to run down equity when the market is
-moving in our favor
+When the price is moving higher as we're expecting, every time when it creates STH and then trades above it, if we can
+take partials, we should do it. So it's important to know, how to run down equity when the market is moving in our
+favor
 
 When the price is dropping after run higher, we don't know when it's done, we have to wait and watch. and we have to
 log that time
 
 Every time the market is taking STH when we are bullish or taking STL when we are bearish, WE MUST take a partials
-instead of moving SL
+instead of moving SL. Every STH, which is broken, we should take a partials
 
 Model 1:
 On days when we are bullish, we want to see ORG open lower to force retail traders short, and after the initial fake
@@ -790,7 +803,7 @@ lower and then drop
 - But if we are bullish and if prise is going to go higher, then price will go up, fully close the gap and go beyond,
   then it may retrace to H of ORG and find support to go higher...
 
-On high resistance liquidity runs day or seak and destroy days, we can get one trade and beed done as soon as we
+On high resistance liquidity runs day or seek and destroy days, we can get one trade and beed done as soon as we
 recognized it
 
 On days with good volatility, we can trade a lot and have 3-digits handles/pips in profit with only three loosing
@@ -803,9 +816,9 @@ Ability to trade intraday volatility without bias it's the highest level of trad
 
 We should train our eyes to see / calculate quickly 20–30 handles run for MNQ, this means we can get into that trade
 and each time take 10–15 handles profit if that trade is profitable. It's not a guarantee, but we at least can take
-that trade and been either stopped out or bee in profit. All we do is:
+that trade and be either stopped out or bee in profit. All we do is:
 
-Model:
+Model (with a TF bias):
 Look for inefficiencies gravitating towards NDOGs/NWOGs, and ringing in higher TF, so it's not just simply the intraday
 charts, but we are looking at the elements we found on the weekly and the daily charts (see next lectures)
 
