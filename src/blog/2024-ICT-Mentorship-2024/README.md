@@ -742,13 +742,22 @@ BSL/SSL... We are doing one of this (but we have to have that idea before to get
 - When? Macros, after liquidity has been taken
 - Always take partials and move SL to cover commissions and wait to see if an idea has been profitable
 
-On a daily we can use Settlement option on or off in TradingView, we taggling it to get bigger inefficiency on a daily
-chart
+On a daily we can use a Settlement option on or off in TradingView, we taggling it to get bigger inefficiency on a
+daily chart
 
-Inefficiencies can have inflation after its full closure. Not forget about it as soon it was used. Gaps are not
-onc and done, or filled and forgotten
+Inefficiencies can have inflation after its full closure. Gaps are not one and done, or filled and forgotten
 
 Different PDArrays can be annotated with and without Settlement enabled
+
+What we should do every day:
+- At 9:30am we annotate ORG and mark OR highest high and OR lowest low of the price until 10:00am.
+  And remember: OR != ORG, ORG is static, but OR is dynamic
+- We should annotate the very first FVG in between 9:30am and 10:00am, because it's very influential
+- We should look not only 1-minute chart but also 15-second charts
+- If we have a bias, we can look and find 1st presented FVG and if it's possible, we can use next TFs:
+  15m, 5m, 4m, 3m, 2m, 1m, 45s, 30s, 15s
+- Many times, ORG won't be filled completely, it may leave half of it or one quadrant of it open and run in opposite,
+  because it will act as FVG
 
 ### ICT 2024 Mentorship \ Lecture #13 August 20, 2024 Begins 9:15am ET
 [ICT 2024 Mentorship \ Lecture #13 August 20, 2024 Begins 9:15am ET](https://www.youtube.com/live/LMi_mO3AP08)
