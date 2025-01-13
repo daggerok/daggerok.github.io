@@ -153,3 +153,117 @@ This is my 2016-2017 ICT Private Mentorship notes
   - [2023 ICT Mentorship](https://www.youtube.com/playlist?list=PLVgHx4Z63pabpjlduWBaEsn8VMtALhjGV)
   - [2024 ICT Mentorship](https://www.youtube.com/playlist?list=PLVgHx4Z63paaM41aubnHOmqfeNjSAoBCV)
   - [2025 ICT Mentorship](https://www.youtube.com/playlist?list=PLVgHx4Z63paYf6xk2a8KKuf2CYJ8SX0Wy)
+
+## ICT Forex Scout Sniper Basic Field Guide Series
+[ICT Forex Scout Sniper Basic Field Guide Series](https://www.youtube.com/watch?v=qstxYesCTQk&list=PLVgHx4Z63paZuvcenUdDQejrBV8iVOhq8&index=1&ab_channel=TheInnerCircleTrader)
+
+We should find a directional bias on HTF and trade in that direction
+
+We should trade in a specific time of day when price can move significantly. To do so correctly, we should
+analyze the price and see when big price moves are happened in the past. FOr example, in a bearish market,
+we can make all highs after which price sharply dropped lower and check if this time of day its Killzone
+(KZ), or maybe Silverbullet (SB)
+
+In bearish market (if the daily chart is poised to move lower) we have a 70% of chance high of the week
+forming by the London Open on Tuesday. Sometimes, Wednesday can take a high of Tuesday London Open high
+during for example, some wild news and that is can be non-profitable trade if we haven't taken partials...
+Sometimes the high of the week can be formed on Monday...
+
+If it's a bullish week, we can expect parice will trade lower on Monday or Tuesday, so we can try to find
+an entry into a trade on a specific levels
+
+We should not get into a trade if we have no key resistance/support on HFT (1D, 4h, 1h)
+
+When the market is doing high or low on a daily chart, these Hs and Ls are significant
+
+Major reaction levels occur on yearly Hs and Ls; Quarterly Hs and Ls (every three months, for example, in a
+block of Jan–Mar, Apr–Jun, Jul–Sep and Oct-Dec, will be significant Hs and Ls); Monthly Hs and Ls; Weekly
+Hs and Ls; Intra-week Hs and Ls (for example, if on Wed we have highes hi or lowest low – that one may be
+a influential); standard Daily Hs and Ls
+
+Remember to focus on a Swing Hs and Ls, these Hs and Ls are very-very strong. We should annotate all three
+candles of that swing H or L. For example, whenever we have a swing high formed on a daily chart, we should
+mark H&L of all three candles of that swing H.
+
+We do not look for a trade in LTF, unless it is trading at the HTF support/resistence levels. That means
+that trade should be formulated around HTF level that we already marked from a daily and/or from 4h TF
+
+When there are a lot of uncertainties, or some global events are happening: war, terrorist attack, etc... we should:
+- reduce our leverage
+- slow down our expectations
+
+When we start new week, we can try to use Fri range
+
+When we see three indians pattern, which is going into the old high, it might be significant.
+We should see if there will be a brake lower, if it is, then we may go short with a high probability setup right after
+reversal
+
+### 10-year T-Notes, Yields
+
+When the 10-year T-Note futures contract is rallying, the Bond (10-year Bond Yield for that 10-year T-Note) would be
+declining.
+And vise versa: when the 10-year T-Note futures contract is dropping, that means that 10-year Bond Yield will be going
+higher
+
+If we want to be a buyer of the currency (for example, EUR/USD) we should do that when the 10-year Bond Yield is
+growing (i.e: 10-year T-Note is dropping).
+That means, as 10-year Bond Yield is going higher, the countries will chase that, because currencies are moving in the
+same direction with 10-year Bond Yield.
+That means, while 10-year T-Note is trading lower on HTF, should be buyer of currencies on that HTF
+
+When we want to risk Max of our allowed leverage (depends on us what these numbers are):
+- For Long trades, we can risk more than for Short trades if the 10-year Bond Yield is rallying higher
+- For Short trades, we can risk more than for Long trades if the 10-year Bond Yield is dropping lower
+- It doesn't means that we cannot see a counter-moves to what we expect, no, we will see how currencies are dropping
+  lower even if 10-year Bond Yield is moving higher ...and we can trade short on such retracements based on HTF
+  analysis... but we will use less leverage for shorts, while if we see a bullish market structure, we can trade with our
+  maximum allowed leverage, because Long trades will be agreed with our 10-year Bond Yield HTF analysis
+
+### Power of three
+
+When there is a small inside day (not Sunday, this one should be ignored completely), then we can expect that next day
+or two real big move will happen.
+We want to trade inside a consolidations when the market is boring...
+And when a big and explosive move happens, we hopefully will be in position, and the market hopefully will be moving in
+our favor, and its duration can be 1 day or 2 days or even three days
+
+On large-range days, the open tends to be at the opposite extreme of the daily range opposed to the close.
+Meaning if it's a big bullish-range day, then open of that day will be lower than close and vise versa: if it's a big
+bearish-range day, then open will be near to the high, while close will be near to the low
+
+Also on a such big-range days, price usually not staying very long time, it will probably take some stops or quickly
+reprice to some key level and then quickly move in its real direction. It means, that wo we should follow when to get
+into a trade and our goal is to catch the whole daily move.
+
+TODO: Backtest this:
+We should hunt to catch a power of three daily range moves in between midnight and 2pm.
+Usually we can see some king of manipulation and then move towards our targets and objectives.
+If this is going to be a big bullish day, then after midnight in London Open we can see some kind of manipulation with
+a fake move below the midnight opening price. Then NY Open can be a continuation up to NY Close. From NY Lunch price
+most likely will not be moving until Asia...
+
+### Killzones (EST)
+- Europe (Hunt Directional Bias):
+    - 02:00am-11:00am Frankfurt
+    - 03:00am-12:00pm London
+- America:
+    - 08:00am-17:00pm NY
+    - 09:00am-18:00pm Chicago
+- Asia (accumulation):
+    - 19:00pm-04:00am Tokyo
+    - 20:00pm-05:00am Hong Kong
+- Pacific (accumulation):
+    - 17:00pm-02:00am Sydney
+    - 17:00pm-01:00am Wellington
+
+#### Frankfurt
+The hunt starts at 02:00am, because the close outcry is at 14:00pm.
+Hunt the move that sets the H or the L of the day.
+Trade Directional bias
+
+#### London
+Frankfurt hunt trade will be closing into London Close or before 14:00pm no matter if we were right on a directional
+bias.
+If we are not in the position before 05:00am, we close our charts and go to sleep until NY Open, somewhere before
+07:00am (for example, at 06:30am we can check charts what is going on...)
+Many times the move starts about 07:00am. Or in between 07:00am and 07:30am, because open outcry is starts at 07:20
