@@ -246,8 +246,10 @@ most likely will not be moving until Asia...
 - Europe (Hunt Directional Bias):
     - 02:00am-11:00am Frankfurt
     - 03:00am-12:00pm London
+      - London Open: 01:00am-05:00am
 - America:
     - 08:00am-17:00pm NY
+      - NY Open: 07:00am-10:00am
     - 09:00am-18:00pm Chicago
 - Asia (accumulation):
     - 19:00pm-04:00am Tokyo
@@ -267,3 +269,32 @@ bias.
 If we are not in the position before 05:00am, we close our charts and go to sleep until NY Open, somewhere before
 07:00am (for example, at 06:30am we can check charts what is going on...)
 Many times the move starts about 07:00am. Or in between 07:00am and 07:30am, because open outcry is starts at 07:20
+
+### Sessions Hs and Ls
+TODO: Backtest this: With the help of marking London H and L, later, we can in NY Open session use OTE for continuation
+
+### Market Make Business Models
+
+#### Market Make Buy Models
+We can participate on a move lower right after the consolidation phase, when price trade lower and then come back to
+low of the initial consolidation or even higher (OTE)
+
+We should not trade and catch the low until we get confirmation that it was a reversal.
+Confirmation can come in form of Market Struncture ShiftL MSS or Brake of Market Structure after a reversal pattern has
+been formed around some support level or after liquidity is taken.
+Many times the price will back and test reversal as support and give a buying opportunity on accumulation phase
+
+We also can get into the trade in optional re-accumulation phase (which may not occur) if we are still in discount
+
+#### Market Make Sell Models
+Same thing as for Market Maker Buy Model, but in reverse:
+
+We always start from consolidation.
+When move out from consolidation, the H of that consolidation usually can be retested (but its optional and doesn't
+always have to happen)
+
+Then price will rally up to clearly defined liquidity (resistance) with reversal formation
+
+Many times we will see how price leaving reversal and come back to re-test reversal low (optional)
+
+Price will not stay long in reversal, usually it happens fast, so we should sell in re-accumulation phase(s)

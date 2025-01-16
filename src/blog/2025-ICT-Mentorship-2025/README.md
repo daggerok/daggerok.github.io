@@ -105,3 +105,7 @@ We should think about next: How do we find a framework uses this information:
 - If we trade before ORG, we should trade with MOR in mind and potential ORG which will form and 9:30am
 - These PDArrays (MOR, ORG) is all about every significant price run (which is worth to measure), which every trader
   wants to be a part of
+
+## 2025 Lecture Series - SMC Trading Opening Range Gaps
+[2025 Lecture Series - SMC Trading Opening Range Gaps](https://youtu.be/pM8oWrcIJqU) it's a lecture about Trading ORGs
+
