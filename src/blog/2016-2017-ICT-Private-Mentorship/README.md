@@ -205,8 +205,8 @@ declining.
 And vise versa: when the 10-year T-Note futures contract is dropping, that means that 10-year Bond Yield will be going
 higher
 
-If we want to be a buyer of the currency (for example, EUR/USD) we should do that when the 10-year Bond Yield is
-growing (i.e: 10-year T-Note is dropping).
+If we want to be a buyer of the currency (for example, EUR/USD), we should do that when the 10-year Bond Yield is
+growing (i.e.: 10-year T-Note is dropping).
 That means, as 10-year Bond Yield is going higher, the countries will chase that, because currencies are moving in the
 same direction with 10-year Bond Yield.
 That means, while 10-year T-Note is trading lower on HTF, should be buyer of currencies on that HTF
@@ -216,8 +216,8 @@ When we want to risk Max of our allowed leverage (depends on us what these numbe
 - For Short trades, we can risk more than for Long trades if the 10-year Bond Yield is dropping lower
 - It doesn't means that we cannot see a counter-moves to what we expect, no, we will see how currencies are dropping
   lower even if 10-year Bond Yield is moving higher ...and we can trade short on such retracements based on HTF
-  analysis... but we will use less leverage for shorts, while if we see a bullish market structure, we can trade with our
-  maximum allowed leverage, because Long trades will be agreed with our 10-year Bond Yield HTF analysis
+  analysis... but we will use less leverage for shorts, while if we see a bullish market structure, we can trade with
+  our maximum allowed leverage, because Long trades will be agreed with our 10-year Bond Yield HTF analysis
 
 ### Power of three
 
@@ -298,3 +298,82 @@ Then price will rally up to clearly defined liquidity (resistance) with reversal
 Many times we will see how price leaving reversal and come back to re-test reversal low (optional)
 
 Price will not stay long in reversal, usually it happens fast, so we should sell in re-accumulation phase(s)
+
+## ICT Forex Scout Sniper Basic Field Guide - Vol. 2
+[ICT Forex Scout Sniper Basic Field Guide - Vol. 2]()
+TODO
+
+## ICT Forex Scout Sniper Basic Field Guide - Vol. 3
+[ICT Forex Scout Sniper Basic Field Guide - Vol. 3]()
+TODO
+
+## ICT Forex Scout Sniper Basic Field Guide - Vol. 4
+[ICT Forex Scout Sniper Basic Field Guide - Vol. 4](https://youtu.be/AzHBXw3bNfM?feature=shared)
+
+### Tracking Institutional Price Action
+As we know, when 10-year T-Note Yields (Bonds) are moving higher on HTF, Foreign Currency price will chase ("seek")
+Yields.
+So when the 10-Year T-Note Futures Market (Bonds) is going lower, that means that Yields will be moving higher and all
+Currencies will be chasing that as well.
+Meaning it will be Bullish for Currencies and Bearish for the US Dollar.
+And vise versa, if 10-Year T-Notes (or Bonds) are rallying on a Futures Market, then that is going to decline Yields,
+and it will be Bullish for the US Dollar and Bearish for Foreign Currencies
+
+Next ICT showed how during ICT Killzones (KZs) we can use Optimal Trade Entry (OTE)
+
+So, this is how we can formulate our idea for Directional Bias.
+It doesn't mean that we will always be buy if Yields are rallying...
+We will be waiting for Bullish setups more and use higher leverage for Bullish ideans than for Bearish
+
+TODO: Backtest this:
+We should clearly see how the Market is moving during ICT KZs.
+So if we are Bullish, and we trade either London Open or NY Open, then we wait for retracement during these KZs and we
+are buying by using OTE
+
+ICT showed that it's important to have annotated London Open and NY Open sessions highs and lows, and also highs and
+lows inside sessions, because they can be used later on retracements as an OTE entry
+
+Pause in between London and NY can be treated as NY Lunch
+
+### Hidden OTE
+When we see a prior big range move, next what we could expect us small range
+
+When we see how RELs were taken with a big NWOG, we can use those REHs as a resistence level and expect that price
+might not be trading lower and closing fully that gap right-away...
+So as opportunity for entry OTC low can use those REHs
+
+We should not pick a tops or lows, we should always wait for MSS
+
+ICT highlighted how KZs are important
+
+Before we get into a trade, we should exactly know:
+- When? KZs
+- Why? Directional Bias
+- How? OTE
+
+When we see these KZs, we should learn to expect some moves and journal them
+
+### Directional Bias: Why Do Markets Move?
+What are catalysts for markets moves?
+
+ICT showed how Moving Average indicators 9 and 18 could be used for Directional Bias.
+It's just a simplified way to read Market Structure.
+Of course, we should read it from Price Actions, but in the beginning we can use HTF charts with Moving Averages
+
+### Long Term Trends
+ICT tells what his tools to read institutional order flow is independent to the markets and doesn't require any
+indicators
+
+What makes trades high-probability?
+It's simply a combination of multiple things:
+- It's in sync with HTF Market charts and current Market environment:
+    - It's Risk-On or Risk-Off?
+    - Is it moving in the same direction as HTF?
+    - Is it moving in accordance with yields?
+- Displacements: Are we in agree with large player displacements?
+
+### ICT no-Brainer Directional Bias
+Displacements and HTF charts sync
+
+### Candlestick patterns
+TODO
