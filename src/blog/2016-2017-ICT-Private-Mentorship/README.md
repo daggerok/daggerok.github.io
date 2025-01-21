@@ -200,10 +200,10 @@ reversal
 
 ### 10-year T-Notes, Yields
 
-When the 10-year T-Note futures contract is rallying, the Bond (10-year Bond Yield for that 10-year T-Note) would be
-declining.
-And vise versa: when the 10-year T-Note futures contract is dropping, that means that 10-year Bond Yield will be going
-higher
+When the 10-year T-Note futures contract (Bond) is rallying, Dollar rallying sd wel, then the 10-year Yield for that
+10-year T-Note would be declining, as well as foreign currencies.
+And vise versa: when the 10-year T-Note futures contract (Bonds) is dropping, that means that 10-year Yield will be
+going higher, Dollar bearish and Foreign currencies bullish
 
 If we want to be a buyer of the currency (for example, EUR/USD), we should do that when the 10-year Bond Yield is
 growing (i.e.: 10-year T-Note is dropping).
@@ -319,11 +319,13 @@ Meaning it will be Bullish for Currencies and Bearish for the US Dollar.
 And vise versa, if 10-Year T-Notes (or Bonds) are rallying on a Futures Market, then that is going to decline Yields,
 and it will be Bullish for the US Dollar and Bearish for Foreign Currencies
 
-Next ICT showed how during ICT Killzones (KZs) we can use Optimal Trade Entry (OTE)
+Next ICT showed how during ICT Killzones (KZs) we can use Optimal Trade Entry (OTE).
+We should see in these specific time intervals (KZs) where market can pull back to enter a trade with specific premise
+in mind that market is going higher because its chasing yields
 
 So, this is how we can formulate our idea for Directional Bias.
 It doesn't mean that we will always be buy if Yields are rallying...
-We will be waiting for Bullish setups more and use higher leverage for Bullish ideans than for Bearish
+We will be waiting for Bullish setups more and use higher leverage for Bullish ideas than for Bearish
 
 TODO: Backtest this:
 We should clearly see how the Market is moving during ICT KZs.
@@ -331,7 +333,7 @@ So if we are Bullish, and we trade either London Open or NY Open, then we wait f
 are buying by using OTE
 
 ICT showed that it's important to have annotated London Open and NY Open sessions highs and lows, and also highs and
-lows inside sessions, because they can be used later on retracements as an OTE entry
+lows inside sessions, because they can be used later on retracements as an OTE entry as support/resistance
 
 Pause in between London and NY can be treated as NY Lunch
 
@@ -376,4 +378,153 @@ It's simply a combination of multiple things:
 Displacements and HTF charts sync
 
 ### Candlestick patterns
+It's pausing
+
+We need institutional sponsorship.
+Institutional trading it's building up position in consolidation.
+When we see move up and then consolidation, then we can expect the next move up relatively the same if measure from a
+consolidation (low) level: 1STDV
+
+If the price comes back to key-level support / resistance, run stops and fail to keep going, then it's in general
+telling us that it was stop raid and price will do major repricing in the opposite direction.
+For example, when we have the +OB and price rallied, then com back, run stops and fail to go lower, it's a sign that
+now with high probability it will go higher
+
+We should buy on down candles. And we should sell on bullish candle
+
+When we see +MSS, we are looking for the first down-candle prior to this move up, and this candle with the overall
+bullish directional bias will be our +OB
+
+### ICT OTE Pattern
+When the market is moving higher and later price comes back, we can find our +OB as a very first bearish candle prior
+to that move higher and wait for OTE at point of (origin) interest (POI).
+We should always enter below Asia high, and even better below Asia low
+
+## ICT Forex Scout Sniper Basic Field Guide - Vol. 5
 TODO
+
+## ICT Forex Scout Sniper Basic Field Guide - Vol. 6
+[ICT Forex Scout Sniper Basic Field Guide - Vol. 6](https://youtu.be/cMQKz7I9-Qs)
+
+For the weekly range, if we are bullish: we are expecting to see a weekly low from Monday London Open to Wednesday
+London Open max. If Low hasn't been formed, then our idea is probably wrong
+
+Stop Loss (SL) should be placed below second swing low on a 15 m TF - 10-15 pips if we are bullish.
+Trail SL like so: move it into break-even when the first target hit and then wait for the second target
+
+## ICT Forex Scout Sniper Basic Field Guide - Vol. 7
+TODO
+
+## ICT Forex Scout Sniper Basic Field Guide - Vol. 8
+[ICT Forex Scout Sniper Basic Field Guide - Vol. 8](https://youtu.be/rpowqxnrU_E)
+Daily and 4h charts should be agreed. If we see move opposing our directional bias, then we don't trade
+
+We are looking for quick and sudden move in price and then wait for retracement into OB + some institutional level
+
+Weekly and Monthly charts are also beneficial. We shouldn't look on them every single day, but we have to look at them
+from time to time...
+
+The Last three daily, last three weekly and last three monthly highs and lows are beneficial to have on our charts,
+because these levels could be sensitive
+
+Look on the charts with weekly perspective is great with 1h chart
+
+If we are bullish, we're hunting Long setups from Mon to Wed, typically weekly low should be established in that period
+and vise versa for shorts
+
+We are not looking for trade every day, we are looking for on shot one kill setup per week consistently (that is should
+be our goal)
+
+Annotate Asia high and low each day
+
+Look for the daily high to form in Sell Models during London Open session.
+If we are bearish, we're generally looking for daily high to form during the London Open, so at this time we can form
+our sell positions.
+And vise versa for Buy Models
+
+Typically high or low of the day will be formed by sharp counter-trend direction on that day (Judas Swing). It's a
+false move initially to fake everyone out and then quickly rejects and go in another way
+
+We should hunt and stack our setups by combining time and price theory: hunt inside KZs and within large OBs, found on
+60-minute, 4-hour and daily TFs
+
+Opposite high or low of daily candle usually forming during London Close (from 11:00am to 12:00pm)
+
+Most of the time NY Open its continuation of London Open, so if we were stopped out in London Open, we can re-entry
+on NY Open
+
+Sometimes NY Open can produce reversals, so we should look on Key levels of support/resistance for these purposes
+
+Focus on 60-minute TF for price reactions for ideal risk/reward trades (1/3)
+
+## ICT - Trading Plan Development
+[ICT - Trading Plan Development](https://www.youtube.com/watch?v=JOy9KzkLlag&list=PLVgHx4Z63paagxlDQdCS3S6-iVKGGGFWz&index=1&ab_channel=TheInnerCircleTrader)
+* Risk control
+* Money management
+* Inter-Market analysis
+* Technical analysis
+* Executing Top-Down analysis
+
+### Tracking countries interest rates (IRs)
+Currencies trend long term based on IRs
+
+Which currency has higher IRs giving us directional bias for stronger currency.
+If country has lower IRs, this currency is weaker
+
+### Seasonal tendency (ST)
+Commodity market is very forecastle by ST
+
+GBP ST:
+- Major low can be made in Feb – March, Jun, Sep – Oct and Dec
+- Major high in Apr – May
+
+this is also seen in stocks as well
+
+If currencies go down, then Bond futures market is go up (Yield is inverted and go down):
+Bond ST:
+- Going up from Apr to May, that means that IRs will go down, and that means currencies lower and that means dollar
+  rally (Risk Off)
+- Bond sideways in between Jan and Feb, and then going down into April-May, that means that IRs increasing and that
+  means Risk-On, dollar lower
+
+### COT
+We should be looking on a HTF (weekly charts) and on large commercial traders positions, so when they are agreed with
+HTF, we will have directional bias for net longs or net shorts
+
+We should maintain and check COT every week.
+We should see commercial traders' positions. Are they bullish or bearish? Are they increasing or decreasing their
+shorts or longs?
+
+### Yield SMT Divergence
+We always watch for divergence:
+- When something is failed to make a higher high, then we probably can see a quarter shift from Risk-on to Risk-off
+- And vise versa: of Yields are failed to make a lower low, then we might see a quarter shift from Risk-off to Risk-on
+
+### USDX / Correlated Pairs SMT Divergence
+Always look for correlated pairs we trade. Do not trade every single market, instead be a specialist in a market you
+trade. Be specialist in one or maximum two markets
+
+### Stock indexes
+- ES
+- NQ
+
+### Open interest (OI)
+We always watch OI or premiums in between nearby and next month out on our currency
+
+### Market sentiment
+If everybody telling on TV/news about something, then usually it will be opposite
+
+### Key support/resistance levels on HTF
+
+### Risk On/Off
+It's good to buy currencies in a Risk-On scenario, but if we're buying then in Risk-Off, it's very-very hard to make
+money in this situation.
+Also, we should be buying if we agreed with HTF.
+We should always trade with a Directional Bias
+
+### Reactionary
+We should kill the trade if we see that everything is going not by our plan:
+- If we are in the trade, and we have little or no movement at all, and we expect a move
+- Why the risk of very low odd setups?
+- We want to risk our money only on high-probability setups
+- If we see a rejection on a key support level if it counters to our move
