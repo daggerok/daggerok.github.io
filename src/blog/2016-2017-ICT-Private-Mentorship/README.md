@@ -528,3 +528,40 @@ We should kill the trade if we see that everything is going not by our plan:
 - Why the risk of very low odd setups?
 - We want to risk our money only on high-probability setups
 - If we see a rejection on a key support level if it counters to our move
+
+### Example
+[TODO TBD](https://youtu.be/FZ6QIWBu688?t=571)
+
+- Check Seasonal Tendencies: Bullish Market environment
+- Check Interest Rates: either price chase higher, or we are looking for IRs SMT Divergences
+- US Dollar is weakening (Risk On) or this is a topping formation
+- Treasury Notes (2-year, 5-year, 10-year) are declining on a daily charts - Inverting Relationship Yields
+- COT: Commertials hopefully being in Net Long positions or Agressive Leesing Shorts positions (we can see it in Open
+  Interest (OI)
+- Sentiment ideally should be oversold on a daily charts (Tool: Daily W%r basis)
+- Stock Indices are Firm to bullish
+- Commodities are bullish, CRB Index firm to bullish
+- Gold and Oil are firm to Bullish
+- Yields triade 2Y/5Y/10Y (US/UK/German or EU)
+    - Bullish divergence (+DIV), when one of yields failed to make a lower low
+    - Bearish divergence (-DIV), when one of yields failed to make an equal highs
+- US Dollar SMT Divergence (USDX SMT):
+    - Bullish +USXS SMT Divergence: If Dollar Index made a lower low, but EUR and/or GBP failed to make a higher high
+      and this is will be bearish for EUR and/or GBP
+    - Bullish +USXS SMT Divergence: If EUR and/or GBP made a higher high, bu t the Dollar Index failed to make
+      lower low, then this is bearish for EUR and/or GBP and bullish for US Dollar
+    - Bearish -USXS SMT Divergence: If Dollar Index made a higher high, but EUR and/or GDP failed to make a lower low
+      and this is will be bullish for EUR and/or GBP
+    - Bearish -USXS SMT Divergence: If EUR and/or GDP failed to made a lower low, but the Dollar Index failed to make
+      higher high, then this is bullish for EUR and/or GBP and bearish for US Dollar
+- Cor. Pairs SMT:
+    - Compare lows on EUR and GBP, if one failed to make a lower low, then this might be a bullish sign for that currency
+    - Compare highs on EUR and GBP, if one failed to make a higher high, then this might be a bearish sign for a currency
+- Stock Indices SMT Divergence between ES, NQ and YM:
+    - Bullish: if one of them failed to make a lower low at key HTF level
+    - Bearish: if one of them failed to make a higher high at key HTF level
+- OI:
+    - Bullish: OI rapidly dropped about 50% at support level
+    - Bearish: OI rapidly increased about 20% or more at resistance level
+
+NOTE: Firm bullish means: indicating unwillingness to go lower
