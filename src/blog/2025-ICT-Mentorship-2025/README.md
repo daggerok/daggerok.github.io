@@ -109,3 +109,6 @@ We should think about next: How do we find a framework uses this information:
 ## 2025 Lecture Series - SMC Trading Opening Range Gaps
 [2025 Lecture Series - SMC Trading Opening Range Gaps](https://youtu.be/pM8oWrcIJqU) it's a lecture about Trading ORGs
 
+## 2025 Lecture Series - SMC Algorithmic Market On Close Macro
+[2025 Lecture Series - SMC Algorithmic Market On Close Macro](https://youtu.be/hc9SDgW93gc)
+

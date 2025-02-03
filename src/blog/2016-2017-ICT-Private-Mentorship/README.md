@@ -565,3 +565,184 @@ We should kill the trade if we see that everything is going not by our plan:
     - Bearish: OI rapidly increased about 20% or more at resistance level
 
 NOTE: Firm bullish means: indicating unwillingness to go lower
+
+#### OI, COT, Risk-Off, Seasonal Tendencies
+[OI, COT, Risk-Off, Weak currencies](https://youtu.be/FZ6QIWBu688?feature=shared&t=2384)
+Typically, in spring we can see a weakness of the marketplace. GBP making seasonal high in Apr–May and then trading
+down into the summer months.
+And it's gonna be a mirror image in reverse in Dollar Index, meaning that Dollar should rally up in summer months.
+If we see that Open Interest (OI) is dropping during a consolidation, this is a commercial traders are tipping their
+hand, that soon this is no longer going to be staying within that smaller consolidation range. They expect that price
+trade higher... Why? Because OI has been declining and they will accumulate (lessening their shorts).
+How to confirm that? We need to see on COT commertials, if they are below zero-line (shorts) and if these shorts are
+reducing, then it's an indicator for us that they are bullish
+
+### ICT - Trading Plan Development 6 (Short-Term Trading)
+[ICT - Trading Plan Development 6](https://youtu.be/s9bg8JF7rm8)
+
+Short-Term Trading Plan Example:
+- See MS (Market Structure), PO3 (Power of Three), MMP (Market Maker Profile)
+- Trade in sync with MS
+- Trade duration from intraday to a few days, 5 days or anything lower than 5 days
+- 50-150 pips per trade
+
+#### Buy
+- Trade long in the observance of a Bullish MMP. See Fractal: it's a pattern that is generally
+  visible
+- Look for price patterns and confluences
+- We will be entering in trade with +FVGs or +OB or OTE
+- Using Fib extension for profits
+
+#### Sell
+- Trade short with a Bearish MMP
+- Look for price patterns and confluences
+- We will be entering in trade with -FVGs or -OB or OTE
+- Using Fib extension for profits
+
+#### Risk
+- Not more than 2%
+- After losing trade reduce risk twice
+- After loosing was mitigated, we can back up to 2%
+- We are looking to remove a risk, go to brake-even and then get something to be paid
+
+#### Market-Market Profile: The Buy Model (MMBM)
+[Market-Market Profile: The Buy Model (MMBM)](https://youtu.be/s9bg8JF7rm8?feature=shared&t=628)
+
+- Consolidation is happening on 1h charts near resistance level (Asia).
+  During consolidation, we will be hunting reversal patterns:
+    - Turtle Soup Sell
+    - -FVG Sell
+    - -Breaker Sell
+    - -OR Sell
+    - +IFVG Sell
+    - Bearish Hammer (Bearish Pin bar)
+    - OTE Sell
+- When a price drops lower after MSS (Market Structure Shift), we can also sell.
+  The price can retest consolidation low, but may and not retrace and continue dropping lower into higher TF
+  key-support level for lons: +FVG, +OB, Sellside Liquidity (key-resistance level for shorts: -FVG, -OB, ...)
+- As soon as Reversal was form with +MSS, we can trade long
+- On distribution and re-distribution phases, we should take some profits, because it may be OTE for shorts continuation
+  on higher TFs
+- As soon as price trades above original consolidation, we should take full profit
+
+#### Market-Market Profile: The Sell Model (MMSM)
+[Market-Market Profile: The Sell Model (MMSM)](https://youtu.be/s9bg8JF7rm8?feature=shared&t=1412)
+
+- The market is pre-dispose to go up
+- Everything else is the same as for MMBM
+
+#### Market Structure (ST)
+[Market Structure (ST)](https://youtu.be/s9bg8JF7rm8?feature=shared&t=1730)
+
+- Short-Term Highs (STHs) and Lows (STLs)
+- Intermediate-Term Highs (ITHs) and Lows (ITLs) with 2 STHs/STLs on a both sides of it
+- Long-Term Highs (LTHs) and Lows (LTLs) with 2 ITHs/ITLs on a both sides of it
+- Price go up to go down. Price go down to go up
+- If on HTF we are Bullish, then our expectation is that we will break resistance and then come back to it as to
+  support. Same vice versa if we are Bearish on a HTF
+
+### ICT - Trading Plan Development 7 (Intraday Trading)
+[ICT - Trading Plan Development 6](https://youtu.be/VCcVx5cbAxU?t=94)
+
+Intraday Trading Plan Example:
+- Trade in sync with MS
+- Trade duration from intraday to overnight
+- 20-100 pips per trade
+- See MS (Market Structure), PO3 (Power of Three), MMP (Market Maker Profile)
+
+#### Buy
+- Trade long on Bullish MMP (Fractal)
+- Look for a price pattern around support levels
+- Entry with OTE, Fib extension for Profit
+- Entry & Exit are based on Time & Price Theory
+
+#### Sell
+- Trade short on Bearish MMP (Fractal)
+- Look for a price pattern around resistence levels
+- Entry with OTE, Fib extension for Profit
+- Entry & Exit are based on Time & Price Theory
+
+#### Risk
+2% / trade
+Risk Management & Control Drawdown
+
+#### Asian Range
+[Asian Range](https://youtu.be/VCcVx5cbAxU?t=584)
+We should trade in the direction of the day and in the direction of the week.
+So if we have daily bias and its in sync with a directional bias, our chances are higher.
+We should use Midnight open for PO3 and as a reference for a new day.
+The Asian Range is a 5-hour window from 19:00 to 24:00 (00:00).
+During the Asian Range, Smart Money preparing for the day.
+
+#### London Open
+If we are bullish, and we're expecting that next week's Friday close will be higher that Sunday's opening, we start
+looking at 1:00am if low can be form during the first 4 hours in the London session. Ideally, we are expecting that may
+happen somewhere in between 2am and 3am, but it may form from in between 2:00am and 4:00am.
+
+TODO:
+- See videos of
+  [how to trade London Open KZ](https://www.youtube.com/watch?v=G8OEsUAoIWE&ab_channel=TheInnerCircleTrader) (Killzones),
+or how to map them out on London Open KZ and NY open KZ
+- See video of
+  [ICT Forex - Trading The Key Swing Points](https://www.youtube.com/watch?v=T0JyGdJ28fM&ab_channel=TheInnerCircleTrader)
+- Daily Bias and PO3 video:
+  [ICT Forex Lesson - Keys To Daily Bias In The Forex Market](https://youtu.be/RLDLuYaZYI4?feature=shared&t=148)
+  - KZs:
+    - FX (Asia) KZ is in between 19:00 and 00:00
+    - FX LO (London Open) KZ is in between 02:00 and noon 05:00
+    - FX NYO (New York Open) KZ is in between 07:00 and 10:00
+    - FX LC (London Close) KZ is in between 10:00 and noon 12:00
+  - PO3:
+    - Daily Bias doesn't mean that price should close higher if we are Bullish (or close lower if we are Bearish)...
+      Daily Bias means that the price will most likely expand higher if we are Bullish (or expand lower if we are
+      Bearish)
+    - If we are Bullish, generally we do not expect a lot of price action below midnight opening at 00:00, it can, but
+      we are just not expecting it
+    - If we are Bullish, we want to buy below opening price, at the opening price or just above it (and reverse if
+      Bearish)
+    - Draw the line from 00:00 to 11:00 every single day and study that PO3 phenomenon. Write notes for every day and
+      observe it. Then you will get that experience, and then you will be able to use it in your trading
+    - If we have a very little manipulation movement and then price expanded also not very far (30–35 pips) and it
+      enters NYO... Generally, in this situation we can retrace and travel below midnight open during NYO session
+      (especially if there is high or medium impact news), so we can catch a low of the day in that way... And then we
+      would expect price to expand into upside...
+    - So the high of the Day is what we are really targeting, not higher Close of the Day than Day Open, becayse we are
+      not required that price should close higher... We want expansion higher if we are Bullish. So, our Input is:
+      Midnight Open and out Output: High of Day
+    - Where may price reach into? The average range of the day: this is something we can use if it's not clear where
+      the high of the day may form...
+    - We should practice to see candles live, how do they burn, live and die. Market replay doesn't help
+    - What high price we are looking for if we are Bullish? We are looking for a Draw On Liquidity.
+    - Liquidity is pending orders that are waiting: Why should the market go up or why should the market go down?
+    - If we are Bullish, then the market can go up to previous daily high or just above it, because there are pending
+      orders - stops of traders that are opened short
+    - Liquidity can be above singular high or REH: relative equals highs if we are Bullish
+    - LO (London Open) can be our first opportunity, and NYO (New York Open) can be our second opportunity to get into
+      a trade
+    - Draw On Liquidity is where the market is likely to go. So old high is our Draw On Liquidity
+    - Institutional Order Flow:
+      - First, we are looking and we try to find it on the Weekly chart:
+        - Where can the next weekly candle go? Higher or lower?
+        - If we cannot determine where the next weekly candle goes, we sit still and wait until Monday, and usually we
+          are wait end of the Monday. What Monday should tell us? Does it provide any inside where weekly candle may go?
+        - Monday can be an expansion day, and we can miss big range, and it's okay
+        - Every time the price starts expansion from a consolidation, we should think: "where is Draw On Liquidity?"
+        - When we see indecisive weekly candle or down weekly candle during range of expansion higher, then it's giving
+          us a high probability for big expansion higher next week
+      - Next, we are looking on a Daily chart:
+        - Bullish Daily Bias doesn't mean Bullish trade every single day
+        - If we lons in London Open, and we lost in New York Open, then we have to stop. We don't need to lose more
+          money, to understand and confirm that we are really-really wrong
+        - If our Bias is Bullish, and we have Bearish Order Block higher, we are looking with this Bullish premise in
+          mind only until we reach the Bearish OB. Our -OB: it's just a target. It doesn't mean that it will reverse,
+          it can, but it doesn't mean this
+      - Next we go into hourly chart
+
+Model for FOMC and other high/medium impact news:
+- If we are bullish (our HTF Bias is Bullish)
+- We had a consolidation
+- Before high impact or medium impact news we took a Buyside first
+- During the news, we took Sellside
+- We have a trade: After manipulation is happened, we can get into trade:
+  - We can either buy near to low during news on manipulation phase
+  - Or we can wait any bullish PDArray after manipulation and buy there
