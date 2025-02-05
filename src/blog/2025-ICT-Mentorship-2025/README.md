@@ -111,4 +111,3 @@ We should think about next: How do we find a framework uses this information:
 
 ## 2025 Lecture Series - SMC Algorithmic Market On Close Macro
 [2025 Lecture Series - SMC Algorithmic Market On Close Macro](https://youtu.be/hc9SDgW93gc)
-

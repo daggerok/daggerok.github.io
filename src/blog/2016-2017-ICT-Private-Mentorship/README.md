@@ -684,9 +684,69 @@ TODO:
   [how to trade London Open KZ](https://www.youtube.com/watch?v=G8OEsUAoIWE&ab_channel=TheInnerCircleTrader) (Killzones),
 or how to map them out on London Open KZ and NY open KZ
 - See video of
-  [ICT Forex - Trading The Key Swing Points](https://www.youtube.com/watch?v=T0JyGdJ28fM&ab_channel=TheInnerCircleTrader)
-- Daily Bias and PO3 video:
-  [ICT Forex Lesson - Keys To Daily Bias In The Forex Market](https://youtu.be/RLDLuYaZYI4?feature=shared&t=148)
+  [ICT Forex - Trading The Key Swing Points](https://youtu.be/T0JyGdJ28fM)
+    - General rule of thumb (Engineering the Liquidity):
+      - AO
+        - Asia Open can be High or Low of the Day
+        - Or it can consolidate ahead of London Open
+      - LO
+        - London Open can be High or Low of the Day
+        - Or it can retrace from the Asian Open
+      - NYO
+        - New York Open also can create a High or a Low of the Day
+        - Or it can be a retracement from London
+      - LC
+        - London Close can be a Low or High of the day (opposite end of the range)
+        - Or it can be a Reversal Point longer term
+    - But it's not always a case, in some instances:
+      - AO will create Daily High or Low
+      - And LO can create opposite Daily Low or High
+    - Or if, for example, Asia creates a Low and then starts run higher:
+      - LO can be a part of the retracement
+      - When AO creates Low or High of the day
+    - So how to use this information?
+      - If Asia creates a High or a Low, and starts to run, and expand outside the Asian Range, then dropdown in London
+        is typically going to be a retracement of initial impuls leg of the move started in Asia. So if we are
+        Bullish, and we assume that Asia created a Low of the day, then we can be Long in London retracement. So LO can
+        be a part of the move that originates from an Asian Open
+      - If, for example, we are Bearish, NYO can raid on Liquidity for both AO and LO (for example, on some high impact
+        news), create High of the Day and then go lower and create Low of the Day
+      - If, for example, we are Bullish, NYO can be part of the retracement from London Open where Low of the Day was
+        form ...and then it can go higher
+      - If we are Bullish, LC can create high of the day. It doesn't need to close higher, it can reverse all the way
+        down lower after, but anyway it may create high of the day after some Buyside liquidity Raid
+      - For example, at the end of the week, on Friday we have traded higher during an LC period. It made high of
+        the week and then next week/day(s) market goes lower, so that last Friday LC was a Reversal Point loner term
+    - So how to use these Swing Points?
+      - We will be using HTF price levels as a resistence or support to expect where price can go
+      - For example, we can see some key resistence level on a Daily chart, and when we see how during LO price came
+        into this level, and we can go short if this level acts as a resistence. So even if the day was Bullish, at
+        this point of time we can be a seller during the London and target the nearest Pool of Liquidity
+      - Practice: Go to 15m or 30m charts and check all the times when the Market turns and creates significant daily
+        Highs and Lows. Also check intra weeks Highs and Lows. And Monthly Highs and Lows. Check where it was formed,
+        what KZ it was. By doing that, we will learn where high probability turning points and when are forming...
+- Daily Bias and PO3 videos:
+  - [ICT Forex - Understanding The ICT Judas Swing](https://youtu.be/xJMbva8SjzE)
+  - [ICT Forex - Essentials To Trading The Daily Bias](https://youtu.be/vJvcZGGeTZU)
+  - [ICT Forex Lesson - Keys To Daily Bias In The Forex Market](https://youtu.be/RLDLuYaZYI4?feature=shared&t=148)
+    - How to reduce it to where we are not struggling:
+      - We should look at least a year for the data of:
+        - Stocks
+        - Commodity
+        - Couple different Forex pairs
+        - Futures Indexes like S&P500
+      - And really tackle, learn, journal, each individual day for every one of them, for the full year
+      - Count and journal:
+        - How many times is the market did go up?
+        - How many times is the market did go down?
+        - How many times is the market did go up and at what day of the week?
+        - How many times is the market did go down and on what day of the week?
+        - Classify bias initially for the weekly range:
+          - Is it going up?
+          - Or it is going down?
+        - What time of the day it made a low of the day?
+        - What time of the day it made a high of the day?
+        - Also check the economic calendar, wait and see for manipulation, and here is our setup
   - KZs:
     - FX (Asia) KZ is in between 19:00 and 00:00
     - FX LO (London Open) KZ is in between 02:00 and noon 05:00
@@ -721,7 +781,7 @@ or how to map them out on London Open KZ and NY open KZ
       a trade
     - Draw On Liquidity is where the market is likely to go. So old high is our Draw On Liquidity
     - Institutional Order Flow:
-      - First, we are looking and we try to find it on the Weekly chart:
+      - First, we are looking, and we try to find it on the Weekly chart:
         - Where can the next weekly candle go? Higher or lower?
         - If we cannot determine where the next weekly candle goes, we sit still and wait until Monday, and usually we
           are wait end of the Monday. What Monday should tell us? Does it provide any inside where weekly candle may go?
@@ -729,7 +789,7 @@ or how to map them out on London Open KZ and NY open KZ
         - Every time the price starts expansion from a consolidation, we should think: "where is Draw On Liquidity?"
         - When we see indecisive weekly candle or down weekly candle during range of expansion higher, then it's giving
           us a high probability for big expansion higher next week
-      - Next, we are looking on a Daily chart:
+      - Next, we are looking on is a Daily chart:
         - Bullish Daily Bias doesn't mean Bullish trade every single day
         - If we lons in London Open, and we lost in New York Open, then we have to stop. We don't need to lose more
           money, to understand and confirm that we are really-really wrong
@@ -737,12 +797,11 @@ or how to map them out on London Open KZ and NY open KZ
           mind only until we reach the Bearish OB. Our -OB: it's just a target. It doesn't mean that it will reverse,
           it can, but it doesn't mean this
       - Next we go into hourly chart
-
-Model for FOMC and other high/medium impact news:
-- If we are bullish (our HTF Bias is Bullish)
-- We had a consolidation
-- Before high impact or medium impact news we took a Buyside first
-- During the news, we took Sellside
-- We have a trade: After manipulation is happened, we can get into trade:
-  - We can either buy near to low during news on manipulation phase
-  - Or we can wait any bullish PDArray after manipulation and buy there
+      - Model for FOMC and other high/medium impact news:
+        - If we are bullish (our HTF Bias is Bullish)
+        - We had a consolidation
+        - Before high impact or medium impact news we took a Buyside first
+        - During the news, we took Sellside
+        - We have a trade: After manipulation is happened, we can get into trade:
+          - We can either buy near to low during news on manipulation phase
+          - Or we can wait any bullish PDArray after manipulation and buy there

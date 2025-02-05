@@ -1599,6 +1599,8 @@ The older NWOG, the lower influence it will have.
 if NDOG or NWOG is lacking one of any sides of delivery (Sellside or Buyside), then later market will react on these
 levels.
 
+If we have LARGE NWOG/NDOG, HRL is what we can expect.
+
 If there is no data in NYam, try to trade NYpm session.
 In this case, be in front of the charts at 13:30 to wait NYpm SB at 14:00.
 If nothing is happened, then we wait for 15:00
