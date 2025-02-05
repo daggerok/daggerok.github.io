@@ -680,6 +680,17 @@ looking at 1:00am if low can be form during the first 4 hours in the London sess
 happen somewhere in between 2am and 3am, but it may form from in between 2:00am and 4:00am.
 
 TODO:
+- Weekly Bias: [ICT Forex - The Weekly Bias - Excellence In Short Term Trading](https://youtu.be/Yqio1Ja0lIQ)
+  - Focus on Opening Price on Sunday, Extend ot until Friday
+  - We will be looking on PO3 for weekly range
+  - 15-30-60 charts can give us intraday swing points
+  - In general, we need to have weekly bias and:
+    - if bullish:
+      - The Low of the week should form below Sunday's opening price
+      - Buy below Sun opening price (oversold condition is when opening price is higher than we want to buy)
+    - if bearish:
+      - The High of the week should form above Sunday's opening price
+      - Sell abow Sun opening price (overbought condition is when opening price is lower than we want to buy)
 - See videos of
   [how to trade London Open KZ](https://www.youtube.com/watch?v=G8OEsUAoIWE&ab_channel=TheInnerCircleTrader) (Killzones),
 or how to map them out on London Open KZ and NY open KZ
@@ -725,6 +736,40 @@ or how to map them out on London Open KZ and NY open KZ
       - Practice: Go to 15m or 30m charts and check all the times when the Market turns and creates significant daily
         Highs and Lows. Also check intra weeks Highs and Lows. And Monthly Highs and Lows. Check where it was formed,
         what KZ it was. By doing that, we will learn where high probability turning points and when are forming...
+- AO: [ICT Forex - The ICT Asian Killzone](https://youtu.be/ley5HZs4bUM)
+  - Monitor from 19:00 to 21:00 (24:00). Whole Asian KZ is from 19:00 to 00:00 (24:00)
+  - Pairs: AUD, NZD, JPY. Pairs which are not crosses with Dollar Index are most active in this time of day (AUS/JPY,
+    GBP/AUD, AUD/JPY, EUR/AUS, GBP/CHF)
+  - 15-20 pips (20-50 pips on non Dollar crosses)
+  - Least active time for trading unless we want to trade pairs mentioned above
+  - We are looking a move which is formed immediately after AO (exit trade prior to FO or LO).
+- LO: [ICT Forex - The ICT London Killzone](https://youtu.be/G8OEsUAoIWE)
+  - Monitor from 2:00 to 5:00
+  - Pairs: EUR, GBP.
+  - 25-50 pips
+  - LO has a highest probability to create High or Low of the day
+  - London Lunch from 5:00 to 7:00
+  - If the London session is trending, we have chances to see quite NY session
+  - If the London session wasn't a trending (traded in a range), then we have chances to see a trending NY session
+  - London session typically creates a Low of the day If we are Bullish
+  - London session typically creates a High of the day If we are Bearish
+  - If we have very narrow consolidation on a Asian Range, we may expact huge move on LO or/and NYO
+    [ICT Forex - Implementing The Asian Range](https://youtu.be/JA0mLNJeytY)
+- NYO: [ICT Forex - The ICT New York Killzone](https://youtu.be/plNN9n7nrxc)
+  - Monitor from 7:00 to 9:00 (In some cases from 7:00 to 14:00)
+  - Pairs of Dollar crosses. Every NYO has a setup for one or more major pairs, not all of them
+  - 20-30 pips
+  - If LO was missed, or we want to mitigate a loss, then NYO session is ideal
+  - NYO is harder to trade than LO, but we have London insides and London overlap New York
+  - One of the characteristics is: Continuation of London where we can get into a trade on a retracement
+  - Another characteristic is: Reversal, which is more complex to expect for developing trader
+- LC: [ICT Forex - The ICT London Close Killzone](https://youtu.be/3OEUIkkcmLE)
+  - Monitor from 10:00 to 12:00
+  - 10-20 pips
+  - Very short-term OTE on 5-minute charts
+  - Can create a Low of the day and then reverse with entry on next higher Low on retracement
+  - Can create continuation points for NY
+  - Can also create a reversal point after price reaches HTF key level (liquidity or turtle soup)
 - Daily Bias and PO3 videos:
   - [ICT Forex - Understanding The ICT Judas Swing](https://youtu.be/xJMbva8SjzE)
   - [ICT Forex - Essentials To Trading The Daily Bias](https://youtu.be/vJvcZGGeTZU)
