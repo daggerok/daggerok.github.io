@@ -679,18 +679,44 @@ If we are bullish, and we're expecting that next week's Friday close will be hig
 looking at 1:00am if low can be form during the first 4 hours in the London session. Ideally, we are expecting that may
 happen somewhere in between 2am and 3am, but it may form from in between 2:00am and 4:00am.
 
-TODO:
-- Weekly Bias: [ICT Forex - The Weekly Bias - Excellence In Short Term Trading](https://youtu.be/Yqio1Ja0lIQ)
-  - Focus on Opening Price on Sunday, Extend ot until Friday
-  - We will be looking on PO3 for weekly range
-  - 15-30-60 charts can give us intraday swing points
-  - In general, we need to have weekly bias and:
-    - if bullish:
-      - The Low of the week should form below Sunday's opening price
-      - Buy below Sun opening price (oversold condition is when opening price is higher than we want to buy)
-    - if bearish:
-      - The High of the week should form above Sunday's opening price
-      - Sell abow Sun opening price (overbought condition is when opening price is lower than we want to buy)
+### Time & Price Theory
+[ICT Forex - Time & Price Theory](https://youtu.be/Sb9m_dxr4bI)
+- Monthly chart:
+    - Bias
+    - Long-Term Key Highs and Lows
+    - Mark Monthly Open prices (P03) and:
+      - Buy below month opening if Bullish until Long-Term Key Level hits
+      - Sell above month opening if Bearish until Long-Term Key Level hits
+- Weekly chart:
+    - Bias
+    - PO3 on specific days to buy below opening if Bullish or sell above Opening Sunday's Price if Bearish
+- Daily chart:
+    - Daily provides Short-Term institutional bias as executable TF
+    - Buy at or below Opening Midnight Price if Bullish
+    - Sell at or above Opening Midnight Price if Bearish
+    - Day trading is not every day trading
+    - Highest probability trade on a Daily will be in agreed with both Weekly and Monthly directional bias
+### How to capture explosive moves
+[ICT Forex - How To Find Explosive Price Moves Before They Happen](https://www.youtube.com/watch?v=uxsmSMsuleY)
+- COT
+- Weekly protraction by using inside bar:
+  If a small body candle was formed after a big one and we have bullish bias, we can buy and expect a big move on the
+  next day(s).
+  Disregard a candles wicks.
+- Same for Daily protraction
+
+### Weekly Bias
+[ICT Forex - The Weekly Bias - Excellence In Short Term Trading](https://youtu.be/Yqio1Ja0lIQ)
+- Focus on Opening Price on Sunday, Extend ot until Friday
+- We will be looking on PO3 for weekly range
+- 15-30-60 charts can give us intraday swing points
+- In general, we need to have weekly bias and:
+- if bullish:
+  - The Low of the week should form below Sunday's opening price
+  - Buy below Sun opening price (oversold condition is when opening price is higher than we want to buy)
+- if bearish:
+  - The High of the week should form above Sunday's opening price
+  - Sell abow Sun opening price (overbought condition is when opening price is lower than we want to buy)
 - See videos of
   [how to trade London Open KZ](https://www.youtube.com/watch?v=G8OEsUAoIWE&ab_channel=TheInnerCircleTrader) (Killzones),
 or how to map them out on London Open KZ and NY open KZ
