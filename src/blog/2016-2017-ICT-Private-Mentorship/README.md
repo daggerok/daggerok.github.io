@@ -674,6 +674,9 @@ We should use Midnight open for PO3 and as a reference for a new day.
 The Asian Range is a 5-hour window from 19:00 to 24:00 (00:00).
 During the Asian Range, Smart Money preparing for the day.
 
+Mark Asia Range for previous Fri and this week Sun/Mon:
+Very often these ranges will act as a support / resistence during a week
+
 #### London Open
 If we are bullish, and we're expecting that next week's Friday close will be higher that Sunday's opening, we start
 looking at 1:00am if low can be form during the first 4 hours in the London session. Ideally, we are expecting that may
@@ -696,6 +699,7 @@ happen somewhere in between 2am and 3am, but it may form from in between 2:00am 
     - Sell at or above Opening Midnight Price if Bearish
     - Day trading is not every day trading
     - Highest probability trade on a Daily will be in agreed with both Weekly and Monthly directional bias
+
 ### How to capture explosive moves
 [ICT Forex - How To Find Explosive Price Moves Before They Happen](https://www.youtube.com/watch?v=uxsmSMsuleY)
 - COT
@@ -719,7 +723,7 @@ happen somewhere in between 2am and 3am, but it may form from in between 2:00am 
   - Sell abow Sun opening price (overbought condition is when opening price is lower than we want to buy)
 - See videos of
   [how to trade London Open KZ](https://www.youtube.com/watch?v=G8OEsUAoIWE&ab_channel=TheInnerCircleTrader) (Killzones),
-or how to map them out on London Open KZ and NY open KZ
+  to know how to map them out on London Open KZ and NY open KZ
 - See video of
   [ICT Forex - Trading The Key Swing Points](https://youtu.be/T0JyGdJ28fM)
     - General rule of thumb (Engineering the Liquidity):
@@ -796,7 +800,8 @@ or how to map them out on London Open KZ and NY open KZ
   - Can create a Low of the day and then reverse with entry on next higher Low on retracement
   - Can create continuation points for NY
   - Can also create a reversal point after price reaches HTF key level (liquidity or turtle soup)
-- Daily Bias and PO3 videos:
+
+### Daily Bias and PO3
   - [ICT Forex - Understanding The ICT Judas Swing](https://youtu.be/xJMbva8SjzE)
   - [ICT Forex - Essentials To Trading The Daily Bias](https://youtu.be/vJvcZGGeTZU)
   - [ICT Forex Lesson - Keys To Daily Bias In The Forex Market](https://youtu.be/RLDLuYaZYI4?feature=shared&t=148)
@@ -876,3 +881,38 @@ or how to map them out on London Open KZ and NY open KZ
         - We have a trade: After manipulation is happened, we can get into trade:
           - We can either buy near to low during news on manipulation phase
           - Or we can wait any bullish PDArray after manipulation and buy there
+
+### ICT Forex Price Action Lesson: Cross Currency Relationships & HTF Institutional Order Flow
+[ICT Forex Price Action Lesson: Cross Currency Relationships & HTF Institutional Order Flow](https://youtu.be/PhwmtkNxxcA?feature=shared&t=797)
+
+Cross-pairs analysis:
+- If the Dollar Index is Bullish on a Daily chart:
+    - And EUR/GBP is Bullish on a Daily chart:
+        - Then EUR/USD is rallying & GBP/USD consolidates
+        - Or EUR/USD consolidates & GBP/USD is dropping
+        - So we want to trade high-probability setup: Sell Short GBP/USD
+        - And we don't want to trade low-probability setups:
+          - Sell Short EUR/USD (we don't want it because EUR/USD is rallying or consolidates)
+          - Buy Long EUR/USD (we don't want it because Dollar Index rallying)
+    - And EUR/GBP is Bearish on a Daily chart:
+        - Then GBP/USD rallying & EUR/USD consolidates
+        - Or GBP/USD consolidates & EUR/USD dropping
+        - So we want to trade high-probability setup: Sell Short EUR/USD
+        - And we don't want to trade low-probability setups:
+            - Sell Short GBP/USD (we don't want it because GBP/USD is rallying or consolidates)
+            - Buy Long GBP/USD (we don't want it because Dollar Index rallying)
+- If the Dollar Index is Bearish on a Daily chart:
+    - And EUR/GBP is Bullish on a Daily chart:
+        - Then EUR/USD is rallying & GBP/USD is also rallying
+        - Or EUR/USD is rallying & GBP/USD consolidates
+        - So we want to trade high-probability setup: Buy Long EUR/USD
+        - And we don't want to trade low-probability setups:
+            - Sell Short GBP/USD (we don't want it because it may rally)
+            - Buy Long GBP/USD (we don't want it because it may consolidate)
+    - And EUR/GBP is Bearish on a Daily chart:
+        - Then GBP/USD is rallying & EUR/USD is also rallying
+        - Or GBP/USD is rallying & EUR/USD consolidates
+        - So we want to trade high-probability setup: Buy Long GBP/USD
+        - And we don't want to trade low-probability setups:
+            - Sell Short EUR/USD (we don't want it because it may rally)
+            - Buy Long EUR/USD (we don't want it because it may consolidate)

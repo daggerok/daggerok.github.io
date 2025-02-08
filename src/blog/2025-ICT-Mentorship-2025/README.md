@@ -111,3 +111,29 @@ We should think about next: How do we find a framework uses this information:
 
 ## 2025 Lecture Series - SMC Algorithmic Market On Close Macro
 [2025 Lecture Series - SMC Algorithmic Market On Close Macro](https://youtu.be/hc9SDgW93gc)
+
+## 2025 Lecture Series - Algorithmic Price Delivery Continuum
+[2025 Lecture Series - Algorithmic Price Delivery Continuum](https://youtu.be/vgG9JAKwng4)
+
+FVG should form every 15-minutes on a 15m or 5m TF chart.
+If it wasn't formed, then we know we are in a high resistance liquidity (HRL) conditions.
+If it wasn't formed, we sit still and wait for the next 15 minutes.
+If it wasn't formed until the end of the session, then whole that session was a HRL.
+Every new hour candle we watch 1h chart for the insides.
+Similarly, every 15 m candle we watch for the insides.
+Also, every 5 m...
+So we start from higher TF and then lower, lower...
+1h, 15m, 5m, 4m, 3m, 2m, 1m...
+Ideally, we should start from 1h → 15m → 5m → 1m
+
+ICT can have a trade every single hour:
+- aim for FVG
+- use existing FVG
+- but we are waiting for FVG where everything is a lineup. Read what it means lower:
+
+### High frequency trading Model
+If we are looking for Bullish setups:
+- We are waiting for +FVG, or:
+- We are waiting for -FVG failed and then become -IFVG
+- If everything is aligned price came into this FVG before or at about Macro time: we know what is going to happen, the
+  price is going to start spooling
