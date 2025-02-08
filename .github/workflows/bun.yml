@@ -30,13 +30,20 @@ jobs:
             ~/.bun
             ~/.npm
             ~/.node
+            ~/.local
           key: ${{ runner.os }}-${{ hashFiles('**/workflows/*.yml', '**/package.json') }}
       - run: |
           PATH="$HOME/.bun/bin:$PATH" command -v bun >/dev/null 2>&1 || {
-            echo >&2 "Bun is required but not installed."       ;
-            curl -fsSL https://bun.sh/install | bash            ;
-            export BUN_VERSION=`${HOME}/.bun/bin/bun --version` ;
-            echo "Installed ${BUN_VERSION} version of bun."     ;
+            echo >&2 "Bun is required but not installed."           ;
+            curl -fsSL https://bun.sh/install | bash                ;
+            export BUN_VERSION=`${HOME}/.bun/bin/bun --version`     ;
+            echo "Installed ${BUN_VERSION} version of bun."         ;
+            echo >&2 "mkdir -pv ~/.local/bin"                       ;
+            mkdir -pv ~/.local/bin                                  ;
+            echo >&2 "ln -sv $HOME/.bun/bin/bun ~/.local/bin/bun"   ;
+            ln -sv $HOME/.bun/bin/bun ~/.local/bin/bun              ;
+            echo >&2 "ln -sv $HOME/.bun/bin/bunx ~/.local/bin/bunx" ;
+            ln -sv $HOME/.bun/bin/bunx ~/.local/bin/bunx            ;
           }
       # set bun job outputs
       - id: home

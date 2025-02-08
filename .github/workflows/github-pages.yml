@@ -13,10 +13,8 @@ concurrency:
   group: "pages"
   cancel-in-progress: true
 jobs:
-  # Reusable bun env:
   bun:
     uses: ./.github/workflows/bun.yml
-  # Build job:
   build:
     needs: bun
     runs-on: ubuntu-latest
@@ -34,8 +32,9 @@ jobs:
             ~/.bun
             ~/.npm
             ~/.node
+            ~/.local
           key: ${{ runner.os }}-${{ hashFiles('**/workflows/*.yml', '**/package.json') }}
-      - run: echo "${{ needs.bun.outputs.BUN_BIN }}" >> "$GITHUB_PATH"
+      #- run: echo "${{ needs.bun.outputs.BUN_BIN }}" >> "$GITHUB_PATH" # because of ~/.local/bin
       - run: bun install -E
       - run: bun run build-github-pages
       - name: Fix permissions

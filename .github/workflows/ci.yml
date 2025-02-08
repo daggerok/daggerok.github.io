@@ -22,8 +22,9 @@ jobs:
             ~/.bun
             ~/.npm
             ~/.node
+            ~/.local
           key: ${{ runner.os }}-${{ hashFiles('**/workflows/*.yml', '**/package.json') }}
-      - run: echo "${{ needs.bun.outputs.BUN_BIN }}" >> "$GITHUB_PATH"
+      #- run: echo "${{ needs.bun.outputs.BUN_BIN }}" >> "$GITHUB_PATH" # because of ~/.local/bin
       - run: bun install -E
       - run: bun run build
       - run: bunx npm-check-updates -u
