@@ -137,3 +137,26 @@ If we are looking for Bullish setups:
 - We are waiting for -FVG failed and then become -IFVG
 - If everything is aligned price came into this FVG before or at about Macro time: we know what is going to happen, the
   price is going to start spooling
+
+## Shotgun Saturday February 08, 2025
+[Shotgun Saturday February 08, 2025](https://youtu.be/Oyn8OeGVL_4?)
+
+In January usually hard to trade, because the price is maybe very choppy.
+ICT starts to trade in the second week of Feb
+
+We should always mark previous days and sessions highs and lows and what's the equilibrium. NDOGs, NWOGs
+
+For example, if we trade NYpm session, we should clearly see what NYam session's high and low and what the equilibrium.
+What was NDOGs for the last 5 days. Where are NWOGs for the last 5 weeks?
+All those values are extremely important, and the market tends to go back to them because they are actual value levels.
+All these gaps what where created there, it's going to be referring to it multiple times, not just once, so we don't
+forget about it
+
+So in this period at the beginning of the year we should be very nimble and target low-hanging fruit goals
+
+### When to trade?
+Probably in May, Jun and at the beginning of July, we should have amazing volatility.
+It may start as last week of March, but typically mid-April and going into May 
+
+And then a second part is in fall: last week of Aug, Sep, Oct, Nov and the first two weeks of Dec we will
+have nice volatility as well

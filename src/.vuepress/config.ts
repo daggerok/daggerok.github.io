@@ -22,9 +22,10 @@ const themeConfig = {
         '/': {
             lang: 'en-US',
         },
-        '/ru/': {
-            lang: 'ru-RU',
-        },
+        // // TODO: FIXME: Uncomment ru will be useful...
+        // '/ru/': {
+        //     lang: 'ru-RU',
+        // },
     },
 };
 
