@@ -916,3 +916,6 @@ Cross-pairs analysis:
         - And we don't want to trade low-probability setups:
             - Sell Short EUR/USD (we don't want it because it may rally)
             - Buy Long EUR/USD (we don't want it because it may consolidate)
+
+## ICT - Mastering High Probability Scalping Vol. 1 of 3
+[ICT - Mastering High Probability Scalping Vol. 1 of 3](https://youtu.be/uE-aaP16nOw)

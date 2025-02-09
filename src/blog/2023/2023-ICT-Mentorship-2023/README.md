@@ -3,6 +3,11 @@ This is my ICT 2023 Mentorship notes in reverse (descending by date) order.
 
 ## 2023
 
+### ICT Mentorship 2023 - Proper Learning & The Importance Of Journaling
+[ICT Mentorship 2023 - Proper Learning & The Importance Of Journaling](https://youtu.be/FQqwmDJOtxk?feature=shared)
+
+This is a crucial video where ICT showed how to journal
+
 ### [Tuesday May 23, 2023 Forex & Spooz Market Review](https://www.youtube.com/live/hcSGlyfgKgA?si=hyMnLnXKVG523L5t&t=1570)
 
 How does ICT know if FVG will not be filled or should stay open?
