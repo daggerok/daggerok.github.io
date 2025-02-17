@@ -21,7 +21,41 @@ This is my 2016-2017 ICT Private Mentorship notes
         - [ICT Forex Scout Sniper Basic Field Guide Series](https://www.youtube.com/watch?v=qstxYesCTQk&list=PLVgHx4Z63paZuvcenUdDQejrBV8iVOhq8&index=1&ab_channel=TheInnerCircleTrader)
         - [ICT Forex Precision Trading Concepts Series](https://www.youtube.com/watch?v=nHUtxQj5jks&list=PLVgHx4Z63paZ2CGeQuqDoCd0qv2df9_p5&index=1&ab_channel=TheInnerCircleTrader)
         - [ICT Forex - Market Maker Primer Course](https://www.youtube.com/watch?v=7WM8qdkanIY&list=PLVgHx4Z63paah1dHyad1OMJQJdm6iP2Yn&index=1&ab_channel=TheInnerCircleTrader)
-      - [How Market Makers Condition The Market](https://www.youtube.com/watch?v=XwYYWBttWro&list=PLVgHx4Z63paYzh3KwUFX0UHQUf31CAEXk&index=2&ab_channel=TheInnerCircleTrader)
+        - [How Market Makers Condition The Market](https://www.youtube.com/watch?v=XwYYWBttWro&list=PLVgHx4Z63paYzh3KwUFX0UHQUf31CAEXk&index=2&ab_channel=TheInnerCircleTrader)
+          ```
+                   +---+
+             +---> | E | <---+
+             |     +---+     |
+          +--V--+    ^    +--V--+
+          | Ret |    |    | Rev |
+          +-----+    V    +-----+
+             |     +---+     |
+             +---> | C | <---+
+                   +---+
+          ```
+          Where:
+            - C: consolidation
+            - E: expansion
+            - Ret: Retracement
+            - Rev: Reversal
+          Never:
+            - C -> Rev
+            - C -> Ret
+            - C -> E -> C
+          It can:
+            - C -> E
+            - E -> Ret
+            - E -> Rev
+            - Rev -> C
+            - Ret -> C
+            - C -> E -> Ret
+            - C -> E -> Rev
+          Daily range:
+            - C (Asia) -> E -> Rev (London Open) -> E -> C (NY Open) -> E (NYO SB) -> Rev (NYL) -> C (NYC)
+            - C (Asia) -> E -> Rev (London Open) -> E -> Ret (NY 8:00-8:30) -> E (NYO SB) -> C (NYL or NYC)
+          Weekly range:
+            - C (Sun Open) -> E (Mon) -> Rev (Mon or Tue) -> E -> C (Mid week) -> Ret (Thu) -> E (Fri) -> C
+            - C (Sun Open) -> E (Mon) -> Rev (Mon or Tue) -> E -> C (Mid week) -> Rev (Thu or Fri) -> C
       - [What To Focus On Right Now](https://www.youtube.com/watch?v=B7_cjybYQ0g&list=PLVgHx4Z63paYzh3KwUFX0UHQUf31CAEXk&index=3&ab_channel=TheInnerCircleTrader)
       - [Equilibrium Vs. Discount](https://www.youtube.com/watch?v=qC0LogyIk2I&list=PLVgHx4Z63paYzh3KwUFX0UHQUf31CAEXk&index=4&ab_channel=TheInnerCircleTrader)
       - [Equilibrium Vs. Premium](https://www.youtube.com/watch?v=YuefjnUKQdM&list=PLVgHx4Z63paYzh3KwUFX0UHQUf31CAEXk&index=5&ab_channel=TheInnerCircleTrader)
@@ -112,6 +146,17 @@ This is my 2016-2017 ICT Private Mentorship notes
       - [ICT Amplified Daytrading & Scalping -3- 20 Pips Per Day](https://www.youtube.com/watch?v=km0haQkTalc&list=PLVgHx4Z63paZfDRSk94aEMoYKUBqQgj0b&index=3&ab_channel=TheInnerCircleTrader)
       - [ICT Amplified Daytrading & Scalping -4- Trading In Consolidations](https://www.youtube.com/watch?v=g7jchu4g31c&list=PLVgHx4Z63paZfDRSk94aEMoYKUBqQgj0b&index=4&ab_channel=TheInnerCircleTrader)
       - [ICT Amplified Daytrading & Scalping -5- Trading Market Reversals](https://www.youtube.com/watch?v=KrGTimL3YRQ&list=PLVgHx4Z63paZfDRSk94aEMoYKUBqQgj0b&index=5&ab_channel=TheInnerCircleTrader)
+        - Trading previous day's high: Raid Buy Stops and Reverse lower
+        - Trading previous day's low: Raid Sell Stops and Reverse higher
+        - Trading intra-week high: Raid Buy Stops and Reverse lower
+        - Trading intra-week low: Raid Sell Stops and Reverse higher
+        - Trading ITH: Raid Buy Stops and Reverse lower
+        - Trading ITL: Raid Sell Stops and Reverse higher
+        - NY session reversals. Usually NYO is a continuation of LO, but sometimes NYO can be a reversal depends on HTF
+        - LC reversal in between 10:000 and 11:00, but:
+          - The Range of the day should be big
+          - Before reversal, price should expand very fast
+          - If we traded in a Key HTF level
       - [ICT Amplified Daytrading & Scalping -6- Bread & Butter Buy Setups](https://www.youtube.com/watch?v=OVfn-gDk2dE&list=PLVgHx4Z63paZfDRSk94aEMoYKUBqQgj0b&index=6&ab_channel=TheInnerCircleTrader)
       - [ICT Amplified Daytrading & Scalping -7- Bread & Butter Sell Setups](https://www.youtube.com/watch?v=-oMtfDvc18Y&list=PLVgHx4Z63paZfDRSk94aEMoYKUBqQgj0b&index=7&ab_channel=TheInnerCircleTrader)
       - [ICT Amplified Daytrading & Scalping -8- ICT Day Trade Routine](https://www.youtube.com/watch?v=cqf8nH54bb8&list=PLVgHx4Z63paZfDRSk94aEMoYKUBqQgj0b&index=8&ab_channel=TheInnerCircleTrader)
@@ -919,3 +964,14 @@ Cross-pairs analysis:
 
 ## ICT - Mastering High Probability Scalping Vol. 1 of 3
 [ICT - Mastering High Probability Scalping Vol. 1 of 3](https://youtu.be/uE-aaP16nOw)
+
+## Getting Started In ICT Scalping Concepts
+[Getting Started In ICT Scalping Concepts](https://www.youtube.com/live/T6SHwmf2DXI)
+
+Always have next institutional levels:
+- 00
+- 50
+- 20
+- 80
+
+Price will gravitate to them and most importantly, react. So by having them we can predict logical highs and / or lows

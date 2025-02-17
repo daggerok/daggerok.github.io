@@ -17,3 +17,9 @@ If the Dollar Index is bearish, then we can buy EURUSD or GBPUSD.
 If the Dollar Index is sideways, then we should be looking crosses, like EURGBP, if that is bullish then we know what
 to trade: EURUSD.
 If the Dollar Index is in swing, then crosses might be in consolidation
+
+We're going to be mad when Mon and Tue, and Wed when we think its bearish, but they do not give us sell days.
+We need to study when this occurs in reference of weekly chart and daily chart.
+- Did we just run down to the old low and run through old low?
+- Or we run down to the old and retrace? Sometimes it can retrace way more deper in premium, and the on following week
+  we can expect a selling days on Mon, Tue and Wed of the following week
