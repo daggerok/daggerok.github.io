@@ -168,8 +168,8 @@ Key points:
 * If we have both Buyside and Sellside, the Market can be in a Holding Pattern (or Time Distortion). However, as soon
   as one of the sides is taken, there will be a lot of volatility, and price may go very quickly to the opposite side
 * When we see a gap like VI (Volume Imbalance), but without wicks, meaning there is a completely empty and non-filled
-  gap, ICT called it Pseudo Gap (PG). If after Buyside, the price rejected lower through that PG, we should mark its
-  C.E.
+  gap, ICT called it Pseudo Gap (PG) or Daily Volume Imbalance Pseudo Gap (Daily VI PG). If after Buyside, the price
+  rejected lower through that PG, we should mark its C.E.
 * When C.E. of PD Array is failed, it's a signal that the Market is really wanted to go opposite. For example, if price
   failed to reach SiBi C.E, this means that price is really heavy and will go down
 * Inside day (ID) is when daily high is lower than previous day high, and daily low is lower than previous day low. So
