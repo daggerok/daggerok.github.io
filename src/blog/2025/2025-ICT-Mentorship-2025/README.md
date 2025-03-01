@@ -160,3 +160,22 @@ It may start as last week of March, but typically mid-April and going into May
 
 And then a second part is in fall: last week of Aug, Sep, Oct, Nov and the first two weeks of Dec we will
 have nice volatility as well
+
+## 2025 Lecture Series - NQ Weekly Summary \ 02/28/2025
+[2025 Lecture Series - NQ Weekly Summary \ 02/28/2025](https://youtu.be/-L9XMj50XG0?feature=shared)
+
+Key points:
+* If we have both Buyside and Sellside, the Market can be in a Holding Pattern (or Time Distortion). However, as soon
+  as one of the sides is taken, there will be a lot of volatility, and price may go very quickly to the opposite side
+* When we see a gap like VI (Volume Imbalance), but without wicks, meaning there is a completely empty and non-filled
+  gap, ICT called it Pseudo Gap (PG). If after Buyside, the price rejected lower through that PG, we should mark its
+  C.E.
+* When C.E. of PD Array is failed, it's a signal that the Market is really wanted to go opposite. For example, if price
+  failed to reach SiBi C.E, this means that price is really heavy and will go down
+* Inside day (ID) is when daily high is lower than previous day high, and daily low is lower than previous day low. So
+  when the Market is moving lower, and creating a small ID, we should expect a huge move on the next trading day in the
+  direction of the Bias
+* Keep key levels inside notes in price order, for example, on top FVG High, then C.E. and then FVG Low, etc...
+* Immediate Rebalance (IR), for example, Bearish: is when current today's candle High touched day before yesterday's
+  candle low and rejected. So if that Bearish IR has happened in a range of some old PDArray (like Order Block or FVG),
+  meaning it's using that old range...

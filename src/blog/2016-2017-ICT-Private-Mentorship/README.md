@@ -21,41 +21,7 @@ This is my 2016-2017 ICT Private Mentorship notes
         - [ICT Forex Scout Sniper Basic Field Guide Series](https://www.youtube.com/watch?v=qstxYesCTQk&list=PLVgHx4Z63paZuvcenUdDQejrBV8iVOhq8&index=1&ab_channel=TheInnerCircleTrader)
         - [ICT Forex Precision Trading Concepts Series](https://www.youtube.com/watch?v=nHUtxQj5jks&list=PLVgHx4Z63paZ2CGeQuqDoCd0qv2df9_p5&index=1&ab_channel=TheInnerCircleTrader)
         - [ICT Forex - Market Maker Primer Course](https://www.youtube.com/watch?v=7WM8qdkanIY&list=PLVgHx4Z63paah1dHyad1OMJQJdm6iP2Yn&index=1&ab_channel=TheInnerCircleTrader)
-        - [How Market Makers Condition The Market](https://www.youtube.com/watch?v=XwYYWBttWro&list=PLVgHx4Z63paYzh3KwUFX0UHQUf31CAEXk&index=2&ab_channel=TheInnerCircleTrader)
-          ```
-                   +---+
-             +---> | E | <---+
-             |     +---+     |
-          +--V--+    ^    +--V--+
-          | Ret |    |    | Rev |
-          +-----+    V    +-----+
-             |     +---+     |
-             +---> | C | <---+
-                   +---+
-          ```
-          Where:
-            - C: consolidation
-            - E: expansion
-            - Ret: Retracement
-            - Rev: Reversal
-          Never:
-            - C -> Rev
-            - C -> Ret
-            - C -> E -> C
-          It can:
-            - C -> E
-            - E -> Ret
-            - E -> Rev
-            - Rev -> C
-            - Ret -> C
-            - C -> E -> Ret
-            - C -> E -> Rev
-          Daily range:
-            - C (Asia) -> E -> Rev (London Open) -> E -> C (NY Open) -> E (NYO SB) -> Rev (NYL) -> C (NYC)
-            - C (Asia) -> E -> Rev (London Open) -> E -> Ret (NY 8:00-8:30) -> E (NYO SB) -> C (NYL or NYC)
-          Weekly range:
-            - C (Sun Open) -> E (Mon) -> Rev (Mon or Tue) -> E -> C (Mid week) -> Ret (Thu) -> E (Fri) -> C
-            - C (Sun Open) -> E (Mon) -> Rev (Mon or Tue) -> E -> C (Mid week) -> Rev (Thu or Fri) -> C
+      - [How Market Makers Condition The Market](https://www.youtube.com/watch?v=XwYYWBttWro&list=PLVgHx4Z63paYzh3KwUFX0UHQUf31CAEXk&index=2&ab_channel=TheInnerCircleTrader)
       - [What To Focus On Right Now](https://www.youtube.com/watch?v=B7_cjybYQ0g&list=PLVgHx4Z63paYzh3KwUFX0UHQUf31CAEXk&index=3&ab_channel=TheInnerCircleTrader)
       - [Equilibrium Vs. Discount](https://www.youtube.com/watch?v=qC0LogyIk2I&list=PLVgHx4Z63paYzh3KwUFX0UHQUf31CAEXk&index=4&ab_channel=TheInnerCircleTrader)
       - [Equilibrium Vs. Premium](https://www.youtube.com/watch?v=YuefjnUKQdM&list=PLVgHx4Z63paYzh3KwUFX0UHQUf31CAEXk&index=5&ab_channel=TheInnerCircleTrader)
@@ -975,3 +941,71 @@ Always have next institutional levels:
 - 80
 
 Price will gravitate to them and most importantly, react. So by having them we can predict logical highs and / or lows
+
+
+
+## 2016 ICT Private Mentorship Core Content Month 01
+[2016 ICT Private Mentorship Core Content Month 01](https://www.youtube.com/playlist?list=PLVgHx4Z63paYzh3KwUFX0UHQUf31CAEXk) playlist of eight videos
+
+## ICT Mentorship Core Content - Month 1 - Elements Of A Trade Setup
+Video 1: [ICT Mentorship Core Content - Month 1 - Elements Of A Trade Setup](https://www.youtube.com/watch?v=0LhteuLVuDU&list=PLVgHx4Z63paYzh3KwUFX0UHQUf31CAEXk&index=1&ab_channel=TheInnerCircleTrader)
+
+## ICT Mentorship Core Content - Month 1 - How Market Makers Condition The Market
+Video 2: [ICT Mentorship Core Content - Month 1 - How Market Makers Condition The Market](https://www.youtube.com/watch?v=XwYYWBttWro&list=PLVgHx4Z63paYzh3KwUFX0UHQUf31CAEXk&index=2&ab_channel=TheInnerCircleTrader)
+
+```
+         +---+
+   +---> | E | <---+
+   |     +---+     |
++--V--+    ^    +--V--+
+| Ret |    |    | Rev |
++-----+    V    +-----+
+   |     +---+     |
+   +---> | C | <---+
+         +---+
+```
+Where:
+  - C: consolidation
+  - E: expansion
+  - Ret: Retracement
+  - Rev: Reversal
+Never:
+  - C -> Rev
+  - C -> Ret
+  - C -> E -> C
+It can:
+  - C -> E
+  - E -> Ret
+  - E -> Rev
+  - Rev -> C
+  - Ret -> C
+  - C -> E -> Ret
+  - C -> E -> Rev
+Daily range:
+  - C (Asia) -> E -> Rev (London Open) -> E -> C (NY Open) -> E (NYO SB) -> Rev (NYL) -> C (NYC)
+  - C (Asia) -> E -> Rev (London Open) -> E -> Ret (NY 8:00-8:30) -> E (NYO SB) -> C (NYL or NYC)
+Weekly range:
+  - C (Sun Open) -> E (Mon) -> Rev (Mon or Tue) -> E -> C (Mid week) -> Ret (Thu) -> E (Fri) -> C
+  - C (Sun Open) -> E (Mon) -> Rev (Mon or Tue) -> E -> C (Mid week) -> Rev (Thu or Fri) -> C
+
+## ICT Mentorship Core Content - Month 1 - What To Focus On Right Now
+Video 3: [ICT Mentorship Core Content - Month 1 - What To Focus On Right Now](https://www.youtube.com/watch?v=B7_cjybYQ0g&list=PLVgHx4Z63paYzh3KwUFX0UHQUf31CAEXk&index=3&ab_channel=TheInnerCircleTrader)
+
+- Do a journal:
+  - Daily chart for 9–12 months period view
+  - 4h (3h) chart for 3–4 months period view
+  - 1h chart for 3-week period view
+  - 15m chart for 3–4 days period view
+- Do not forecast price movements right now...
+- Note where price showed a quick movement from a specific level
+- Note recent highs and lows that haven't been retested, they will be influential in the future
+- Note too-clean REH and REL, they also will be influential in the future
+- Note what days weekly Highs and Low form & what KZ it formed in
+- Note daily High & daily Low for every trading day and what KZ it formed in
+- We should have separate charts for analysis and executions because we should be not merry our analysis ideas with a
+  forecasting of price movement. Instead, we should have a plan and follow it only if it appears in price action, but
+  do not believe that price will go to lines and levels we noted on analysis charts, because line was draw here...
+  The Market will do what it is going to do and it is not going to happen just because we want it to happen
+
+## ICT Mentorship Core Content - Month 1 - Equilibrium Vs. Discount
+Video 4: [ICT Mentorship Core Content - Month 1 - Equilibrium Vs. Discount](https://www.youtube.com/watch?v=qC0LogyIk2I&list=PLVgHx4Z63paYzh3KwUFX0UHQUf31CAEXk&index=4&ab_channel=TheInnerCircleTrader)
