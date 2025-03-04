@@ -1008,4 +1008,35 @@ Video 3: [ICT Mentorship Core Content - Month 1 - What To Focus On Right Now](ht
   The Market will do what it is going to do and it is not going to happen just because we want it to happen
 
 ## ICT Mentorship Core Content - Month 1 - Equilibrium Vs. Discount
-Video 4: [ICT Mentorship Core Content - Month 1 - Equilibrium Vs. Discount](https://www.youtube.com/watch?v=qC0LogyIk2I&list=PLVgHx4Z63paYzh3KwUFX0UHQUf31CAEXk&index=4&ab_channel=TheInnerCircleTrader)
+Video 4: [ICT Mentorship Core Content—Month 1 - Equilibrium Vs. Discount](https://www.youtube.com/watch?v=qC0LogyIk2I&list=PLVgHx4Z63paYzh3KwUFX0UHQUf31CAEXk&index=4&ab_channel=TheInnerCircleTrader)
+
+We are not buying just because the price dropped below equilibrium into discount. we are waiting for market when it
+tips its hand
+
+Practice to mark on charts REL/REH and OL (Old Lows) / OH (Old High) to see how does price raid into stops located
+below lows and/or above highs
+
+Also look how 4th candle trades below/above Swing Highs/Lows to train eyes to see these kinds of reversals on live
+Price Action
+
+```        v
+  |        
+ |||       |
+ | ||   | ||
+    |   |||
+    |    |
+    |
+    
+    ^
+```
+
+As soon as after reversals above, the market moved in the opposite direction into equilibrium: that is a fair value
+
+Try to backtest reversals mentioned above and see how price will reverse again on market fair value
+
+So if we in a buy program, our Bias in Bullish, we can see if we can buy below equilibrium (in Discount) together with
+big institutions, when they are buying...
+
+How to know if there are institutional orders below equilibrium? We can clearly see it if Price will react immediately
+
+High Odds moves with high probability are happening after the Market goes below equilibrium
