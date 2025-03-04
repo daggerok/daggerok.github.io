@@ -1005,7 +1005,7 @@ Video 3: [ICT Mentorship Core Content - Month 1 - What To Focus On Right Now](ht
 - We should have separate charts for analysis and executions because we should be not merry our analysis ideas with a
   forecasting of price movement. Instead, we should have a plan and follow it only if it appears in price action, but
   do not believe that price will go to lines and levels we noted on analysis charts, because line was draw here...
-  The Market will do what it is going to do and it is not going to happen just because we want it to happen
+  The Market will do what it is going to do, and it is not going to happen just because we want it to happen
 
 ## ICT Mentorship Core Content - Month 1 - Equilibrium Vs. Discount
 Video 4: [ICT Mentorship Core Content—Month 1 - Equilibrium Vs. Discount](https://www.youtube.com/watch?v=qC0LogyIk2I&list=PLVgHx4Z63paYzh3KwUFX0UHQUf31CAEXk&index=4&ab_channel=TheInnerCircleTrader)
