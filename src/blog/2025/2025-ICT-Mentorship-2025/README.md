@@ -177,5 +177,7 @@ Key points:
   direction of the Bias
 * Keep key levels inside notes in price order, for example, on top FVG High, then C.E. and then FVG Low, etc...
 * Immediate Rebalance (IR), for example, Bearish: is when current today's candle High touched day before yesterday's
-  candle low and rejected. So if that Bearish IR has happened in a range of some old PDArray (like Order Block or FVG),
+  candle low and rejected. One of the signatures of IR is either price will start immediately moving lower or it will
+  do that on a very next candle
+* If that Bearish IR has happened in a range of some old PDArray (like Order Block or FVG),
   meaning it's using that old range...
