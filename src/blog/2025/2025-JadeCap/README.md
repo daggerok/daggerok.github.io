@@ -3,8 +3,8 @@ My JadeCap notes
 
 [[toc]]
 
-## I Made $103,050 in ONE TRADE Using FVGs (Payout Proof)
-[I Made $103,050 in ONE TRADE Using FVGs (Payout Proof)](https://youtu.be/ubcwq78i640)
+## TRADE Using FVGs
+Video: [I Made $103,050 in ONE TRADE Using FVGs (Payout Proof)](https://youtu.be/ubcwq78i640)
 
 * Do HTF analysis, do not rush, we can spend even hour to determine Draw On Liquidity (where the market is going
   to go).
